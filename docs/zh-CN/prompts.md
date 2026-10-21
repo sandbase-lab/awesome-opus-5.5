@@ -2,19 +2,19 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 93 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 87 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (15)
-- [动效](#motion-graphics) (42)
-- [游戏](#game) (2)
-- [产品界面](#ui-demo) (10)
-- [粒子与形状](#particles) (2)
-- [图表图解](#data-viz) (2)
-- [讲解](#explainer) (8)
-- [发布片](#launch-film) (5)
-- [测试对比](#comparison) (7)
+- [3D 场景](#3d-scene) (12)
+- [动效](#motion-graphics) (37)
+- [游戏](#game) (1)
+- [产品界面](#ui-demo) (12)
+- [粒子与形状](#particles) (1)
+- [图表图解](#data-viz) (1)
+- [讲解](#explainer) (9)
+- [发布片](#launch-film) (6)
+- [测试对比](#comparison) (8)
 
 <a id="3d-scene"></a>
 
@@ -32,34 +32,6 @@ Opus 5.5 built THIS detailed 3d world with a lot of weird creative builds in one
 Check it out here:
 monolithwilds.vercel.app
 (prompt is below)
-```
-
-### Three.js鱼缸反射折射与焦散着色器
-
-[@NicolaManzini](https://x.com/NicolaManzini/status/2103499771206156628) · 0:35 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103499771206156628/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103499771206156628?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs.
-The prompt here is roughly. A fishbowl with reflection, refraction and water caustics.
-
-Check it out yourself! And compare it to other models
-threejseval.com/gallery?eval=f…
-```
-
-### Three.js 构建的机械花
-
-[@alannnfx](https://x.com/alannnfx/status/2103512732519854263) · 0:14 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103512732519854263/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103512732519854263?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Gemini 4 pro new checkpoint
-
-build this in one prompt: make a mechanical flower in thee.js 
-
-available on arena ai 
-
-codename is "Gemini 3.8 Flash"
-
-making some SVG to test it and will compare with Opus 5.5 and GPT 6 Astra
 ```
 
 ### 单提示词生成的电影感动画场景
@@ -175,18 +147,6 @@ Opus 在后台一顿敲，海上小火车就这么水灵灵造出来，场景音
 想复现的直接照着改提示词，效率很高！
 
 #Opus55 #雨夜便利店 #三渲二 #微缩场景 #threejs #AI绘画 #日式氛围 #二次元场景 #AI3D #便利店美学 #雨夜氛围感 #Claude #Dario
-```
-
-### Three.js 中在 Minecraft 世界飞行的带翼奶牛
-
-[@TimJayas](https://x.com/TimJayas/status/2109750382113243351) · 0:27 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2109750382113243351/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109750382113243351?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-even Muse-Spark-1.3 looks better than Muse-Wonder?
-
-prompt: create a 3d cow with wings flying in a minecraft world using three.js
-
-i guess it's better only as a personal ai agent rather than a coding agent like opus 5.5/astra
 ```
 
 ### 滚动展开地面的三维场景
@@ -561,20 +521,6 @@ requestAnimationFrame
 镜头向视界面缓…
 ```
 
-### SVG绘制的交通工具演变历史动画
-
-[@HarshithLucky3](https://x.com/HarshithLucky3/status/2102732988262068440) · 1:52 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2102732988262068440/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102732988262068440?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 High in Claude Code 
-
-> animate the entire history of transportation
-
-look at how it transforms from last one 🔥🔥
-
-this is SVG btw
-```
-
 ### 单条语音提示词生成的项目演示
 
 [@donaldjewkes](https://x.com/donaldjewkes/status/2102801274173587569) · 2:22 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2102801274173587569/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102801274173587569?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -701,18 +647,6 @@ Tek kelimeyle muhteşem..
 Prompt: "Ne kadar iyi bir grafik tasarımcısı olduğunu bilmek istiyorum. Bana bunu kanıtlamak
 ```
 
-### 单一提示词生成的动态设计作品集
-
-[@sudo_kiran](https://x.com/sudo_kiran/status/2103463886372696074) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103463886372696074/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103463886372696074?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-No storyboard.
-No detailed instructions.
-Just one prompt to Claude Opus 5.5:
-“Go all out.”
-The result is a 15-second motion design showreel. 🔥
-```
-
 ### 纯代码生成的MakerMap产品动态演示
 
 [@verbove](https://x.com/verbove/status/2103483957266268381) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103483957266268381/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103483957266268381?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -819,34 +753,6 @@ Use this prompt and attach your product logo to Opus 5.5 😉
 "Create an impressive motion design video of a slow-reveal transition that assembles and eventually reveals the TypingMind logo."
 ```
 
-### Lumail动态设计展示视频
-
-[@melvynx](https://x.com/melvynx/status/2103714680577638493) · 0:45 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103714680577638493/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103714680577638493?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-THIS IS INSANE
-
-With Opus 5.5 I generated this video for Lumail.io in less than 10 minutes !!
-
-Prompt :
-
-> make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are for <website url>
-```
-
-### 将网站吉祥物融入的视频动画
-
-[@gouthamjay8](https://x.com/gouthamjay8/status/2103816261339910269) · 0:55 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103816261339910269/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103816261339910269?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-WTF! omg i had to test it myself
-
-i never knew opus 5.5 was this good with video
-
-it saw my website's mascot & brought it in. i didn't even ask.
-
-the prompt below:
-```
-
 ### 全代码实时生成的音画交互实验
 
 [@MiaAI_lab](https://x.com/MiaAI_lab/status/2103837519615774895) · 1:37 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103837519615774895/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103837519615774895?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -885,18 +791,6 @@ Opus 5.5 游戏动效制作提示词来了！
 昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。
 
 顺便还做了一个新的抽卡动画，提示词太长放下面了
-```
-
-### 动态产品演示动态设计作品集
-
-[@sudo_kiran](https://x.com/sudo_kiran/status/2104194783178785203) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2104194783178785203/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104194783178785203?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Motion designers will be laidoff  :(
-I have asked opus 5.5 to make the product demo, I made it like pro
-
-Propmt :
-“Research (your product).Make a dynamic 40-second motion graphics video on (your product) that shows what an incredible motion designer you are. like it's your showreel - Go all out.”
 ```
 
 ### 使用Opus 5.5重制的品牌动效视频
@@ -1524,19 +1418,6 @@ LONG DRIFT
 But drift …
 ```
 
-### 使用Opus编写的像素小游戏
-
-[@zacxbt](https://x.com/zacxbt/status/2103808699466944604) · 0:19 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103808699466944604/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103808699466944604?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-used this prompt to vibe code a pixel game
-
-wake the town up with gm's
-send the last one to the moon 🌕
-
-100% code, no sprites, opus 5.5
-```
-
 <a id="ui-demo"></a>
 
 ## 产品界面
@@ -1729,6 +1610,38 @@ Click the toolbar icon: a line-drawn spider appears on the current page, follows
 - Dark (#161…
 ```
 
+### 复刻TradingView功能的自定义量化终端
+
+[@0xDeniAi](https://x.com/0xDeniAi/status/2110692386854555977) · 0:24 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2110692386854555977/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110692386854555977?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+REA + Opus 5.5 is f*ucking treasure...
+
+Honestly i'm not sure this is legal.
+
+i just reverse engineered how TradingView premium indicators works and rebuilt it as my own quant terminal. every indicator i need, zero subscription. software is cooked
+
+here is how to use REA to rebuild TradingView(prompts included):
+
+-point REA at TradingView’s public interface and map every major feature, from chart interactions to indicators and alerts
+
+-trace how the app behaves when you switch symbols, change timeframes, add indicators, draw levels and save chart layouts
+
+-use REA’s MCP tools to trace the app logic on software you’re allowed to inspect, keeping proven facts and guesses apart
+
+-feed everything into Claude Opus 5.5, which turns the investigation into a technical spec and a step-by-step build plan
+
+-rebuild the charting engine from scratch: real market data, candlesticks, RSI, MACD, Bollinger Bands, drawing tools and saved watchlists
+
+-add a quant backtesting engine that runs strategies on historical data, with fees, slippage and drawdowns counted
+
+-test every piece against what you observed, fix what fails, and keep going until the whole system actually works
+
+-you end up with your own TradingView-style quant research terminal, with source code you control and features you can keep adding forever
+
+Save this. It will probably make you a lot of money. Before you start check the prompt and article below↓
+```
+
 ### 使用Claude Opus逆向工程电视界面
 
 [@0xCodila](https://x.com/0xCodila/status/2111826236586570101) · 0:23 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2111826236586570101/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111826236586570101?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1823,29 +1736,51 @@ Find full prompt below
 Then read the article below on how to reverse-engineer anything
 ```
 
+### 结合 Claude Code 的智能电视语音界面
+
+[@0xCodez](https://x.com/0xCodez/status/2112958529988669742) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2112958529988669742/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112958529988669742?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Holy sh*t, I just turned my TV into Jarvis with Opus 5.5 + ChatGPT voice mode
+
+I reverse-engineered my Samsung TV with Opus 5.5...
+
+1 sentence out loud = 6 Claude Code agents opening on my living room TV. 
+
+here's the full guide step by step:
+
+step 1 → put your Samsung Smart TV and your laptop on the same Wi-Fi
+
+step 2 → paste the prompt below into Claude Code on Opus 5.5 with a photo of Settings → Support → About This TV
+
+step 3 → Opus maps how the TV takes orders and finds the loophole: 
+
+Samsung's own remote-control API on your home network can open any web page in the TV browser
+
+step 4 → it spins up 6 Claude Code agents in a tmux grid on the laptop and streams them as a private page on your Wi-Fi only
+
+step 5 → it builds a tiny "Jarvis" connector with one single tool: open the agent wall. 
+
+ChatGPT voice mode is the ears, the connector is the hands
+
+step 6 → press Allow on the TV once, the last time you touch the remote
+
+step 7 → say "Open Claude Code CLI on my TV" and watch the windows pop in one by one
+
+the result: the laptop does the work, the TV is the control room...
+
+p.s: works on most Samsung Smart TVs with Tizen. 
+
+mine in the video runs Smart Hub. The remote now lives in a drawer
+
+Find full prompt below
+
+Then read the article below on how to reverse-engineer anything
+```
+
 <a id="particles"></a>
 
 ## 粒子与形状
-
-### 单HTML文件的多材质粒子物理引擎
-
-[@cyrilXBT](https://x.com/cyrilXBT/status/2103532793406149036) · 0:44 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103532793406149036/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103532793406149036?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-🚨 Opus 5.5 is the best model launch in 2026
-
-this entire physics engine is one HTML file.
-
-sand, water, oil, fire, lava, plants, steam.
-
-108,000 particles at 60fps.
-
-built with Opus 5.5.
-
-prompt in the replies 👇
-
-follow @cyrilXBT
-```
 
 ### 通过WebGL和GSAP纯代码生成的音乐视频
 
@@ -1883,26 +1818,6 @@ so today i asked claude (opus 5.5, high)
 this came out pretty great and it truly visualized, with steps and connected graphs what everything does
 
 10/10 would recommend
-```
-
-### 原生JS与Canvas绘制的500个可视化示例
-
-[@mhmazur](https://x.com/mhmazur/status/2107459343218057324) · 1:00 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2107459343218057324/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107459343218057324?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-I asked Claude Opus 5.5 to generate 500 examples of visualizations you can create with nothing but the HTML <canvas> element, and it happily obliged:
-
-https://t.co/O3zPhJEDQs
-
-What's mind-blowing about them is that none use Three.js, WebGL, or any library at all. Claude Code created every one in vanilla JavaScript and a 2D canvas: from archival bubble-chamber film of particle collisions and a physically modeled throat that sings vowels to a garden spider spinning its orb web, a dial-up modem screeching through its handshake, and everything in between.
-
-Each visualization also includes a prompt you can copy and paste into Claude Code or Codex to build your own version and take it further. You can even favorite the ones you like so you can quickly find them again later.
-
-Claude estimates that about half of the gallery is classic demos or well-known algorithms that many people have built before, 35-40% is real science, math, or algorithms that rarely show up as interactive demos, and 10-15% is concepts that are "genuinely ours."
-
-Opus, with the help of a voice from ElevenLabs, also made the 60-second launch video below.
-
-I've barely scratched the surface of exploring them all, so let me know if you find any that stand out!
 ```
 
 <a id="explainer"></a>
@@ -2011,6 +1926,32 @@ Newspaper cutouts with mixed-media collage, highly polished: layered paper cutou
 - No text inside the Higgsfield images. Add all text yourself as animated typography.
 - Keep the look consistent across every scene.
 - End on the opening frame so the video loops. Never end on a hard cut.
+```
+
+### Claude Code编排的多智能体协同流程
+
+[@cyrilXBT](https://x.com/cyrilXBT/status/2111744158830621167) · 0:16 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2111744158830621167/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111744158830621167?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+OPUS 5.5 SHOULDN'T BE DOING THE WORK.
+
+It should be writing the PLAN.
+
+Claude Code workflows let Opus write a script that runs a whole swarm of agents in the background.
+
+Opus plans.
+
+Haiku 5.5 scans every file in parallel.
+
+Sonnet 5.5 makes the fixes.
+
+A verifier checks every finding.
+
+Opus only sees what survives.
+
+Your expensive model never reads 100 agent transcripts again.
+
+Setup prompt below 👇
 ```
 
 ### 使用Claude Opus设计多智能体系统
@@ -2204,6 +2145,18 @@ Beats 21-32, outro: the black button expands into the page, staying pill-shaped 
 5. Sound: use a downloaded Mixkit SFX for each event - typing, send pop, each toss, drop impact, card s…
 ```
 
+### 复古游戏发布宣传片与演示
+
+[@doseofcreative](https://x.com/doseofcreative/status/2110407591503491372) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2110407591503491372/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110407591503491372?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+after opus 5.5, every other motion video feels like PowerPoint
+
+prompt
+
+"use higgsfield katana to make a cracked retro game launch video with demo."
+```
+
 <a id="comparison"></a>
 
 ## 测试对比
@@ -2323,4 +2276,39 @@ Same prompt.  Same task.
 Build a cinematic 3D animation explaining how a Tesla-style electric motor works.
 
 Is Opus in trouble?
+```
+
+### 对比不同模型生成Three.js粒子星云效果
+
+[@AYi_AInotes](https://x.com/AYi_AInotes/status/2112521204791918675) · 1:00 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2112521204791918675/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112521204791918675?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+喵个咪，真的感慨啊，这大概是我最近实测 AI 大模型最震撼、也最反直觉的一次。
+现在全网都把 Claude Opus 5.5 当成写代码的天花板，我把同一句 Three.js 指令，同时甩给了它和 MiniMax 刚发的 M3.1 Flash：做出粒子星云、行星光晕，点哪颗星，镜头就平滑飞向哪颗星。
+
+一边是按美金精打细算着调用的闭源顶配旗舰，
+一边是每百万 Token 输出只要 0.6 美元、缓存读取才 0.015 美元的国产极速模型，结果两边全部一次跑通，真的让我蛮惊喜的，
+但是兄弟们，更让我觉得离谱的是左边这个便宜一大截的国产极速战神M3.1 Flash：
+代码初始化阶段，它自己检测出 4 个潜在的渲染报错，不等人催，直接在后台跑测试、当场修好，把帧率稳稳焊死在 60 帧。
+关键是我的提示词里压根没要求做控制面板啊，它还主动在右上角多搓了一套，轨道线、辉光和星云全都能一键开关，交付出来就是开箱即用的完整作品，这个是真的有点牛逼。
+
+右边的 Opus 5.5 则守住了审美的底子：太阳光晕带着强烈的电影镜头感，底部导航栏和木星、海王星的资料卡排版极其讲究，光影和设计品味上，老牌旗舰Claude依然有它独一份的细腻。
+
+但把两边的账单摊在桌面上，任何开发者都绕不开这道残酷的算术题：
+在绝大多数日常前端交互、代码构建和智能体流程里，两者的能力差距，已经远远配不上它们之间的价格鸿沟。
+
+以前咱们搞复杂项目，总觉得必须全程挂着最贵的脑子。
+
+亲手测完这把我才明白，真正能把智能体推向全天候量产的，往往不是高高在上的奢侈品，
+而是M3.1 Flash这种选手，它就是前阵子在榜单上匿名跑了 200T Token 的 Space Bunny，亮明真身后速度拉到上一代 M3 的 3 倍、成本砍掉三分之二，靠极低成本的多轮自检，不知疲倦地替你干完脏活累活。
+
+不过惊艳归惊艳，跑分咱们也得客观看：它拿全场第一的是自动化办公 Automation-Bench（62.2），硬核终端编程 Terminal Bench 4.0 只有 38.1，离 Opus 5 的 51.8 还有实打实的代差。
+
+啃十万行祖传代码库，还得请Claude旗舰出山哈哈，但日常七八成的原型开发和自动化脚本，它已经能稳稳接过去，光这一点就够团队省下大把真金白银了hh。
+
+说实话到现在我心里还感慨的不行，国产模型进化迭代的速度真的越来越快了，也越来越强了，当一个每百万输出才 0.6 美元的快模型学会了自己跑测试、自己抓虫修到 60 帧，国外顶配旗舰靠单次智商筑起的溢价围墙，就已经开始漏风松动了。
+
+看完这组 3D 太阳系，更打动你的是左边功能完备、还能自己抓虫的极客风，还是右边更有电影感的设计风？欢迎铁汁们互动交流，
+
+反正要是让我自己掏腰包跑批量任务，左边这种又快又省还不让人操心的选手，我已经挑不出拒绝的理由了哈哈哈。
 ```

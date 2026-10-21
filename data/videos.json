@@ -471,6 +471,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102712897701097828"
  },
  {
+  "id": "2102716269598294339",
+  "title": "Comparison between Claude Opus 5.5 and GPT-6 Sol",
+  "title_zh": "Claude Opus 5.5与GPT-6 Sol对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vision_ia",
+   "name": "VISION IA"
+  },
+  "postUrl": "https://x.com/vision_ia/status/2102716269598294339",
+  "createdAt": "2026-09-23T11:06:39.000Z",
+  "durationMs": 48000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102716269598294339/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102716269598294339/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102716269598294339"
+ },
+ {
   "id": "2102722719502704941",
   "title": "An explainer animation on special relativity",
   "title_zh": "狭义相对论主题的剪纸风科普动画",
@@ -508,25 +526,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102724347446305104"
  },
  {
-  "id": "2102732988262068440",
-  "title": "Animated history of transportation in SVG",
-  "title_zh": "SVG绘制的交通工具演变历史动画",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "HarshithLucky3",
-   "name": "Harshith"
-  },
-  "postUrl": "https://x.com/HarshithLucky3/status/2102732988262068440",
-  "createdAt": "2026-09-23T12:13:05.000Z",
-  "durationMs": 111550,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102732988262068440/video.mp4",
-  "promptShared": true,
-  "promptText": "Opus 5.5 High in Claude Code \n\n> animate the entire history of transportation\n\nlook at how it transforms from last one 🔥🔥\n\nthis is SVG btw",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102732988262068440/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102732988262068440"
- },
- {
   "id": "2102733714845491558",
   "title": "Long-form AI video with sound",
   "title_zh": "Opus 5.5制作的带音效长视频",
@@ -543,6 +542,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102733714845491558/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102733714845491558"
+ },
+ {
+  "id": "2102735082218004540",
+  "title": "Stickman animation made with JavaScript in HTML",
+  "title_zh": "单 HTML 文件中的 JavaScript 火柴人动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "notjazii",
+   "name": "J A Z I I"
+  },
+  "postUrl": "https://x.com/notjazii/status/2102735082218004540",
+  "createdAt": "2026-09-23T12:21:25.000Z",
+  "durationMs": 24933,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102735082218004540/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102735082218004540/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102735082218004540"
  },
  {
   "id": "2102737051057832358",
@@ -763,24 +780,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102874271316078841"
  },
  {
-  "id": "2102882622053535814",
-  "title": "Deep-sea horror game created with Opus",
-  "title_zh": "使用Opus制作的深海恐怖游戏",
-  "category": "game",
-  "author": {
-   "handle": "ggsimm",
-   "name": "gsimone"
-  },
-  "postUrl": "https://x.com/ggsimm/status/2102882622053535814",
-  "createdAt": "2026-09-23T22:07:41.000Z",
-  "durationMs": 35133,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102882622053535814/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102882622053535814/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102882622053535814"
- },
- {
   "id": "2102885216692162993",
   "title": "Replicating the Mona Lisa in JS Paint",
   "title_zh": "在网页画图工具中复现蒙娜丽莎",
@@ -980,24 +979,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103107359727829318/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103107359727829318"
- },
- {
-  "id": "2103115767206281272",
-  "title": "Surreal interactive road turning into sheet music in Three.js",
-  "title_zh": "Three.js 中化作五线谱的超现实折叠道路",
-  "category": "3d-scene",
-  "author": {
-   "handle": "mdaman010",
-   "name": "Aman"
-  },
-  "postUrl": "https://x.com/mdaman010/status/2103115767206281272",
-  "createdAt": "2026-09-24T13:34:07.000Z",
-  "durationMs": 51818,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103115767206281272/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103115767206281272/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103115767206281272"
  },
  {
   "id": "2103117246860345550",
@@ -1333,24 +1314,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103337314021937232"
  },
  {
-  "id": "2103386522510573967",
-  "title": "Cosmic history animation rendered entirely in Canvas 2D",
-  "title_zh": "纯 Canvas 2D 绘制的宇宙演化历史动画",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "AIMevzulari",
-   "name": "Eray’la Yapay Zeka"
-  },
-  "postUrl": "https://x.com/AIMevzulari/status/2103386522510573967",
-  "createdAt": "2026-09-25T07:30:00.000Z",
-  "durationMs": 50000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103386522510573967/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103386522510573967/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103386522510573967"
- },
- {
   "id": "2103393323520299428",
   "title": "Explorable 3D harbour town in Three.js",
   "title_zh": "基于Three.js的可探索港口小镇三维场景",
@@ -1517,25 +1480,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103459971174130104"
  },
  {
-  "id": "2103463886372696074",
-  "title": "Motion design showreel generated from one prompt",
-  "title_zh": "单一提示词生成的动态设计作品集",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "sudo_kiran",
-   "name": "Kiran"
-  },
-  "postUrl": "https://x.com/sudo_kiran/status/2103463886372696074",
-  "createdAt": "2026-09-25T12:37:25.000Z",
-  "durationMs": 15000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103463886372696074/video.mp4",
-  "promptShared": true,
-  "promptText": "No storyboard.\nNo detailed instructions.\nJust one prompt to Claude Opus 5.5:\n“Go all out.”\nThe result is a 15-second motion design showreel. 🔥",
-  "featured": null,
-  "poster": null,
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103463886372696074"
- },
- {
   "id": "2103469807375208546",
   "title": "Dynamic motion graphics video for Distilbook",
   "title_zh": "Distilbook动态动态图形展示",
@@ -1683,25 +1627,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103497319899693327"
  },
  {
-  "id": "2103499771206156628",
-  "title": "Fishbowl GLSL shader with caustics in Three.js",
-  "title_zh": "Three.js鱼缸反射折射与焦散着色器",
-  "category": "3d-scene",
-  "author": {
-   "handle": "NicolaManzini",
-   "name": "Nicola"
-  },
-  "postUrl": "https://x.com/NicolaManzini/status/2103499771206156628",
-  "createdAt": "2026-09-25T15:00:01.000Z",
-  "durationMs": 34633,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103499771206156628/video.mp4",
-  "promptShared": true,
-  "promptText": "Opus 5.5 does a great job in eval of GLSL (OpenGL Shading Language) in threejs.\nThe prompt here is roughly. A fishbowl with reflection, refraction and water caustics.\n\nCheck it out yourself! And compare it to other models\nthreejseval.com/gallery?eval=f…",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103499771206156628/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103499771206156628"
- },
- {
   "id": "2103499977632997524",
   "title": "A 30-second business explainer video",
   "title_zh": "30秒商业解说视频演示",
@@ -1737,25 +1662,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103505435802341449/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103505435802341449"
- },
- {
-  "id": "2103512732519854263",
-  "title": "Mechanical flower created in Three.js",
-  "title_zh": "Three.js 构建的机械花",
-  "category": "3d-scene",
-  "author": {
-   "handle": "alannnfx",
-   "name": "Alan"
-  },
-  "postUrl": "https://x.com/alannnfx/status/2103512732519854263",
-  "createdAt": "2026-09-25T15:51:31.000Z",
-  "durationMs": 13833,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103512732519854263/video.mp4",
-  "promptShared": true,
-  "promptText": "Gemini 4 pro new checkpoint\n\nbuild this in one prompt: make a mechanical flower in thee.js \n\navailable on arena ai \n\ncodename is \"Gemini 3.8 Flash\"\n\nmaking some SVG to test it and will compare with Opus 5.5 and GPT 6 Astra",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103512732519854263/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103512732519854263"
  },
  {
   "id": "2103517930424332386",
@@ -1813,25 +1719,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103530750767206626"
  },
  {
-  "id": "2103532793406149036",
-  "title": "Multi-material particle physics engine in HTML",
-  "title_zh": "单HTML文件的多材质粒子物理引擎",
-  "category": "particles",
-  "author": {
-   "handle": "cyrilXBT",
-   "name": "CyrilXBT"
-  },
-  "postUrl": "https://x.com/cyrilXBT/status/2103532793406149036",
-  "createdAt": "2026-09-25T17:11:14.000Z",
-  "durationMs": 43500,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103532793406149036/video.mp4",
-  "promptShared": true,
-  "promptText": "🚨 Opus 5.5 is the best model launch in 2026\n\nthis entire physics engine is one HTML file.\n\nsand, water, oil, fire, lava, plants, steam.\n\n108,000 particles at 60fps.\n\nbuilt with Opus 5.5.\n\nprompt in the replies 👇\n\nfollow @cyrilXBT",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103532793406149036/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103532793406149036"
- },
- {
   "id": "2103538744695693512",
   "title": "Motion design video with synthesized music",
   "title_zh": "单提示词生成的动态设计与合成配乐",
@@ -1884,24 +1771,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103555549929566323/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103555549929566323"
- },
- {
-  "id": "2103557735086428547",
-  "title": "Motion design demo with piano score",
-  "title_zh": "配有钢琴谱曲的动态设计演示",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "kloss_xyz",
-   "name": "klöss"
-  },
-  "postUrl": "https://x.com/kloss_xyz/status/2103557735086428547",
-  "createdAt": "2026-09-25T18:50:20.000Z",
-  "durationMs": 90000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103557735086428547/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103557735086428547/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103557735086428547"
  },
  {
   "id": "2103574428475154635",
@@ -2108,25 +1977,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103704250329301409"
  },
  {
-  "id": "2103714680577638493",
-  "title": "Dynamic motion graphics video for Lumail",
-  "title_zh": "Lumail动态设计展示视频",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "melvynx",
-   "name": "Melvyn • Builder"
-  },
-  "postUrl": "https://x.com/melvynx/status/2103714680577638493",
-  "createdAt": "2026-09-26T05:13:59.000Z",
-  "durationMs": 45056,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103714680577638493/video.mp4",
-  "promptShared": true,
-  "promptText": "THIS IS INSANE\n\nWith Opus 5.5 I generated this video for Lumail.io in less than 10 minutes !!\n\nPrompt :\n\n> make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are for <website url>",
-  "featured": null,
-  "poster": null,
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103714680577638493"
- },
- {
   "id": "2103723183899852885",
   "title": "Motion graphic generated with Claude Opus 5.5",
   "title_zh": "用Claude Opus 5.5生成的动态视频",
@@ -2308,62 +2158,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103792451551113363"
  },
  {
-  "id": "2103801828744061307",
-  "title": "Flight simulator over procedural mountains in HTML",
-  "title_zh": "单HTML文件中的程序化山脉飞行模拟器",
-  "category": "game",
-  "author": {
-   "handle": "cyrilXBT",
-   "name": "CyrilXBT"
-  },
-  "postUrl": "https://x.com/cyrilXBT/status/2103801828744061307",
-  "createdAt": "2026-09-26T11:00:17.000Z",
-  "durationMs": 15000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103801828744061307/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103801828744061307/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103801828744061307"
- },
- {
-  "id": "2103808699466944604",
-  "title": "Pixel game vibe coded in Opus",
-  "title_zh": "使用Opus编写的像素小游戏",
-  "category": "game",
-  "author": {
-   "handle": "zacxbt",
-   "name": "zac.eth"
-  },
-  "postUrl": "https://x.com/zacxbt/status/2103808699466944604",
-  "createdAt": "2026-09-26T11:27:35.000Z",
-  "durationMs": 18731,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103808699466944604/video.mp4",
-  "promptShared": true,
-  "promptText": "used this prompt to vibe code a pixel game\n\nwake the town up with gm's\nsend the last one to the moon 🌕\n\n100% code, no sprites, opus 5.5",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103808699466944604/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103808699466944604"
- },
- {
-  "id": "2103816261339910269",
-  "title": "Website mascot brought into video",
-  "title_zh": "将网站吉祥物融入的视频动画",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "gouthamjay8",
-   "name": "Goutham Jay ⚡"
-  },
-  "postUrl": "https://x.com/gouthamjay8/status/2103816261339910269",
-  "createdAt": "2026-09-26T11:57:38.000Z",
-  "durationMs": 55366,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103816261339910269/video.mp4",
-  "promptShared": true,
-  "promptText": "WTF! omg i had to test it myself\n\ni never knew opus 5.5 was this good with video\n\nit saw my website's mascot & brought it in. i didn't even ask.\n\nthe prompt below:",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103816261339910269/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103816261339910269"
- },
- {
   "id": "2103821040174698674",
   "title": "Aeroplane simulator game built with Claude",
   "title_zh": "使用Claude构建的飞机模拟器游戏",
@@ -2492,6 +2286,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103850664007028964/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103850664007028964"
+ },
+ {
+  "id": "2103856583667052674",
+  "title": "Motion graphics video created for owndotpage",
+  "title_zh": "为owndotpage生成的动态设计视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "ElitzaVasileva",
+   "name": "Elitza Vasileva"
+  },
+  "postUrl": "https://x.com/ElitzaVasileva/status/2103856583667052674",
+  "createdAt": "2026-09-26T14:37:51.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103856583667052674/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103856583667052674/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103856583667052674"
  },
  {
   "id": "2103866429741400535",
@@ -2910,25 +2722,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104173625079451934"
  },
  {
-  "id": "2104194783178785203",
-  "title": "Dynamic product demo motion graphics showreel",
-  "title_zh": "动态产品演示动态设计作品集",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "sudo_kiran",
-   "name": "Kiran"
-  },
-  "postUrl": "https://x.com/sudo_kiran/status/2104194783178785203",
-  "createdAt": "2026-09-27T13:01:45.000Z",
-  "durationMs": 30058,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104194783178785203/video.mp4",
-  "promptShared": true,
-  "promptText": "Motion designers will be laidoff  :(\nI have asked opus 5.5 to make the product demo, I made it like pro\n\nPropmt :\n“Research (your product).Make a dynamic 40-second motion graphics video on (your product) that shows what an incredible motion designer you are. like it's your showreel - Go all out.”",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104194783178785203/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104194783178785203"
- },
- {
   "id": "2104206095313215591",
   "title": "An animation explaining UX design decisions",
   "title_zh": "用于解释用户体验设计决策的动效",
@@ -3109,24 +2902,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104435752637710723/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104435752637710723"
- },
- {
-  "id": "2104504619636511106",
-  "title": "Playable Happy Wheels browser game rebuilt by AI",
-  "title_zh": "AI 重构的网页版死亡独轮车游戏",
-  "category": "comparison",
-  "author": {
-   "handle": "Rahmanbarik",
-   "name": "BARIK"
-  },
-  "postUrl": "https://x.com/Rahmanbarik/status/2104504619636511106",
-  "createdAt": "2026-09-28T09:32:55.000Z",
-  "durationMs": 38498,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104504619636511106/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104504619636511106/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104504619636511106"
  },
  {
   "id": "2104525735713206557",
@@ -4002,24 +3777,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106568339917324296"
  },
  {
-  "id": "2106714104689828066",
-  "title": "Generating a 3D animation with Three.js",
-  "title_zh": "使用 Three.js 生成三维动画",
-  "category": "3d-scene",
-  "author": {
-   "handle": "AIMevzulari",
-   "name": "Eray’la Yapay Zeka"
-  },
-  "postUrl": "https://x.com/AIMevzulari/status/2106714104689828066",
-  "createdAt": "2026-10-04T11:52:38.000Z",
-  "durationMs": 142969,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106714104689828066/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106714104689828066/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106714104689828066"
- },
- {
   "id": "2106763583250108511",
   "title": "Interactive water physics with fish and blossoms",
   "title_zh": "包含游鱼与花瓣的交互式水体物理效果",
@@ -4180,24 +3937,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107062652656869444/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107062652656869444"
- },
- {
-  "id": "2107063284230701075",
-  "title": "Warehouse simulation created with Claude Opus",
-  "title_zh": "使用Claude Opus制作的仓库模拟场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "Jomolos",
-   "name": "Can Matrix"
-  },
-  "postUrl": "https://x.com/Jomolos/status/2107063284230701075",
-  "createdAt": "2026-10-05T11:00:08.000Z",
-  "durationMs": 63433,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107063284230701075/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107063284230701075/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107063284230701075"
  },
  {
   "id": "2107073547701289211",
@@ -4366,25 +4105,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107458140279394589"
  },
  {
-  "id": "2107459343218057324",
-  "title": "Five hundred 2D canvas visualizations in vanilla JavaScript",
-  "title_zh": "原生JS与Canvas绘制的500个可视化示例",
-  "category": "data-viz",
-  "author": {
-   "handle": "mhmazur",
-   "name": "Matt Mazur"
-  },
-  "postUrl": "https://x.com/mhmazur/status/2107459343218057324",
-  "createdAt": "2026-10-06T13:13:56.000Z",
-  "durationMs": 60000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107459343218057324/video.mp4",
-  "promptShared": true,
-  "promptText": "I asked Claude Opus 5.5 to generate 500 examples of visualizations you can create with nothing but the HTML <canvas> element, and it happily obliged:\n\nhttps://t.co/O3zPhJEDQs\n\nWhat's mind-blowing about them is that none use Three.js, WebGL, or any library at all. Claude Code created every one in vanilla JavaScript and a 2D canvas: from archival bubble-chamber film of particle collisions and a physically modeled throat that sings vowels to a garden spider spinning its orb web, a dial-up modem screeching through its handshake, and everything in between.\n\nEach visualization also includes a prompt you can copy and paste into Claude Code or Codex to build your own version and take it further. You can even favorite the ones you like so you can quickly find them again later.\n\nClaude estimates that about half of the gallery is classic demos or well-known algorithms that many people have built before, 35-40% is real science, math, or algorithms that rarely show up as interactive demos, and 10-15% is concepts that are \"genuinely ours.\"\n\nOpus, with the help of a voice from ElevenLabs, also made the 60-second launch video below.\n\nI've barely scratched the surface of exploring them all, so let me know if you find any that stand out!",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107459343218057324/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107459343218057324"
- },
- {
   "id": "2107476975812296741",
   "title": "Collaborative motion design editing with AI",
   "title_zh": "与 AI 协同编辑的动态设计",
@@ -4401,6 +4121,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107476975812296741/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107476975812296741"
+ },
+ {
+  "id": "2107484885669617757",
+  "title": "Airplane integration and mechanics refactoring in a game",
+  "title_zh": "游戏中的飞机集成与力学重构",
+  "category": "game",
+  "author": {
+   "handle": "maxt3chno",
+   "name": "Max"
+  },
+  "postUrl": "https://x.com/maxt3chno/status/2107484885669617757",
+  "createdAt": "2026-10-06T14:55:26.000Z",
+  "durationMs": 110166,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107484885669617757/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107484885669617757/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107484885669617757"
  },
  {
   "id": "2107488996490166538",
@@ -4714,24 +4452,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107903382216188292"
  },
  {
-  "id": "2107940738516312145",
-  "title": "Motion graphics explainer on an AI math paper",
-  "title_zh": "AI 数学论文动态图形讲解视频",
-  "category": "explainer",
-  "author": {
-   "handle": "minchoi",
-   "name": "Min Choi"
-  },
-  "postUrl": "https://x.com/minchoi/status/2107940738516312145",
-  "createdAt": "2026-10-07T21:06:50.000Z",
-  "durationMs": 92000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107940738516312145/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107940738516312145/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107940738516312145"
- },
- {
   "id": "2107949345312018897",
   "title": "Browser-based 3D recreation of Valorant",
   "title_zh": "在浏览器中运行的无畏契约3D复刻实验",
@@ -4784,6 +4504,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108013423401353577/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108013423401353577"
+ },
+ {
+  "id": "2108167896065085463",
+  "title": "Code generated motion graphics with automated self checks",
+  "title_zh": "通过代码自纠错循环生成的动态设计",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "gippp69",
+   "name": "Gipp 🦅"
+  },
+  "postUrl": "https://x.com/gippp69/status/2108167896065085463",
+  "createdAt": "2026-10-08T12:09:28.000Z",
+  "durationMs": 26003,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108167896065085463/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108167896065085463/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108167896065085463"
  },
  {
   "id": "2108199183983497433",
@@ -5242,24 +4980,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108953385189732416"
  },
  {
-  "id": "2108985081754943610",
-  "title": "Prompt workflow for generating an AI agent team",
-  "title_zh": "构建 AI 代理团队的提示词工作流",
-  "category": "explainer",
-  "author": {
-   "handle": "slash1sol",
-   "name": "slash1s"
-  },
-  "postUrl": "https://x.com/slash1sol/status/2108985081754943610",
-  "createdAt": "2026-10-10T18:16:41.000Z",
-  "durationMs": 13416,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108985081754943610/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108985081754943610/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108985081754943610"
- },
- {
   "id": "2109034305968336929",
   "title": "Rainy night convenience store game in Three.js",
   "title_zh": "Three.js渲染的雨夜日本便利店游戏场景",
@@ -5276,24 +4996,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109034305968336929/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109034305968336929"
- },
- {
-  "id": "2109082358091792711",
-  "title": "Motion animation generated in ten minutes",
-  "title_zh": "十分钟生成的动态图形动画",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "motion_so",
-   "name": "Motion"
-  },
-  "postUrl": "https://x.com/motion_so/status/2109082358091792711",
-  "createdAt": "2026-10-11T00:43:13.000Z",
-  "durationMs": 56033,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109082358091792711/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109082358091792711/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109082358091792711"
  },
  {
   "id": "2109150752945881582",
@@ -5387,24 +5089,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109225641878888692"
  },
  {
-  "id": "2109230605908975962",
-  "title": "Multi-agent motion design studio workflow",
-  "title_zh": "多模型循环驱动的动态设计工作流",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "N01ennn",
-   "name": "NO1ennn"
-  },
-  "postUrl": "https://x.com/N01ennn/status/2109230605908975962",
-  "createdAt": "2026-10-11T10:32:18.000Z",
-  "durationMs": 24000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109230605908975962/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": null,
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109230605908975962"
- },
- {
   "id": "2109231561711427883",
   "title": "Code-generated 3D sea train with sound effects",
   "title_zh": "纯代码生成的海上小火车与合成场景音效",
@@ -5460,24 +5144,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109267022865732000"
  },
  {
-  "id": "2109276147087499532",
-  "title": "Short film predicting the future of AI",
-  "title_zh": "预测人工智能未来的短片",
-  "category": "explainer",
-  "author": {
-   "handle": "Hesamation",
-   "name": "ℏεsam"
-  },
-  "postUrl": "https://x.com/Hesamation/status/2109276147087499532",
-  "createdAt": "2026-10-11T13:33:16.000Z",
-  "durationMs": 180000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109276147087499532/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109276147087499532/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109276147087499532"
- },
- {
   "id": "2109290983896818132",
   "title": "Fully coded animation generated on Claude Next",
   "title_zh": "基于 Claude Next 完全通过代码生成的动画",
@@ -5512,24 +5178,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109296959236592127/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109296959236592127"
- },
- {
-  "id": "2109333037024469257",
-  "title": "Running a massive codebase migration with Claude Code",
-  "title_zh": "使用 Claude Code 进行大规模代码迁移",
-  "category": "ui-demo",
-  "author": {
-   "handle": "Lummox_eth",
-   "name": "Lummox"
-  },
-  "postUrl": "https://x.com/Lummox_eth/status/2109333037024469257",
-  "createdAt": "2026-10-11T17:19:20.000Z",
-  "durationMs": 24133,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109333037024469257/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109333037024469257/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109333037024469257"
  },
  {
   "id": "2109334686488990093",
@@ -5585,60 +5233,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109345018490053100/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109345018490053100"
- },
- {
-  "id": "2109346927527842272",
-  "title": "Motion graphics explaining AGI and the last invention",
-  "title_zh": "阐释通用人工智能与最后发明的动态图形",
-  "category": "explainer",
-  "author": {
-   "handle": "HarshithLucky3",
-   "name": "Harshith"
-  },
-  "postUrl": "https://x.com/HarshithLucky3/status/2109346927527842272",
-  "createdAt": "2026-10-11T18:14:31.000Z",
-  "durationMs": 250009,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109346927527842272/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109346927527842272/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109346927527842272"
- },
- {
-  "id": "2109352431939383376",
-  "title": "Interactive isometric wireframe models with WebGL effects",
-  "title_zh": "交互式等距线框模型与WebGL图形效果",
-  "category": "3d-scene",
-  "author": {
-   "handle": "Yarad_ai",
-   "name": "Yarad"
-  },
-  "postUrl": "https://x.com/Yarad_ai/status/2109352431939383376",
-  "createdAt": "2026-10-11T18:36:24.000Z",
-  "durationMs": 42887,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109352431939383376/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109352431939383376/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109352431939383376"
- },
- {
-  "id": "2109399139280716281",
-  "title": "Exploded 3D view of a sports car in WebGL",
-  "title_zh": "WebGL 跑车三维爆炸图与解构",
-  "category": "3d-scene",
-  "author": {
-   "handle": "0xCarnagee",
-   "name": "Carnage"
-  },
-  "postUrl": "https://x.com/0xCarnagee/status/2109399139280716281",
-  "createdAt": "2026-10-11T21:42:00.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109399139280716281/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109399139280716281/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109399139280716281"
  },
  {
   "id": "2109420193399357665",
@@ -5712,24 +5306,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109544637497298951/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109544637497298951"
- },
- {
-  "id": "2109563099703660773",
-  "title": "Native macOS coding agent with remote connection",
-  "title_zh": "具备远程连接的 macOS 原生代码代理应用",
-  "category": "ui-demo",
-  "author": {
-   "handle": "chaaai",
-   "name": "Chaitanya"
-  },
-  "postUrl": "https://x.com/chaaai/status/2109563099703660773",
-  "createdAt": "2026-10-12T08:33:31.000Z",
-  "durationMs": 35200,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109563099703660773/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109563099703660773/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109563099703660773"
  },
  {
   "id": "2109568757001756710",
@@ -5912,6 +5488,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109702766671417760"
  },
  {
+  "id": "2109703283614916812",
+  "title": "Interactive EV teardown visualization in HTML",
+  "title_zh": "HTML实现的电动车拆解交互可视化",
+  "category": "3d-scene",
+  "author": {
+   "handle": "N01ennn",
+   "name": "NO1ennn"
+  },
+  "postUrl": "https://x.com/N01ennn/status/2109703283614916812",
+  "createdAt": "2026-10-12T17:50:33.000Z",
+  "durationMs": 44416,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109703283614916812/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109703283614916812/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109703283614916812"
+ },
+ {
   "id": "2109718931409699043",
   "title": "An interactive 3D world with a nightclub",
   "title_zh": "包含夜总会的可交互三维世界",
@@ -5946,61 +5540,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109722135291744578/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109722135291744578"
- },
- {
-  "id": "2109731835358179402",
-  "title": "Automated development workflow using the goal command",
-  "title_zh": "使用 goal 命令的自动化开发流程",
-  "category": "ui-demo",
-  "author": {
-   "handle": "0xSolty",
-   "name": "Solty"
-  },
-  "postUrl": "https://x.com/0xSolty/status/2109731835358179402",
-  "createdAt": "2026-10-12T19:44:01.000Z",
-  "durationMs": 23000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109731835358179402/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109731835358179402/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109731835358179402"
- },
- {
-  "id": "2109750382113243351",
-  "title": "Winged cow flying in a Minecraft world in Three.js",
-  "title_zh": "Three.js 中在 Minecraft 世界飞行的带翼奶牛",
-  "category": "3d-scene",
-  "author": {
-   "handle": "TimJayas",
-   "name": "Tim Jayas"
-  },
-  "postUrl": "https://x.com/TimJayas/status/2109750382113243351",
-  "createdAt": "2026-10-12T20:57:43.000Z",
-  "durationMs": 26816,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109750382113243351/video.mp4",
-  "promptShared": true,
-  "promptText": "even Muse-Spark-1.3 looks better than Muse-Wonder?\n\nprompt: create a 3d cow with wings flying in a minecraft world using three.js\n\ni guess it's better only as a personal ai agent rather than a coding agent like opus 5.5/astra",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109750382113243351/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109750382113243351"
- },
- {
-  "id": "2109751032657871308",
-  "title": "Subagent pipeline demo in Claude Code",
-  "title_zh": "Claude Code 子代理架构流水线演示",
-  "category": "ui-demo",
-  "author": {
-   "handle": "damkina7",
-   "name": "damkin"
-  },
-  "postUrl": "https://x.com/damkina7/status/2109751032657871308",
-  "createdAt": "2026-10-12T21:00:18.000Z",
-  "durationMs": 27515,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109751032657871308/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109751032657871308/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109751032657871308"
  },
  {
   "id": "2109760948093522051",
@@ -6109,6 +5648,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109956613926797384/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109956613926797384"
+ },
+ {
+  "id": "2109978118983225669",
+  "title": "Reverse engineering software with Opus 5.5 and REA",
+  "title_zh": "使用 Opus 5.5 和 REA 逆向工程软件",
+  "category": "ui-demo",
+  "author": {
+   "handle": "noisyb0y1",
+   "name": "Noisy"
+  },
+  "postUrl": "https://x.com/noisyb0y1/status/2109978118983225669",
+  "createdAt": "2026-10-13T12:02:39.000Z",
+  "durationMs": 49666,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109978118983225669/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109978118983225669/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109978118983225669"
  },
  {
   "id": "2109984169845821651",
@@ -6221,24 +5778,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110025178768130495"
  },
  {
-  "id": "2110032440869679325",
-  "title": "Side-by-side comparison of animal video generations",
-  "title_zh": "动物视频生成效果对比",
-  "category": "comparison",
-  "author": {
-   "handle": "kinderlayer",
-   "name": "Kinder"
-  },
-  "postUrl": "https://x.com/kinderlayer/status/2110032440869679325",
-  "createdAt": "2026-10-13T15:38:31.000Z",
-  "durationMs": 20180,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110032440869679325/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110032440869679325/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110032440869679325"
- },
- {
   "id": "2110036224320884998",
   "title": "Walkable 3D house generated from floor plan",
   "title_zh": "从户型图生成的Three.js可漫步3D房屋",
@@ -6256,6 +5795,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110036224320884998/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110036224320884998"
+ },
+ {
+  "id": "2110056429931610237",
+  "title": "Humanoid robot simulation comparison in Three.js",
+  "title_zh": "基于Three.js的人形机器人仿真对比",
+  "category": "comparison",
+  "author": {
+   "handle": "AI_Screening",
+   "name": "Pranav Reddy"
+  },
+  "postUrl": "https://x.com/AI_Screening/status/2110056429931610237",
+  "createdAt": "2026-10-13T17:13:50.000Z",
+  "durationMs": 17416,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110056429931610237/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110056429931610237/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110056429931610237"
  },
  {
   "id": "2110065587279798719",
@@ -6421,6 +5978,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110275826658967896"
  },
  {
+  "id": "2110333207929634996",
+  "title": "Motion graphics generated with Gemini 4",
+  "title_zh": "Gemini 4 单提示词直出的动效视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "cheerselflin",
+   "name": "林悦己Cheer"
+  },
+  "postUrl": "https://x.com/cheerselflin/status/2110333207929634996",
+  "createdAt": "2026-10-14T11:33:39.000Z",
+  "durationMs": 18227,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110333207929634996/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110333207929634996/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110333207929634996"
+ },
+ {
   "id": "2110352122575274388",
   "title": "Business simulation game with dynamic weather cycles",
   "title_zh": "具备动态天气的商业模拟游戏开发",
@@ -6475,40 +6050,23 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110394800411185404"
  },
  {
-  "id": "2110396961878606106",
-  "title": "Super Mario 64 running inside GTA 5 and Minecraft",
-  "title_zh": "在 GTA5 与我的世界中运行的超级马力欧64",
-  "category": "game",
+  "id": "2110407591503491372",
+  "title": "Retro game launch video with demo",
+  "title_zh": "复古游戏发布宣传片与演示",
+  "category": "launch-film",
   "author": {
-   "handle": "Roxx_0x",
-   "name": "Roxx"
+   "handle": "doseofcreative",
+   "name": "dos"
   },
-  "postUrl": "https://x.com/Roxx_0x/status/2110396961878606106",
-  "createdAt": "2026-10-14T15:46:59.000Z",
-  "durationMs": 126827,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110396961878606106/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110396961878606106/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110396961878606106"
- },
- {
-  "id": "2110417051680694613",
-  "title": "Comparison of Eiffel Tower models in Three.js",
-  "title_zh": "多模型在Three.js中构建埃菲尔铁塔效果对比",
-  "category": "comparison",
-  "author": {
-   "handle": "Bhavani_00007",
-   "name": "Bhavy☄️"
-  },
-  "postUrl": "https://x.com/Bhavani_00007/status/2110417051680694613",
-  "createdAt": "2026-10-14T17:06:49.000Z",
+  "postUrl": "https://x.com/doseofcreative/status/2110407591503491372",
+  "createdAt": "2026-10-14T16:29:13.000Z",
   "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110417051680694613/video.mp4",
-  "promptShared": false,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110407591503491372/video.mp4",
+  "promptShared": true,
+  "promptText": "after opus 5.5, every other motion video feels like PowerPoint\n\nprompt\n\n\"use higgsfield katana to make a cracked retro game launch video with demo.\"",
   "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110417051680694613/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110417051680694613"
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110407591503491372/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110407591503491372"
  },
  {
   "id": "2110433923436052799",
@@ -6565,6 +6123,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110453070236922090"
  },
  {
+  "id": "2110455690091483346",
+  "title": "Multi-agent orchestration workflow with Claude Code",
+  "title_zh": "Claude Code 多智能体协作代码处理工作流",
+  "category": "ui-demo",
+  "author": {
+   "handle": "skunzu",
+   "name": "Skunzu"
+  },
+  "postUrl": "https://x.com/skunzu/status/2110455690091483346",
+  "createdAt": "2026-10-14T19:40:21.000Z",
+  "durationMs": 20000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110455690091483346/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110455690091483346/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110455690091483346"
+ },
+ {
   "id": "2110460775722852744",
   "title": "Airport ramp strategy game in Three.js",
   "title_zh": "基于Three.js的机场机坪策略游戏",
@@ -6601,6 +6177,60 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110472847084650726"
  },
  {
+  "id": "2110586701651611961",
+  "title": "Cozy island-building game Little Habitats demo",
+  "title_zh": "治愈系岛屿建造游戏 Little Habitats 演示",
+  "category": "game",
+  "author": {
+   "handle": "hasibdreamer35",
+   "name": "Hasibul Hasan"
+  },
+  "postUrl": "https://x.com/hasibdreamer35/status/2110586701651611961",
+  "createdAt": "2026-10-15T04:20:57.000Z",
+  "durationMs": 61904,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110586701651611961/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110586701651611961/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110586701651611961"
+ },
+ {
+  "id": "2110665151389003777",
+  "title": "Picasso inspired Three.js Tetris game gameplay",
+  "title_zh": "毕加索艺术风格的Three.js俄罗斯方块",
+  "category": "game",
+  "author": {
+   "handle": "SimonasLTU1",
+   "name": "Simonas"
+  },
+  "postUrl": "https://x.com/SimonasLTU1/status/2110665151389003777",
+  "createdAt": "2026-10-15T09:32:41.000Z",
+  "durationMs": 90000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110665151389003777/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110665151389003777/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110665151389003777"
+ },
+ {
+  "id": "2110665495221268915",
+  "title": "Interactive squishable jelly orange in browser",
+  "title_zh": "浏览器中可挤压切开如果冻般的橙子",
+  "category": "3d-scene",
+  "author": {
+   "handle": "vib3coded",
+   "name": "Vib3Coded"
+  },
+  "postUrl": "https://x.com/vib3coded/status/2110665495221268915",
+  "createdAt": "2026-10-15T09:34:02.000Z",
+  "durationMs": 18000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110665495221268915/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110665495221268915/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110665495221268915"
+ },
+ {
   "id": "2110689292737749146",
   "title": "Animated 3D typography in Three.js",
   "title_zh": "Three.js制作的3D空间动态文字",
@@ -6617,6 +6247,43 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110689292737749146/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110689292737749146"
+ },
+ {
+  "id": "2110692386854555977",
+  "title": "Custom quant terminal replicating TradingView features",
+  "title_zh": "复刻TradingView功能的自定义量化终端",
+  "category": "ui-demo",
+  "author": {
+   "handle": "0xDeniAi",
+   "name": "Deni"
+  },
+  "postUrl": "https://x.com/0xDeniAi/status/2110692386854555977",
+  "createdAt": "2026-10-15T11:20:54.000Z",
+  "durationMs": 24000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110692386854555977/video.mp4",
+  "promptShared": true,
+  "promptText": "REA + Opus 5.5 is f*ucking treasure...\n\nHonestly i'm not sure this is legal.\n\ni just reverse engineered how TradingView premium indicators works and rebuilt it as my own quant terminal. every indicator i need, zero subscription. software is cooked\n\nhere is how to use REA to rebuild TradingView(prompts included):\n\n-point REA at TradingView’s public interface and map every major feature, from chart interactions to indicators and alerts\n\n-trace how the app behaves when you switch symbols, change timeframes, add indicators, draw levels and save chart layouts\n\n-use REA’s MCP tools to trace the app logic on software you’re allowed to inspect, keeping proven facts and guesses apart\n\n-feed everything into Claude Opus 5.5, which turns the investigation into a technical spec and a step-by-step build plan\n\n-rebuild the charting engine from scratch: real market data, candlesticks, RSI, MACD, Bollinger Bands, drawing tools and saved watchlists\n\n-add a quant backtesting engine that runs strategies on historical data, with fees, slippage and drawdowns counted\n\n-test every piece against what you observed, fix what fails, and keep going until the whole system actually works\n\n-you end up with your own TradingView-style quant research terminal, with source code you control and features you can keep adding forever\n\nSave this. It will probably make you a lot of money. Before you start check the prompt and article below↓",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110692386854555977/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110692386854555977"
+ },
+ {
+  "id": "2110741762159288825",
+  "title": "Code-generated video using Opus 5.5 skill",
+  "title_zh": "使用 Opus 5.5 技能代码生成的视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "sarpstar",
+   "name": "sarpstar"
+  },
+  "postUrl": "https://x.com/sarpstar/status/2110741762159288825",
+  "createdAt": "2026-10-15T14:37:06.000Z",
+  "durationMs": 34500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110741762159288825/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110741762159288825/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110741762159288825"
  },
  {
   "id": "2110770664101527568",
@@ -6653,6 +6320,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110773148081606775/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110773148081606775"
+ },
+ {
+  "id": "2110815900215513372",
+  "title": "Attack on Titan browser game inside Minecraft style",
+  "title_zh": "浏览器运行的类我的世界进击的巨人游戏",
+  "category": "game",
+  "author": {
+   "handle": "Mikadzyki_NFT",
+   "name": "Mikadzyki🌙"
+  },
+  "postUrl": "https://x.com/Mikadzyki_NFT/status/2110815900215513372",
+  "createdAt": "2026-10-15T19:31:42.000Z",
+  "durationMs": 15500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110815900215513372/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110815900215513372/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110815900215513372"
  },
  {
   "id": "2111024434958275063",
@@ -6709,6 +6394,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111035753035612364"
  },
  {
+  "id": "2111083580524822707",
+  "title": "App feature reconstruction workflow demo",
+  "title_zh": "应用功能重构工作流演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "ArchiveExplorer",
+   "name": "Archive"
+  },
+  "postUrl": "https://x.com/ArchiveExplorer/status/2111083580524822707",
+  "createdAt": "2026-10-16T13:15:22.000Z",
+  "durationMs": 20000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111083580524822707/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111083580524822707/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111083580524822707"
+ },
+ {
   "id": "2111120760660254842",
   "title": "Three.js 3D scene coded with Claude Opus",
   "title_zh": "通过Claude Opus编写的Three.js三维场景",
@@ -6761,6 +6464,24 @@
   "featured": 7,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111306207239557288/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111306207239557288"
+ },
+ {
+  "id": "2111379227278758394",
+  "title": "Claude Code agent swarm task execution demo",
+  "title_zh": "Claude Code 多智能体协同任务演示",
+  "category": "explainer",
+  "author": {
+   "handle": "Sprytixl",
+   "name": "Sprytix"
+  },
+  "postUrl": "https://x.com/Sprytixl/status/2111379227278758394",
+  "createdAt": "2026-10-17T08:50:09.000Z",
+  "durationMs": 28000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111379227278758394/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111379227278758394/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111379227278758394"
  },
  {
   "id": "2111393368097849615",
@@ -6835,6 +6556,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111442747999789204"
  },
  {
+  "id": "2111458380854296639",
+  "title": "Building a cozy farm game with Unity 6",
+  "title_zh": "使用 Unity 6 构建治愈系农场游戏",
+  "category": "game",
+  "author": {
+   "handle": "sorenxet",
+   "name": "sorenxet"
+  },
+  "postUrl": "https://x.com/sorenxet/status/2111458380854296639",
+  "createdAt": "2026-10-17T14:04:41.000Z",
+  "durationMs": 15136,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111458380854296639/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111458380854296639/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111458380854296639"
+ },
+ {
   "id": "2111513156589629941",
   "title": "Electric motor animation comparison between Opus and DeepSeek",
   "title_zh": "Opus与DeepSeek电机动画效果对比",
@@ -6890,6 +6629,25 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111708680735318314"
  },
  {
+  "id": "2111744158830621167",
+  "title": "Multi-agent coding workflow orchestrated by Claude Code",
+  "title_zh": "Claude Code编排的多智能体协同流程",
+  "category": "explainer",
+  "author": {
+   "handle": "cyrilXBT",
+   "name": "CyrilXBT"
+  },
+  "postUrl": "https://x.com/cyrilXBT/status/2111744158830621167",
+  "createdAt": "2026-10-18T09:00:16.000Z",
+  "durationMs": 15500,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111744158830621167/video.mp4",
+  "promptShared": true,
+  "promptText": "OPUS 5.5 SHOULDN'T BE DOING THE WORK.\n\nIt should be writing the PLAN.\n\nClaude Code workflows let Opus write a script that runs a whole swarm of agents in the background.\n\nOpus plans.\n\nHaiku 5.5 scans every file in parallel.\n\nSonnet 5.5 makes the fixes.\n\nA verifier checks every finding.\n\nOpus only sees what survives.\n\nYour expensive model never reads 100 agent transcripts again.\n\nSetup prompt below 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111744158830621167/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111744158830621167"
+ },
+ {
   "id": "2111750475930570800",
   "title": "Comparison of models on 3D horse simulation",
   "title_zh": "多模型 3D 马匹模拟效果对比",
@@ -6924,6 +6682,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111807938914361770/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111807938914361770"
+ },
+ {
+  "id": "2111816574780706975",
+  "title": "Code-generated video with Opus 5.5",
+  "title_zh": "用 Opus 5.5 通过代码生成的视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "sarpstar",
+   "name": "sarpstar"
+  },
+  "postUrl": "https://x.com/sarpstar/status/2111816574780706975",
+  "createdAt": "2026-10-18T13:48:01.000Z",
+  "durationMs": 298792,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111816574780706975/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111816574780706975/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111816574780706975"
  },
  {
   "id": "2111826236586570101",
@@ -7147,6 +6923,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112006151885705553"
  },
  {
+  "id": "2112104889014722591",
+  "title": "Code-generated vertical or horizontal video",
+  "title_zh": "代码生成的竖版或横版视频演示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "0xAnubiss",
+   "name": "Anubis"
+  },
+  "postUrl": "https://x.com/0xAnubiss/status/2112104889014722591",
+  "createdAt": "2026-10-19T08:53:41.000Z",
+  "durationMs": 36012,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112104889014722591/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112104889014722591/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112104889014722591"
+ },
+ {
   "id": "2112170914192195947",
   "title": "Running Claude Code agents on CarPlay dashboard",
   "title_zh": "在CarPlay车机屏幕上运行Claude Code智能体",
@@ -7202,6 +6996,42 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112180280110776797"
  },
  {
+  "id": "2112187184858145200",
+  "title": "Zoom inside a raindrop to a hydrogen bond",
+  "title_zh": "放大雨滴内部的氢键微观动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "0xkerazcity",
+   "name": "kerazcity"
+  },
+  "postUrl": "https://x.com/0xkerazcity/status/2112187184858145200",
+  "createdAt": "2026-10-19T14:20:42.000Z",
+  "durationMs": 27000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112187184858145200/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112187184858145200/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112187184858145200"
+ },
+ {
+  "id": "2112213850682536223",
+  "title": "Water and sky shaders running in Three.js",
+  "title_zh": "在Three.js中运行的水面与天空着色器",
+  "category": "3d-scene",
+  "author": {
+   "handle": "maxt3chno",
+   "name": "Max"
+  },
+  "postUrl": "https://x.com/maxt3chno/status/2112213850682536223",
+  "createdAt": "2026-10-19T16:06:39.000Z",
+  "durationMs": 72366,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112213850682536223/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112213850682536223/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112213850682536223"
+ },
+ {
   "id": "2112213933272490380",
   "title": "Cozy fishing game created with Opus 5.5",
   "title_zh": "使用Opus 5.5制作的休闲钓鱼游戏",
@@ -7218,6 +7048,24 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112213933272490380/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112213933272490380"
+ },
+ {
+  "id": "2112247645955895455",
+  "title": "Four models tested on a Tesla Roadster drive",
+  "title_zh": "四款模型生成特斯拉驾驶视角对比",
+  "category": "comparison",
+  "author": {
+   "handle": "RafaCrackYT",
+   "name": "Rafa"
+  },
+  "postUrl": "https://x.com/RafaCrackYT/status/2112247645955895455",
+  "createdAt": "2026-10-19T18:20:57.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112247645955895455/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112247645955895455/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112247645955895455"
  },
  {
   "id": "2112255405002801347",
@@ -7275,6 +7123,43 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112514570078372079"
  },
  {
+  "id": "2112521204791918675",
+  "title": "Comparing Three.js particle nebula generation across models",
+  "title_zh": "对比不同模型生成Three.js粒子星云效果",
+  "category": "comparison",
+  "author": {
+   "handle": "AYi_AInotes",
+   "name": "AYi"
+  },
+  "postUrl": "https://x.com/AYi_AInotes/status/2112521204791918675",
+  "createdAt": "2026-10-20T12:27:58.000Z",
+  "durationMs": 60000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112521204791918675/video.mp4",
+  "promptShared": true,
+  "promptText": "喵个咪，真的感慨啊，这大概是我最近实测 AI 大模型最震撼、也最反直觉的一次。\n现在全网都把 Claude Opus 5.5 当成写代码的天花板，我把同一句 Three.js 指令，同时甩给了它和 MiniMax 刚发的 M3.1 Flash：做出粒子星云、行星光晕，点哪颗星，镜头就平滑飞向哪颗星。\n\n一边是按美金精打细算着调用的闭源顶配旗舰，\n一边是每百万 Token 输出只要 0.6 美元、缓存读取才 0.015 美元的国产极速模型，结果两边全部一次跑通，真的让我蛮惊喜的，\n但是兄弟们，更让我觉得离谱的是左边这个便宜一大截的国产极速战神M3.1 Flash：\n代码初始化阶段，它自己检测出 4 个潜在的渲染报错，不等人催，直接在后台跑测试、当场修好，把帧率稳稳焊死在 60 帧。\n关键是我的提示词里压根没要求做控制面板啊，它还主动在右上角多搓了一套，轨道线、辉光和星云全都能一键开关，交付出来就是开箱即用的完整作品，这个是真的有点牛逼。\n\n右边的 Opus 5.5 则守住了审美的底子：太阳光晕带着强烈的电影镜头感，底部导航栏和木星、海王星的资料卡排版极其讲究，光影和设计品味上，老牌旗舰Claude依然有它独一份的细腻。\n\n但把两边的账单摊在桌面上，任何开发者都绕不开这道残酷的算术题：\n在绝大多数日常前端交互、代码构建和智能体流程里，两者的能力差距，已经远远配不上它们之间的价格鸿沟。\n\n以前咱们搞复杂项目，总觉得必须全程挂着最贵的脑子。\n\n亲手测完这把我才明白，真正能把智能体推向全天候量产的，往往不是高高在上的奢侈品，\n而是M3.1 Flash这种选手，它就是前阵子在榜单上匿名跑了 200T Token 的 Space Bunny，亮明真身后速度拉到上一代 M3 的 3 倍、成本砍掉三分之二，靠极低成本的多轮自检，不知疲倦地替你干完脏活累活。\n\n不过惊艳归惊艳，跑分咱们也得客观看：它拿全场第一的是自动化办公 Automation-Bench（62.2），硬核终端编程 Terminal Bench 4.0 只有 38.1，离 Opus 5 的 51.8 还有实打实的代差。\n\n啃十万行祖传代码库，还得请Claude旗舰出山哈哈，但日常七八成的原型开发和自动化脚本，它已经能稳稳接过去，光这一点就够团队省下大把真金白银了hh。\n\n说实话到现在我心里还感慨的不行，国产模型进化迭代的速度真的越来越快了，也越来越强了，当一个每百万输出才 0.6 美元的快模型学会了自己跑测试、自己抓虫修到 60 帧，国外顶配旗舰靠单次智商筑起的溢价围墙，就已经开始漏风松动了。\n\n看完这组 3D 太阳系，更打动你的是左边功能完备、还能自己抓虫的极客风，还是右边更有电影感的设计风？欢迎铁汁们互动交流，\n\n反正要是让我自己掏腰包跑批量任务，左边这种又快又省还不让人操心的选手，我已经挑不出拒绝的理由了哈哈哈。",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112521204791918675/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112521204791918675"
+ },
+ {
+  "id": "2112525552519184776",
+  "title": "Three-dimensional anatomy reveals and exploded view animations",
+  "title_zh": "3D 解剖透视与爆炸图动态演示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "LunarResearcher",
+   "name": "Lunar"
+  },
+  "postUrl": "https://x.com/LunarResearcher/status/2112525552519184776",
+  "createdAt": "2026-10-20T12:45:15.000Z",
+  "durationMs": 22000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112525552519184776/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112525552519184776/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112525552519184776"
+ },
+ {
   "id": "2112536814393454735",
   "title": "Seamless looping SVG animation with GSAP",
   "title_zh": "基于GSAP的无缝循环SVG动画",
@@ -7291,5 +7176,114 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112536814393454735/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112536814393454735"
+ },
+ {
+  "id": "2112609943190659215",
+  "title": "Removing smart TV ads and telemetry using Claude",
+  "title_zh": "使用 Claude 清理智能电视广告与遥测",
+  "category": "explainer",
+  "author": {
+   "handle": "AImonreal",
+   "name": "Monreal"
+  },
+  "postUrl": "https://x.com/AImonreal/status/2112609943190659215",
+  "createdAt": "2026-10-20T18:20:35.000Z",
+  "durationMs": 71122,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112609943190659215/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112609943190659215/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112609943190659215"
+ },
+ {
+  "id": "2112635479040409747",
+  "title": "Running multi-model Claude Code with Opus advisor",
+  "title_zh": "Claude Code多模型协同运行技巧演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "xsmryze",
+   "name": "xsmryze"
+  },
+  "postUrl": "https://x.com/xsmryze/status/2112635479040409747",
+  "createdAt": "2026-10-20T20:02:03.000Z",
+  "durationMs": 36458,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112635479040409747/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112635479040409747/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112635479040409747"
+ },
+ {
+  "id": "2112818481557123186",
+  "title": "Opus 5.5 before vs now comparison",
+  "title_zh": "Opus 5.5 早期与当前版本对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Haleeeemahh",
+   "name": "Haleemah"
+  },
+  "postUrl": "https://x.com/Haleeeemahh/status/2112818481557123186",
+  "createdAt": "2026-10-21T08:09:14.000Z",
+  "durationMs": 15433,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112818481557123186/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112818481557123186/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112818481557123186"
+ },
+ {
+  "id": "2112850049189486656",
+  "title": "Testing code-generated video repositories with Opus 5.5",
+  "title_zh": "使用 Opus 5.5 测试代码视频生成仓库",
+  "category": "comparison",
+  "author": {
+   "handle": "remoteugur",
+   "name": "Uğur Keşkekçi"
+  },
+  "postUrl": "https://x.com/remoteugur/status/2112850049189486656",
+  "createdAt": "2026-10-21T10:14:41.000Z",
+  "durationMs": 34321,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112850049189486656/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112850049189486656/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112850049189486656"
+ },
+ {
+  "id": "2112912588027650182",
+  "title": "Opus 5.5 launch vs now comparison",
+  "title_zh": "Opus 5.5 发布初期与当前效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "Mr_Salio",
+   "name": "Salio"
+  },
+  "postUrl": "https://x.com/Mr_Salio/status/2112912588027650182",
+  "createdAt": "2026-10-21T14:23:11.000Z",
+  "durationMs": 44866,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112912588027650182/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112912588027650182/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112912588027650182"
+ },
+ {
+  "id": "2112958529988669742",
+  "title": "Smart TV voice interface with Claude Code",
+  "title_zh": "结合 Claude Code 的智能电视语音界面",
+  "category": "ui-demo",
+  "author": {
+   "handle": "0xCodez",
+   "name": "Codez"
+  },
+  "postUrl": "https://x.com/0xCodez/status/2112958529988669742",
+  "createdAt": "2026-10-21T17:25:45.000Z",
+  "durationMs": 14966,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112958529988669742/video.mp4",
+  "promptShared": true,
+  "promptText": "Holy sh*t, I just turned my TV into Jarvis with Opus 5.5 + ChatGPT voice mode\n\nI reverse-engineered my Samsung TV with Opus 5.5...\n\n1 sentence out loud = 6 Claude Code agents opening on my living room TV. \n\nhere's the full guide step by step:\n\nstep 1 → put your Samsung Smart TV and your laptop on the same Wi-Fi\n\nstep 2 → paste the prompt below into Claude Code on Opus 5.5 with a photo of Settings → Support → About This TV\n\nstep 3 → Opus maps how the TV takes orders and finds the loophole: \n\nSamsung's own remote-control API on your home network can open any web page in the TV browser\n\nstep 4 → it spins up 6 Claude Code agents in a tmux grid on the laptop and streams them as a private page on your Wi-Fi only\n\nstep 5 → it builds a tiny \"Jarvis\" connector with one single tool: open the agent wall. \n\nChatGPT voice mode is the ears, the connector is the hands\n\nstep 6 → press Allow on the TV once, the last time you touch the remote\n\nstep 7 → say \"Open Claude Code CLI on my TV\" and watch the windows pop in one by one\n\nthe result: the laptop does the work, the TV is the control room...\n\np.s: works on most Samsung Smart TVs with Tizen. \n\nmine in the video runs Smart Hub. The remote now lives in a drawer\n\nFind full prompt below\n\nThen read the article below on how to reverse-engineer anything",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112958529988669742/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112958529988669742"
  }
 ]
