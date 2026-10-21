@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Watch and recreate the videos on SandBase Lab / 在 SandBase Lab 观看并复刻
+    url: https://www.sandbase.ai/lab/ai-videos/opus-5-5?utm_source=github&utm_medium=issue&utm_campaign=awesome-opus-5.5
+    about: Full-size playback, prompts and one-click Recreate with Claude Opus 5.5. / 大屏播放、提示词和一键复刻。
+  - name: Run Claude Opus 5.5 / 调用 Claude Opus 5.5
+    url: https://www.sandbase.ai/model/anthropic/claude-opus-5.5?utm_source=github&utm_medium=issue&utm_campaign=awesome-opus-5.5
+    about: Model page with pricing and API access on SandBase. / SandBase 模型页：价格与 API。

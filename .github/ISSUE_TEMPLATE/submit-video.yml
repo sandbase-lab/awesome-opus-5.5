@@ -1,0 +1,26 @@
+name: Submit a Claude Opus 5.5 creation / 推荐作品
+description: Suggest a Claude Opus 5.5 video posted on X for SandBase Lab. / 推荐一条发布在 X 上的 Claude Opus 5.5 视频。
+title: "[submit] "
+labels: [submission]
+body:
+  - type: input
+    id: post
+    attributes:
+      label: Original X post URL / X 原帖链接
+      description: The creator's own post, not a repost. / 作者本人的原帖，而非转发。
+      placeholder: https://x.com/<handle>/status/<id>
+    validations:
+      required: true
+  - type: input
+    id: prompt
+    attributes:
+      label: Public prompt or source code URL (optional) / 公开提示词或源码链接（可选）
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks / 确认
+      options:
+        - label: The creator says it was made with Claude Opus 5.5. / 作者说明使用 Claude Opus 5.5 制作。
+          required: true
+        - label: It is a finished work, not a news post or an ad. / 是成品作品，不是新闻或广告。
+          required: true
