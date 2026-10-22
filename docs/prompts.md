@@ -2,19 +2,19 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-87 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+89 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (12)
-- [Motion graphics](#motion-graphics) (37)
+- [Motion graphics](#motion-graphics) (36)
 - [Games](#game) (1)
-- [Product UI](#ui-demo) (12)
+- [Product UI](#ui-demo) (14)
 - [Particles & shapes](#particles) (1)
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (9)
 - [Launch films](#launch-film) (6)
-- [Tests & comparisons](#comparison) (8)
+- [Tests & comparisons](#comparison) (9)
 
 <a id="3d-scene"></a>
 
@@ -244,283 +244,6 @@ Opus 5.5，太牛逼了，我完完全全服。
 提示词放在👇。
 ```
 
-### Procedural cinematic motion design short film
-
-[@leo_xiaolei](https://x.com/leo_xiaolei/status/2102724347446305104) · 0:28 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2102724347446305104/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102724347446305104?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 直出，秀到飞边子了！我愿称之为最强！！！
-
-参考提示词如下（温馨提示额度消耗和耗时会有点大）：
-
-你现在是 Claude Opus 5.5，作为资深创意编程工程师（Creative Coder）、动态设计师（Motion Designer）与前端动画工程师。
-你的任务是复现我所提供的参考视频中的视觉语言、节奏律动、转场逻辑以及整体氛围质感。
-核心目标不是做一个常规网页。
-核心目标是使用代码构建一部全程序化生成、具备电影质感且能够自动播放的动画短片。
-最终成片应呈现出精致的手作动态设计（Motion Design）质感，而非一堆网页组件的拼接。
-1. 项目目标
-基于参考视频，构建一部时长 25–30 秒的程序化动画短片。
-整段动画需串联多个视觉意象：
-可爱角色
-→ 神经元 / 电流脉冲结构
-→ 三棱镜与彩虹色散
-→ 几何色彩构型
-→ 向日葵
-→ 螺旋星系
-→ 黑洞
-→ 宇宙隧道
-→ 地球升起（地出）
-→ 回归角色
-最核心的要求：
-绝对不要做成互相割裂的幻灯片切换。
-每一个场景都必须自然地在视觉上形变过渡至下一个场景。
-运用手段包括：
-形状渐变（Morphing）
-粒子过渡（Particle transitions）
-缩放过渡（Scale transitions）
-镜头推进（Camera pushes）
-径向展开过渡（Radial transitions）
-溶解渗透（Dissolves）
-实体到实体的几何形变（Object-to-object transformations）
-色彩连续性（Color continuity）
-运动动量延续（Motion continuity）
-整部动画应当呈现为一次连贯流动的“意识流”。
-2. 技术栈
-技术选用：
-Vite
-TypeScript
-HTML Canvas 2D
-requestAnimationFrame
-确定性时间轴系统（Deterministic timeline system）
-程序化图形生成（Procedural graphics）
-可复用的场景模块
-仅在对以下视觉实现有实质性帮助时，才允许引入 Three.js：
-星系
-黑洞
-地球
-镜头景深
-切勿无端引入重型依赖库。
-除非有不可替代的理由，否则避免使用 React。
-这是一项动画短片工程，而非 UI 应用。
-3. 画布参数设定
-设计基准分辨率：1920 × 1080
-画面宽高比：16:9
-目标帧率：30 FPS
-动画必须支持自适应响应式缩放，同时严格保持 16:9 的设计坐标系。
-必须正确处理 devicePixelRatio，确保动画在高分屏（Retina / High-DPI）上清晰锐利。
-4. 视觉风格
-参考范本具有插画风科普动画的质感。
-目标视觉特征：
-手绘质感
-微带瑕疵的不规则形状
-细微的线条抖动感（Line wobble）
-柔和的肌理纹理
-有机自然而非机械生硬的几何体
-灵动俏皮却不失高级感
-干净通透的构图
-清晰鲜明的剪影造型
-克制但极具表现力的配色方案
-避免出现：
-泛滥的通用 SaaS 插画风
-扁平化企业图标感
-冗余的 UI 界面元素
-拟真写实风格（Photorealism）
-赛博朋克美学
-过度的霓虹光污染
-千篇一律的 AI 生成式渐变
-带有素材库库感的素材
-5. 配色导向
-主背景色：
-暖奶油色 / 米白色
-例如：#F2E8CF
-深色宇宙场景：
-深海蓝
-暗紫色
-近乎纯黑的夜空蓝
-点缀高光色：
-橙色
-向日葵黄
-紫罗兰
-青色
-洋红
-柔红
-克制且克制地使用渐变色。
-色彩在不同场景间应保持过渡流动，而非突兀瞬变。
-6. 肌理与质感
-生成细腻的程序化纸张质感。
-可选实现路径：
-低透明度的随机噪点
-背景亮度的细微不均
-轻微的颗粒感叠加层（Grain overlay）
-质感需清晰可感知，但绝不能喧宾夺主。
-禁止加载体积庞大的纸张实拍贴图资源。
-尽量全部采用程序化计算生成。
-7. 动画时间轴
-搭建统一的中控时间轴系统。
-时间参考规划：
-0.0s – 4.0s：角色登场
-4.0s – 7.5s：神经元 / 电流脉冲网络
-7.5s – 10.0s：三棱镜 / 光线色散
-10.0s – 13.5s：色彩几何 → 向日葵
-13.5s – 17.0s：向日葵 → 螺旋星系
-17.0s – 20.5s：星系 → 黑洞
-20.5s – 23.5s：黑洞 → 宇宙隧道 / 光柱
-23.5s – 27.0s：地出（Earth Rise）
-27.0s – 30.0s：回归角色
-以上时间分配非死板硬性规定，若有助于增强视觉韵律与节奏感，可按需微调。
-8. 场景 01 — 角色
-时长： 约 0–4 秒。
-绘制一个简洁可爱的矩形橙色小生物。
-特征：
-圆角矩形身体
-小短腿
-极简的面部特征
-轻微不对称的手绘轮廓线条
-亲和灵动的性格表现
-动画细节：
-小生物从画外缓缓走向画面中央。
-行走动画需包含：
-身体起伏颠簸（Bounce）
-双腿交替摆动
-轻微的身体倾角晃动
-细腻的挤压与拉伸（Squash and stretch）
-避免机械僵硬的匀速运动。
-充分应用缓动曲线（Easing）与次级跟随动作（Secondary motion）。
-场景尾声：
-小生物对身旁浮现的事物产生反应。
-该反应动作将直接触发下一阶段的转场。
-9. 角色 → 神经元转场
-不要生硬剪辑。
-过渡方案：
-角色身旁亮起一个微小的光点。
-光点逐渐扩散放大。
-细小的分支线开始从中抽枝蔓延。
-镜头向前推近。
-在逐渐膨胀铺展的网络对比下，角色身形显现得越来越小。
-最终，神经元脉络结构铺满整个屏幕。
-10. 场景 02 — 神经网络
-时长： 约 4–7.5 秒。
-具象化一种介于以下元素之间的视觉形态：
-神经元 / 生物电 / 分支生物形态 / 闪电脉冲。
-使用程序化分形/分支算法生成。
-节点伴随脉冲呼吸。
-信号流沿各个分支游走传导。
-要求：
-动态电脉冲流动
-有机自然的分支几何体
-微小的飞溅火花粒子
-线条粗细富于节奏变化
-兼具可控的随机感
-切勿做成千篇一律的机器学习拓扑网络拓扑图。
-它应当充满生物活力与能量感。
-11. 神经元 → 三棱镜转场
-选中其中一条极为明亮的电脉冲分支。
-让这条分支逐渐拉直伸展。
-流动其中的能量凝聚为一束纯净的白色光束。
-神经网络的其余部分逐渐消隐在暗色背景中。
-白光光束横穿画面。
-精准投射射入一座三角形三棱镜。
-12. 场景 03 — 三棱镜
-时长： 约 7.5–10 秒。
-绘制一个手绘透明感的三棱镜。
-白光自一侧射入。
-经三棱镜折射并色散为：
-红、橙、黄、绿、青、蓝、紫。
-不要只画死板固定的彩虹线。
-需制作动态效果：
-光束到达的冲击动态
-三棱镜受光泛出的辉光
-色散铺开的过程
-细微的折射光线游移
-柔和的光晕泛光（Bloom）
-展开的光谱将作为承接后续画面的关键转场媒介。
-13. 三棱镜 → 色彩几何
-折射出的彩虹光束发生弯曲。
-逐步转化为同心圆弧。
-圆弧相互嵌套，化作多层旋转的同心圆环。
-镜头向视觉中心推近。
-三棱镜自然消隐退出视野。
-14. 场景 04 — 色彩光环
-时长： 约 10–11.5 秒。
-构建层层嵌套的彩色同心圆环。
-运动方式：
-缓慢旋转
-正反方向交错旋转
-微弱的呼吸式缩放
-有机微动的抖动摆动（Wobble）
-圆环线条需带有轻微的手作不完美质感。
-避免数学上绝对冷硬工整的圆周。
-15. 光环 → 向日葵
-缓慢改变圆环的几何拓扑结构。
-外侧圆环渐变分离为独立的花瓣。
-中心圆环转化为密布的向日葵葵花籽花盘。
-黄色逐渐占据视觉主导。
-整个演化形变过程需清晰可见。
-避免使用透明度淡入淡出（Crossfade）的偷懒手法。
-让观者能够直观看到一种几何形态如何演变为另一种生命形态。
-16. 场景 05 — 向日葵
-时长： 约 11.5–14 秒。
-生成一朵风格化的程序化向日葵。
-视觉构成：
-明亮的金黄花瓣
-温暖橙黄的花心
-深色螺旋状排列的花籽
-隐约可见的纤细花茎或植物形态
-动画表现：
-花瓣舒展盛放
-轻柔的生命呼吸感
-整体微微旋转
-籽粒螺旋排列运动
-若条件允许，葵花籽可采用斐波那契数列 / 黄金角分布算法生成。
-17. 向日葵 → 螺旋星系
-这将是整部短片视觉张力最强的转场之一。
-向日葵中心加速旋转。
-外围花瓣逐渐剥离脱散。
-每一片花瓣解构为一颗发光的星尘粒子。
-中心的花籽阵列向外螺旋扩张。
-色调柔和渐次推移：
-黄色
-→ 橙色
-→ 紫色
-→ 深蓝
-整朵向日葵无缝蜕变为一座旋转的旋涡星系。
-切忌使用简单的画面叠化淡出。
-18. 场景 06 — 螺旋星系
-时长： 约 14–17 秒。
-构建一座程序化生成的旋涡星系。
-要求：
-在性能允许的前提下布置成千上万个微型粒子
-采用对数螺线 / 旋臂分布规律
-极度明亮致密的星系核心
-错落点缀的背景繁星
-呈现深邃的空间纵深感
-镜头缓慢向前推进
-整体缓慢转动
-粒子需拥有丰富的透明度梯次与大小半径。
-避免机械匀质的死板星点分布。
-使用带有固定种子（Seeded Random）的随机算法，确保每次播放呈现的画面细节完全一致。
-19. 星系 → 黑洞
-星系中心区域的自转角速度逐渐加快。
-中央区域急剧暗沉塌缩。
-周围粒子开始加速环绕运转。
-沿切线方向将运动的粒子微微拉伸拖尾。
-中央的纯黑视界向外扩张。
-整个星系逐步转化为狂暴的吸积盘。
-20. 场景 07 — 黑洞
-时长： 约 17–20.5 秒。
-构建一座风格化的黑洞。
-要素：
-吞噬一切的纯黑球体核心
-炽热发光的吸积盘
-橙金交织的内层强光
-紫蓝晕染的外围辉光
-沿弯曲引力轨迹运动的粒子流
-可选实现：做近似引力透镜效果的视觉扭曲。
-无需苛求物理层面上严格精确的广义相对论模拟。
-以呈现上乘的视觉美感为第一优先级。
-镜头向视界面缓…
-```
-
 ### Project generated from a single voice prompt
 
 [@donaldjewkes](https://x.com/donaldjewkes/status/2102801274173587569) · 2:22 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2102801274173587569/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102801274173587569?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -631,20 +354,6 @@ Prompt
 "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
 
 That's it..
-```
-
-### Promotional logo video generated from a prompt
-
-[@fire_ozgur](https://x.com/fire_ozgur/status/2103459971174130104) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2103459971174130104/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103459971174130104?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 işi aşmış durumda gerçekten. 
-
-Tek bir prompt ile hiçbir düzenleme yapmadan sadece logomu atarak benim için bir tanıtım videosu hazırlamasını istedim.
-
-Tek kelimeyle muhteşem..
-
-Prompt: "Ne kadar iyi bir grafik tasarımcısı olduğunu bilmek istiyorum. Bana bunu kanıtlamak
 ```
 
 ### Coded motion design morphing through MakerMap
@@ -893,6 +602,26 @@ write a brief and a storyboard before any animation.
 - frame one is a finished picture, never a word halfway through flying in
 - name three signature moments you can describe without using effect names
 - the vid…
+```
+
+### Launch prompt and bouncing ball flipbook animation
+
+[@notdwd](https://x.com/notdwd/status/2105031774904766641) · 0:12 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2105031774904766641/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2105031774904766641?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+OPUS 5.5 is insane. it made this ENTIRE animation in 5 minutes.
+
+prompt ↓
+
+Make a 12s motion video in code (1920x1080, 30fps, one HTML file drawing every frame from a single seek(t) function, rendered with Playwright + ffmpeg, with original synthesized sound).
+
+Story: a dark prompt pill on an off-white page types "make a launch video" with a real keystroke rhythm → enter, the button flashes orange and the pill slides up → a 12-frame filmstrip stamps in left to right, one frame per beat at 120 BPM; each frame shows one pose of an orange ball's bounce (squash on contact, stretch mid-air, real arcs) → a playhead sweeps the strip while a big viewer above plays the poses as a flipbook, twice, faster the second time → the strip slides away, "every frame is code." fills the screen, and the ball arcs over and lands as the period.
+
+Rules: arrive fast, land soft (cover 12–19% of the remaining distance per frame); nothing ever freezes (slow push on every hold); stagger 2–4 frames; blur only on fast moves; big and readable on a phone; off-white, ink and one orange only. Sound: a tick per key, a click on enter, a rising note per frame stamp, a thump when the ball lands.
+
+Show me 5 stills first (typing, strip half-built, flipbook, headline, last frame), critique them like a harsh motion director, fix the 3 worst problems, then render.
+
+complete playbook to make insane animations like this in the article below.
 ```
 
 ### A motion design video created with code
@@ -1642,6 +1371,56 @@ here is how to use REA to rebuild TradingView(prompts included):
 Save this. It will probably make you a lot of money. Before you start check the prompt and article below↓
 ```
 
+### Morphing UI states animated purely in code
+
+[@0xAiky](https://x.com/0xAiky/status/2111814234090693110) · 0:14 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2111814234090693110/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111814234090693110?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+opus 5.5 is f*cking insane at motion design
+
+this entire video is pure code, zero after effects
+
+im open sourcing the exact prompt template behind these motion designs
+
+steal it and recreate them yourself ↓
+
+<inputs>
+Ask me for: 8 to 12 UI states I want the shape to transform into (e.g. button, loader, player, slider, toggle, tabs, chart, command palette, toast), pure black and white or one accent color, and a royalty-free song around 120 BPM (e.g. Mixkit, free for commercial use).
+</inputs>
+
+<direction>
+Dribbble-level UI motion. One shape, no cuts: every state is the same element morphing its size, radius and color while its content swaps with a quick blur.
+A cursor controls every change with real clicks and drags. Light warm-gray canvas, black and white components, one clean UI font (Geist).
+Springs everywhere, with only a tiny overshoot. The camera zooms so each state fills the entire frame. The last frame matches the first frame, so it loops perfectly.
+Banned: bouncy easing, particle bursts, glows, gradients on UI chrome, mismatched icon strokes, dead time, anything that looks like a template.
+</direction>
+
+<structure>
+120 BPM, 7 bars, something happens on every beat.
+Button → loader → check → dynamic island → music player with a play/pause morph → scrub the progress bar → it becomes a volume slider that stretches when dragged past max → a toggle flips on the beat → the knob becomes a liquid tab indicator → the tabs expand into a chart that draws itself, with a tooltip on hover → it collapses into ⌘K → type to filter → enter → toast → back to the button.
+</structure>
+
+<build>
+One HTML file, square 1440x1440. Every style is calculated from time inside seek(t): no CSS transitions, no timers, no state carried between frames.
+Springs use closed-form step responses. A value that changes targets multiple times is the sum of one spring per change, so it remains a pure function of time.
+The tab indicator's two edges follow different springs, so the leading edge stretches ahead of the trailing one. Use the same trick for the toggle knob.
+Drags use direct manipulation: while the cursor is held, the value is calculated from its position. On release it springs back from wherever it was.
+Analyze the song with numpy to find the beat grid and start on a downbeat. Position every UI sound by its measured peak.
+Render with Playwright: 4 subframes per frame, blended with ffmpeg tmix for motion blur at 60fps.
+Render one frame per beat before the full render. Fix anything off the grid, cramped or difficult to read.
+</build>
+
+<gotchas>
+Never put will-change on anything the camera scales or the text becomes blurry.
+Text that swaps inside a morphing container needs its own enter and exit timing or it overlaps.
+Make the final frame identical to the first, including cursor position and speed, or the loop stutters.
+</gotchas>
+
+<start>
+Ask me for the inputs, then show me the state list on the beat grid before writing any code.
+</start>
+```
+
 ### Reverse engineering TV interface with Claude Opus
 
 [@0xCodila](https://x.com/0xCodila/status/2111826236586570101) · 0:23 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2111826236586570101/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111826236586570101?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1772,6 +1551,46 @@ the result: the laptop does the work, the TV is the control room...
 p.s: works on most Samsung Smart TVs with Tizen. 
 
 mine in the video runs Smart Hub. The remote now lives in a drawer
+
+Find full prompt below
+
+Then read the article below on how to reverse-engineer anything
+```
+
+### Voice-controlled smart TV interface demo
+
+[@0xCodez](https://x.com/0xCodez/status/2113270979476545573) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2113270979476545573/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113270979476545573?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Holy sh*t, my GrokBot is now working on my TV as a Jarvis with the help of Opus 5.5
+
+I reverse-engineered my Samsung TV with Opus 5.5...
+
+1 sentence out loud = Netflix opens and scrolls itself.
+
+No remote, no phone, no digging between the couch cushions.
+
+here's the full guide step by step:
+
+• step 1 → put your smart TV and your laptop on the same Wi-Fi
+
+• step 2 → paste the prompt below into Claude Code on Opus 5.5 with a photo of your TV's Settings → About screen
+
+• step 3 → Opus maps how your TV takes orders and finds the loophole: almost every smart TV has a remote-control API on your home network.
+
+The same one the phone remote apps use
+
+• step 4 → it writes a tiny remote with exactly 3 tools: open Netflix, move, select. Nothing else
+
+• step 5 → it plugs that remote into Grok Bot as a plugin. Grok is the ears, the plugin is the hands
+
+• step 6 → press Allow on the TV once, the last time you touch the remote
+
+• step 7 → say "Hey Grok, open Netflix" and watch it browse for you
+
+the result: you talk, the TV listens...
+
+p.s: works on most Samsung, LG and Google TV sets from the last few years. 
 
 Find full prompt below
 
@@ -2311,4 +2130,21 @@ Is Opus in trouble?
 看完这组 3D 太阳系，更打动你的是左边功能完备、还能自己抓虫的极客风，还是右边更有电影感的设计风？欢迎铁汁们互动交流，
 
 反正要是让我自己掏腰包跑批量任务，左边这种又快又省还不让人操心的选手，我已经挑不出拒绝的理由了哈哈哈。
+```
+
+### NASA rover assembly comparison in Blender
+
+[@k1rallik](https://x.com/k1rallik/status/2112615679379616081) · 0:26 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2112615679379616081/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112615679379616081?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+I don’t understand why so few people use Grok Bot inside Blender
+
+Same prepared NASA/JPL rover asset. Same assembly brief.
+
+Claude Opus 5.5: 36 minutes. $24.
+Grok Bot: 3 minutes. $2.
+
+Watch 00:17. The $2 rover has its arm raised. The other still has its camera mast floating above the chassis.
+
+Full prompt in the comments.
 ```
