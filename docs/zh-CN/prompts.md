@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 84 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 82 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -11,9 +11,9 @@
 - [游戏](#game) (1)
 - [产品界面](#ui-demo) (12)
 - [图表图解](#data-viz) (1)
-- [讲解](#explainer) (9)
+- [讲解](#explainer) (8)
 - [发布片](#launch-film) (6)
-- [测试对比](#comparison) (8)
+- [测试对比](#comparison) (7)
 
 <a id="3d-scene"></a>
 
@@ -410,34 +410,6 @@ This level of work
 This video was made by opus 5.5 with a single prompt (posting below). Unbelievable.
 ```
 
-### 单提示词生成的动态图形作品集展示
-
-[@jasonzhou1993](https://x.com/jasonzhou1993/status/2103663364958515541) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103663364958515541/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103663364958515541?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-wft, 
-this is one shot from Opus 5.5 i just tried
-
-prompt 
-"make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
-
-I really dont know what kind of black magic anthropic put in... gonna look into this
-```
-
-### 线性代数主题歌曲音乐视频
-
-[@doubleunplussed](https://x.com/doubleunplussed/status/2103697580421181894) · 4:22 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103697580421181894/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103697580421181894?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Music video for "I am actually scared of linear algebra" animated by Claude Opus 5.5.
-
-I'm sure this is partly the IKEA effect but I'm very happy with the result, love it!
-
-Original song by Suno, Claude and @AndyMasley 
-
-Prompt below
-```
-
 ### TypingMind 标志缓慢显现转场动画
 
 [@tdinh_me](https://x.com/tdinh_me/status/2103704250329301409) · 0:21 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103704250329301409/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103704250329301409?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -633,28 +605,6 @@ Out: the button shrinks into a dot, the whole scene closes down into it like an 
 5. Goo: blur + alpha threshold on an offscreen layer for the split and the merge.
 6. Sound: a downloaded SFX for every event, each placed by its measured peak. The song enters on its hit. Loudnorm to -14 LUFS.
 7. Render with Playwright at 60fps with 4 …
-```
-
-### 动态视频效果对比重制
-
-[@notdwd](https://x.com/notdwd/status/2106140092750536984) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2106140092750536984/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106140092750536984?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-do NOT asl Opus 5.5 to make videos from scratch.
-
-good quality videos still come from the reference, taste + direction you give it. without that, it just defaults to the same generic AI slop everyone is already posting.
-
-left is @claudeai’s original. right is my version rebuilt for fun.
-
-same pacing, same cuts, same movement.
-
-took around 30 minutes and cost $0.
-
-give it great work to study, then let it handle the execution.
-
-prompt below ↓
-
-<inputs> Ask me for: three words for the headline build (one per act), the product line for the first end card, a wordmark name, a simple mark (or draw one), a palette mood for the horizon, a source of real photographs of round objects, and the music. If I skip any, use these defaults: words "Lorem's" → "ipsum to" → "dolorem"; product line "Lorem 5.5"; wordmark "Ipsum"; mark = a circle ring with its lower half filled solid; horizon = warm amber dusk over a black planet; photographs = CC0 museum objects from the Cleveland Museum of Art open-access API (plates, coins, mirrors, shields, roundels, stained glass, carved discs); music = the reference track. </inputs> <direction> A 20 second 16:9 brand film, 1920x1080, 25 fps, frames f1–f500. Concept: the edge of the world. Every shot is the curved top edge of a real round object filling the bottom of frame like a planet's horizon, and the cut lands on a new object every 5–31 frames. Motion law: every shot is a STILL photograph with at most a tiny camera drift. All energy comes from the cuts. No in-shot animation except where listed. The word on the arc never animates; it only changes size and texture at each cut. Look: macro still-life photography: real light, real wear, shallow focus where stated, film grain on every frame (monochrome luminance, alive every frame). Type: one classic serif (Georgia regular) for every word, white or ink per shot, sitting just above the arc. Banned: crossfades, eased moves between shots, procedural noise or sine-wave "textures", rainbow or spectral gradients, purple, violet or magenta anywhere, recolouring the reference's own images, any real brand's mark or words, Math.random. </direction> <structure> Coordinates are px on 1920x1080. Hard cuts at f32, 58, 84, 95, 101, 107, 120, 135, 148, 162, 177, 190, 204, 219, 227, 237, 245, 256, 268, 276, 286, 294, 302, 313, 320, 326, 334, 342, 349, 357, 363, 370, 377, 384, 390, 395, 400: keep these exact frames (37 cuts, verified by a frame-difference scan). Every object is placed so that its rim matches that shot's arc: a circle through (0, yL), (960, yC), (1920, yR). Its crest sits at x960. Scale = arc radius / the object's own rim radius, capped at 1.8× so the photo is never visibly upscaled. S1 f1–31, horizon open: A planet limb with radius 6881 px, centred x960, crest y≈518. Above it a glow band ~330 px thick (warm amber, exponential falloff), a thin bright line 8 px above the limb, and black planet below. Camera push 1.000 → 1.026 with x drift +28 px and y +4 px, linear across the shot. S2 f32–57: dark ground; a terracotta dish rim, focus falling off downward. Camera pan x +32 px across the shot. Overscan the plate by (1 + 2|dx|/1920) so no edge ever shows. S3 f58–83: a marbled bowl rim on black, softened 10 px. STATIC (the reference moves less than 4 px). S4 f84–94: a red-figure plate on a pale grey sweep, contact shadow 50%. S5 f95–100: slipware dish on sage green. S6 f101–106: a blue lustre bowl on near-black, rim light 10 px. S7 f107–119: blue-and-white porcelain on navy paper; arc (706, 542, 706). S8 f120–134: carved celadon on black; camera push 1.000 → 1.008. S9 f135–147: celadon ring plate on cream paper. S10 f148–161: gold-and-paste brooch (scalloped edge) on dusty pink. S11 f162–176: gold repoussé plaque on black, warm rim light. S12 f177–189: patinated bronze mirror on charcoal. S13 f190–203: plain celadon dish on tan paper. S14 f204–218: the only animated shot. A Muybridge bird-in-flight plate (public domain) advances one cell per frame on cream paper, with …
 ```
 
 ### Claude自主生成的动态展示视频
@@ -921,6 +871,52 @@ he took a ready stack of 700+ viral videos, gave it to Opus 5.5 and built a syst
 kinetic type, 3D, particles, an exploded mechanical watch, a pixel art wizard
 
 pick one. copy. build.
+```
+
+### 枪手斯安威斯坦慢动作特效片段
+
+[@aimikoda](https://x.com/aimikoda/status/2114007429146964169) · 0:32 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2114007429146964169/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114007429146964169?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Seedance 2.5 + Claude Opus 5.5
+
+The Gunslinger
+
+Tried out a Sandevistan effect with Seedance. Asked Opus to add some edits to the slow-mo part.
+
+Seedance 2.5 prompt in the replies.
+```
+
+### Claude Opus 5.5 生成视频合集展示
+
+[@tivollem](https://x.com/tivollem/status/2114039309305327716) · 0:32 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2114039309305327716/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114039309305327716?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Ce repo GitHub c'est une pépite ptn
+
+475 vidéos faites avec Claude Opus 5.5 : des animations et des vidéos explicatives, de la 3D et même des jeux
+
+Et chaque démo a son prompt d'origine donc tu prends celle que tu veux et tu la refais pour ton produit 🤖
+
+Je te mets le lien en réponse 👇
+```
+
+### Claude Opus网格特效音乐视频
+
+[@aimikoda](https://x.com/aimikoda/status/2114167098284839305) · 0:39 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2114167098284839305/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114167098284839305?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Claude Opus 5.5 - Grid Effect
+
+I tried three different versions, in order: Poster Grid, Style Infection and Temporal Mosaic. The original video was 15 seconds long, while the music was 40 seconds.
+
+Prompts:
+
+1. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, keeping the original footage as one continuous, clearly recognizable image across the grid. The center ~6 cells play in sync with distinct visual treatments, while outer cells create independent variations. Fill the composition with dense, rapidly evolving effects, layered motion graphics, typography, icons, flashes and rhythmic transitions. Let the footage and music inspire every creative choice. Push visual intensity with frequent beat-driven bursts, but keep the original characters, action and scene consistently recognizable. Effects enhance the footage rather than replace it.
+
+2. Create a 1:1 high-energy poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells remain synchronized with distinct visual treatments. Aggressive waves of stylistic transformations spread between neighboring cells, triggering rapid chain reactions, layered effects, graphic explosions and rhythmic resets. Fill the grid with constant visual activity, inventive typography, icons and motion graphics inspired by the footage and soundtrack. Make transformations bold, frequent and visually spectacular, but temporary, always revealing the original characters and action beneath.
+
+3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.
 ```
 
 <a id="game"></a>
@@ -1623,24 +1619,6 @@ I had Claude Opus 5.5 make: "A video explaining recursion, where every explanati
 Nine genre shifts, one prompt...
 ```
 
-### 展现 Claude Code 效率的电影拍摄动画
-
-[@daniel_mac8](https://x.com/daniel_mac8/status/2103824976713306214) · 0:29 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103824976713306214/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103824976713306214?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 solves animation. Watch this. Sound on. 🤯
-
-The prompt was essentially: 
-
-"Use Dynamic Workflows and create an animation depicting a movie shoot about Opus 5.5's efficiency in Claude Code"
-
-Full prompt is below. Borrow it.
-
-How Claude worked:
-
-1. Ultracode turned Claude
-```
-
 ### 冰淇淋发展史混剪解说视频
 
 [@notiansans](https://x.com/notiansans/status/2104676565829505527) · 1:00 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2104676565829505527/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104676565829505527?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1968,22 +1946,6 @@ I gave all four the same one-line prompt: recreate Sonic in Three.js.
 No reference image. No follow-ups. Just one prompt.
 
 Who wins?
-```
-
-### 河马在日落沼泽中奔跑
-
-[@pipeline_os](https://x.com/pipeline_os/status/2108937773742756207) · 0:14 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2108937773742756207/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108937773742756207?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Animators spend weeks on a running cycle like this.
-
-I gave three AI models one sentence: "a hippo running through a swamp at sunset."
-
-> Claude Haiku 5.5
-> Claude Opus 5.5
-> GPT 6 Luna
-
-Watch the water. Then tell me this isn't getting scary.
 ```
 
 ### GPT-6与Opus生成的动物场景对比
