@@ -2,16 +2,16 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-82 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+80 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (12)
-- [Motion graphics](#motion-graphics) (35)
+- [3D scenes](#3d-scene) (13)
+- [Motion graphics](#motion-graphics) (33)
 - [Games](#game) (1)
 - [Product UI](#ui-demo) (12)
 - [Charts & diagrams](#data-viz) (1)
-- [Explainers](#explainer) (8)
+- [Explainers](#explainer) (7)
 - [Launch films](#launch-film) (6)
 - [Tests & comparisons](#comparison) (7)
 
@@ -213,6 +213,18 @@ https://t.co/Pg50uAHENL
 prompt🔽by @sashikantsingh_
 ```
 
+### Cyberpunk city with flying cars in Three.js
+
+[@buildwithsid](https://x.com/buildwithsid/status/2114004943996846516) · 0:46 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2114004943996846516/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114004943996846516?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+made with Opus 5.5 + @threejs
+
+asked it to build a cyberpunk city with flying cars. as detailed as possible
+
+the future looks crazyyy 👀
+```
+
 <a id="motion-graphics"></a>
 
 ## Motion graphics
@@ -328,16 +340,6 @@ Opus 5.5 just cooked this perfect motion piece in 14'
 0 After Effects or AI. just code
 
 full prompt I used, below👇
-```
-
-### Testing animation capabilities with Claude Opus
-
-[@tcballard](https://x.com/tcballard/status/2103441222375268605) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2103441222375268605/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103441222375268605?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Had some time whilst agents were running on something, so thought I’d test out Opus 5.5 some more 
-
-Prompt below 👇
 ```
 
 ### A dynamic fifteen second motion graphics showreel
@@ -560,51 +562,6 @@ Opus 5.5 is f*cking cracked at motion design
 I'm dropping all prompts used in the comments
 
 This is INSANE 🫣
-```
-
-### Code-generated motion design morph transitions
-
-[@twoclipping](https://x.com/twoclipping/status/2105927781678747965) · 0:24 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2105927781678747965/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2105927781678747965?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-opus 5.5 is f*cking insane at motion design
-
-every frame is code with 0 external tools
-
-im open sourcing the template for all these morph transitions
-
-steal it ↓
-
-<inputs>
-Ask me for: my product's name (one lowercase word, it becomes a black wordmark with a period), the one job a user hands it before bed, the three results it reports by morning, two photos of the same place at night and by day (aligned, so a crossfade reads as a real sunrise), one sunny daytime photo for outside the logo, and a song with a big hit near its start. If I skip any, use the defaults: "nightshift", "book 10 sales calls this week", 200 leads found / 200 emails sent / 10 calls booked.
-</inputs>
-
-<direction>
-A 24 second square product launch video, 1440x1440 at 60fps, 2D only, one continuous take that loops. The whole video happens inside the period of the wordmark. Outside it's daytime (the sunny photo behind a black wordmark). Inside it's the night photo under iOS-style glass panels (the blurred photo behind each panel, a tint, a rim light). Nothing cuts: every scene grows out of the last, shapes morph, dots fly, colours change under floods. Every morph glides 0.8s on cubic-bezier(.45,0,.15,1) and the camera zoom rides the same curve. Geist, the real macOS pointer, soft shadows that grow with each shape's height.
-Banned: flat or gradient backgrounds made in code, camera zooms into tiny points, hard cuts, crossfades between scenes, bouncy springs, particles, glows, holds longer than 1s, cropped type.
-</direction>
-
-<structure>
-Beats are the song's. The song enters on its big hit as the first pill appears.
-Open: the letters slide into the period and vanish into it while it glides to the middle. The period opens like an iris onto the night inside it, and "you log off at 6", then "[product] doesn't", roll through one mask line over the night photo.
-Ask: a glass "Ask [product]" pill springs in. The cursor clicks it, it glides into an input and the job types out.
-Find: send shrinks the input to a dot that ripples into a 23x15 grid. A scan line sweeps it, 200 dots light up and a counter counts them.
-Write: the lit dots pour into a glass email composer. A second, purple cursor labelled "[product]" types a personal opener and presses Send, and the counter runs to 200/200.
-Night: the composer becomes a glass orb with a progress ring. A clock chip swaps 11:42 PM, 3:17 AM, 5:02 AM, 6:59 AM while the sky relights from night to dawn and "while you sleep" rolls in.
-Results (beat 20): the orb turns black and goo-splits into the three result pills. The checks pop green.
-Morning: the pills merge into a Dynamic Island that grows into a phone lock screen: the day photo, the date, a big 7:00, the bezel growing out of the screen edge. Three glass notifications stack in, and the cursor taps the first, which opens like iOS.
-Proof: a week calendar (10 meetings pop in, a hover shows one's time), then a pipeline chart ($48,200 counts up, the line draws, a hover follows it). A black flood from the line's end becomes "Start your night shift →" and the cursor clicks it.
-Out: the button shrinks into a dot, the whole scene closes down into it like an iris, and the letters slide back out of the period. The tagline rises. Last frame = first frame.
-</structure>
-
-<build>
-1. One HTML canvas. Everything is a pure function of time inside seek(t): no timers, no state between frames.
-2. One element morphs through every state (size, radius, colour, material) from a table of beat times, so retiming is one edit.
-3. Render the inside world into an offscreen canvas and reveal it through the period with a circular mask. Never zoom the camera into the dot.
-4. Glass: a pre-blurred copy of the photo clipped to the shape, then a tint and a gradient rim.
-5. Goo: blur + alpha threshold on an offscreen layer for the split and the merge.
-6. Sound: a downloaded SFX for every event, each placed by its measured peak. The song enters on its hit. Loudnorm to -14 LUFS.
-7. Render with Playwright at 60fps with 4 …
 ```
 
 ### Self-directed motion video by Claude Opus 5.5
@@ -1656,32 +1613,6 @@ Newspaper cutouts with mixed-media collage, highly polished: layered paper cutou
 - End on the opening frame so the video loops. Never end on a hard cut.
 ```
 
-### Multi-agent coding workflow orchestrated by Claude Code
-
-[@cyrilXBT](https://x.com/cyrilXBT/status/2111744158830621167) · 0:16 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2111744158830621167/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111744158830621167?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-OPUS 5.5 SHOULDN'T BE DOING THE WORK.
-
-It should be writing the PLAN.
-
-Claude Code workflows let Opus write a script that runs a whole swarm of agents in the background.
-
-Opus plans.
-
-Haiku 5.5 scans every file in parallel.
-
-Sonnet 5.5 makes the fixes.
-
-A verifier checks every finding.
-
-Opus only sees what survives.
-
-Your expensive model never reads 100 agent transcripts again.
-
-Setup prompt below 👇
-```
-
 ### Designing a multi-agent system with Claude Opus
 
 [@soniacuts](https://x.com/soniacuts/status/2111861401425691132) · 0:24 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2111861401425691132/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111861401425691132?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1990,37 +1921,21 @@ Build a cinematic 3D animation explaining how a Tesla-style electric motor works
 Is Opus in trouble?
 ```
 
-### Comparing Three.js particle nebula generation across models
+### Rainbow jelly simulation comparison
 
-[@AYi_AInotes](https://x.com/AYi_AInotes/status/2112521204791918675) · 1:00 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2112521204791918675/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112521204791918675?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+[@0xRhinoX](https://x.com/0xRhinoX/status/2114059647233495351) · 0:28 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2114059647233495351/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114059647233495351?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
 
 ```text
-喵个咪，真的感慨啊，这大概是我最近实测 AI 大模型最震撼、也最反直觉的一次。
-现在全网都把 Claude Opus 5.5 当成写代码的天花板，我把同一句 Three.js 指令，同时甩给了它和 MiniMax 刚发的 M3.1 Flash：做出粒子星云、行星光晕，点哪颗星，镜头就平滑飞向哪颗星。
+Kimi K3.1 Pro just made the jelliest jelly ever. For $1.50
 
-一边是按美金精打细算着调用的闭源顶配旗舰，
-一边是每百万 Token 输出只要 0.6 美元、缓存读取才 0.015 美元的国产极速模型，结果两边全部一次跑通，真的让我蛮惊喜的，
-但是兄弟们，更让我觉得离谱的是左边这个便宜一大截的国产极速战神M3.1 Flash：
-代码初始化阶段，它自己检测出 4 个潜在的渲染报错，不等人催，直接在后台跑测试、当场修好，把帧率稳稳焊死在 60 帧。
-关键是我的提示词里压根没要求做控制面板啊，它还主动在右上角多搓了一套，轨道线、辉光和星云全都能一键开关，交付出来就是开箱即用的完整作品，这个是真的有点牛逼。
+Same prompt: rainbow jelly you can cut, nail and torch.
 
-右边的 Opus 5.5 则守住了审美的底子：太阳光晕带着强烈的电影镜头感，底部导航栏和木星、海王星的资料卡排版极其讲究，光影和设计品味上，老牌旗舰Claude依然有它独一份的细腻。
+Kimi K3.1 Pro - $1.50, 17 min
+Opus 5.5 - $8.00, 52 min
 
-但把两边的账单摊在桌面上，任何开发者都绕不开这道残酷的算术题：
-在绝大多数日常前端交互、代码构建和智能体流程里，两者的能力差距，已经远远配不上它们之间的价格鸿沟。
+Look at the colors. And the shadows are real: every layer casts its own color on the table.
 
-以前咱们搞复杂项目，总觉得必须全程挂着最贵的脑子。
+Opus took 3x longer and cost 5x more for this.
 
-亲手测完这把我才明白，真正能把智能体推向全天候量产的，往往不是高高在上的奢侈品，
-而是M3.1 Flash这种选手，它就是前阵子在榜单上匿名跑了 200T Token 的 Space Bunny，亮明真身后速度拉到上一代 M3 的 3 倍、成本砍掉三分之二，靠极低成本的多轮自检，不知疲倦地替你干完脏活累活。
-
-不过惊艳归惊艳，跑分咱们也得客观看：它拿全场第一的是自动化办公 Automation-Bench（62.2），硬核终端编程 Terminal Bench 4.0 只有 38.1，离 Opus 5 的 51.8 还有实打实的代差。
-
-啃十万行祖传代码库，还得请Claude旗舰出山哈哈，但日常七八成的原型开发和自动化脚本，它已经能稳稳接过去，光这一点就够团队省下大把真金白银了hh。
-
-说实话到现在我心里还感慨的不行，国产模型进化迭代的速度真的越来越快了，也越来越强了，当一个每百万输出才 0.6 美元的快模型学会了自己跑测试、自己抓虫修到 60 帧，国外顶配旗舰靠单次智商筑起的溢价围墙，就已经开始漏风松动了。
-
-看完这组 3D 太阳系，更打动你的是左边功能完备、还能自己抓虫的极客风，还是右边更有电影感的设计风？欢迎铁汁们互动交流，
-
-反正要是让我自己掏腰包跑批量任务，左边这种又快又省还不让人操心的选手，我已经挑不出拒绝的理由了哈哈哈。
+Would you still pay for Opus?
 ```
