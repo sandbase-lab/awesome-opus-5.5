@@ -2,18 +2,18 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 80 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 79 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (13)
-- [动效](#motion-graphics) (33)
+- [动效](#motion-graphics) (34)
 - [游戏](#game) (1)
-- [产品界面](#ui-demo) (12)
+- [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (7)
 - [发布片](#launch-film) (6)
-- [测试对比](#comparison) (7)
+- [测试对比](#comparison) (6)
 
 <a id="3d-scene"></a>
 
@@ -876,6 +876,18 @@ Prompts:
 3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.
 ```
 
+### 使用Claude Opus制作的五条悟剪辑
+
+[@aimikoda](https://x.com/aimikoda/status/2114745463736082828) · 0:33 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2114745463736082828/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114745463736082828?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Satoru Gojo Edit with Claude Opus 5.5
+
+This time, I didn't use any video footage, just images I created with Midjourney and a music file.
+
+Prompt in the replies. 👇
+```
+
 <a id="game"></a>
 
 ## 游戏
@@ -1263,38 +1275,6 @@ Click the toolbar icon: a line-drawn spider appears on the current page, follows
 - Dark (#161…
 ```
 
-### 复刻TradingView功能的自定义量化终端
-
-[@0xDeniAi](https://x.com/0xDeniAi/status/2110692386854555977) · 0:24 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2110692386854555977/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110692386854555977?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-REA + Opus 5.5 is f*ucking treasure...
-
-Honestly i'm not sure this is legal.
-
-i just reverse engineered how TradingView premium indicators works and rebuilt it as my own quant terminal. every indicator i need, zero subscription. software is cooked
-
-here is how to use REA to rebuild TradingView(prompts included):
-
--point REA at TradingView’s public interface and map every major feature, from chart interactions to indicators and alerts
-
--trace how the app behaves when you switch symbols, change timeframes, add indicators, draw levels and save chart layouts
-
--use REA’s MCP tools to trace the app logic on software you’re allowed to inspect, keeping proven facts and guesses apart
-
--feed everything into Claude Opus 5.5, which turns the investigation into a technical spec and a step-by-step build plan
-
--rebuild the charting engine from scratch: real market data, candlesticks, RSI, MACD, Bollinger Bands, drawing tools and saved watchlists
-
--add a quant backtesting engine that runs strategies on historical data, with fees, slippage and drawdowns counted
-
--test every piece against what you observed, fix what fails, and keep going until the whole system actually works
-
--you end up with your own TradingView-style quant research terminal, with source code you control and features you can keep adding forever
-
-Save this. It will probably make you a lot of money. Before you start check the prompt and article below↓
-```
-
 ### 使用Claude Opus逆向工程电视界面
 
 [@0xCodila](https://x.com/0xCodila/status/2111826236586570101) · 0:23 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2111826236586570101/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111826236586570101?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1389,48 +1369,6 @@ Find full prompt below
 Then read the article below on how to reverse-engineer anything
 ```
 
-### 结合 Claude Code 的智能电视语音界面
-
-[@0xCodez](https://x.com/0xCodez/status/2112958529988669742) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2112958529988669742/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112958529988669742?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Holy sh*t, I just turned my TV into Jarvis with Opus 5.5 + ChatGPT voice mode
-
-I reverse-engineered my Samsung TV with Opus 5.5...
-
-1 sentence out loud = 6 Claude Code agents opening on my living room TV. 
-
-here's the full guide step by step:
-
-step 1 → put your Samsung Smart TV and your laptop on the same Wi-Fi
-
-step 2 → paste the prompt below into Claude Code on Opus 5.5 with a photo of Settings → Support → About This TV
-
-step 3 → Opus maps how the TV takes orders and finds the loophole: 
-
-Samsung's own remote-control API on your home network can open any web page in the TV browser
-
-step 4 → it spins up 6 Claude Code agents in a tmux grid on the laptop and streams them as a private page on your Wi-Fi only
-
-step 5 → it builds a tiny "Jarvis" connector with one single tool: open the agent wall. 
-
-ChatGPT voice mode is the ears, the connector is the hands
-
-step 6 → press Allow on the TV once, the last time you touch the remote
-
-step 7 → say "Open Claude Code CLI on my TV" and watch the windows pop in one by one
-
-the result: the laptop does the work, the TV is the control room...
-
-p.s: works on most Samsung Smart TVs with Tizen. 
-
-mine in the video runs Smart Hub. The remote now lives in a drawer
-
-Find full prompt below
-
-Then read the article below on how to reverse-engineer anything
-```
-
 ### 智能电视语音控制界面演示
 
 [@0xCodez](https://x.com/0xCodez/status/2113270979476545573) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2113270979476545573/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113270979476545573?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1495,6 +1433,48 @@ step 5 → passwords go into your keychain with one command, never into the chat
 step 6 + the result → say yes and Claude fixes your slow Wi-Fi, cuts ads and bloat on your TV, sets schedules on your AC and much more (every change has an undo)
 
 Change your life today. Then read article below on full reverse-engineering:
+```
+
+### 基于大疆无人机制作的家庭安防系统
+
+[@0xCodez](https://x.com/0xCodez/status/2114762819371680110) · 0:27 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2114762819371680110/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114762819371680110?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+I turned my DJI Mavic into a home security drone with REA & Opus 5.5.
+
+this f*cking is insane..
+
+I reverse-engineered my DJI drone with Opus 5.5
+
+no cloud. no GPS on the target. it all runs on the phone. iPhone or Android.
+
+here's the build step by step:
+
+step 1 → plug a spare phone into the Mavic remote and paste the prompt below into Claude Code on Opus 5.5
+
+step 2 → Opus checks your drone against the DJI Mobile SDK v5 list. not on it? 
+
+stop there. no firmware hacks
+
+step 3 → it builds a small app on the official DJI SDK: Swift for iPhone, Kotlin for Android
+
+step 4 → sync with the alarm: Home Assistant sees it trigger → push to your phone → one tap "Launch"
+
+step 5 → eyes: a tiny YOLO model on the phone's chip. Core ML on iPhone, LiteRT on Android
+
+step 6 → memory: a Kalman filter. he runs behind a fence → LOCKED → COASTING → re-locks on the same ID
+
+step 7 → hands: Virtual Stick at 10 Hz. box center → yaw, box size → distance, never closer than 8 m
+
+step 8 → at the property line it stops, climbs to 30 m and keeps the camera on him until he's out of sight
+
+step 9 → lands back on the pad. the clip with track, distance and timestamps is already on your phone
+
+the alarm wakes you up. the drone already knows where he went...
+
+Find full prompt below
+
+Then, read the article below on how to reverse-engineer anything with Opus 5.5.
 ```
 
 <a id="data-viz"></a>
@@ -1830,24 +1810,6 @@ after Opus 5.5 it actually hurts to look at anything GPT 6 Astra designs
 gave both models the exact same prompt: "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
 
 not even close, see for yourselves. GPT is honestly terrible here, openai just has awful taste
-```
-
-### 单图生成动画网站效果对比展示
-
-[@exploraX_](https://x.com/exploraX_/status/2107435761490444396) · 1:05 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2107435761490444396/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107435761490444396?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-🚨Claude Opus 5.5 VS GPT 6.1 Sol.
-
-i gave both models the same simple prompt: create an animated website from a single image.
-
-Opus took around 1hr 20mins, while GPT-6.1 finished in just 15mins.
-
-both came up with really nice concepts, but Opus clearly spent more time on the details and delivered the better overall quality.
-
-GPT-6.1 wins on speed. Opus wins on execution.
-
-you can check both websites in the comments and decide for yourself.
 ```
 
 ### Opus 5.5生成的两个产品发布视频对比
