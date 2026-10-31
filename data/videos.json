@@ -816,24 +816,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103008022369099992"
  },
  {
-  "id": "2103062348168618280",
-  "title": "Interactive 3D gummy candy comparison",
-  "title_zh": "可交互3D软糖效果对比",
-  "category": "comparison",
-  "author": {
-   "handle": "vib3coded",
-   "name": "Vib3Coded"
-  },
-  "postUrl": "https://x.com/vib3coded/status/2103062348168618280",
-  "createdAt": "2026-09-24T10:01:51.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103062348168618280/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103062348168618280/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103062348168618280"
- },
- {
   "id": "2103066071838466494",
   "title": "SaaS product launch video created with Opus 5.5",
   "title_zh": "Opus 5.5单提示词生成的SaaS产品发布视频",
@@ -1497,24 +1479,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103530750767206626"
  },
  {
-  "id": "2103538744695693512",
-  "title": "Motion design video with synthesized music",
-  "title_zh": "单提示词生成的动态设计与合成配乐",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "prasenx",
-   "name": "Prasenjit"
-  },
-  "postUrl": "https://x.com/prasenx/status/2103538744695693512",
-  "createdAt": "2026-09-25T17:34:53.000Z",
-  "durationMs": 15000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103538744695693512/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103538744695693512/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103538744695693512"
- },
- {
   "id": "2103555549929566323",
   "title": "Recreation of Apple Wonderful Tools Animation",
   "title_zh": "复刻苹果精彩工具动态动画",
@@ -1771,43 +1735,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103759350330544254"
  },
  {
-  "id": "2103788160031592572",
-  "title": "3D zoom into NVIDIA Blackwell GPU",
-  "title_zh": "英伟达Blackwell GPU微观3D拆解动画",
-  "category": "3d-scene",
-  "author": {
-   "handle": "mdaman010",
-   "name": "Aman"
-  },
-  "postUrl": "https://x.com/mdaman010/status/2103788160031592572",
-  "createdAt": "2026-09-26T10:05:58.000Z",
-  "durationMs": 48576,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103788160031592572/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103788160031592572/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103788160031592572"
- },
- {
-  "id": "2103789415323562325",
-  "title": "Top-down police chase arcade game in Unity",
-  "title_zh": "Unity制作的俯视角警车追逐街机游戏",
-  "category": "game",
-  "author": {
-   "handle": "froessell",
-   "name": "✌︎ frederik ✌︎"
-  },
-  "postUrl": "https://x.com/froessell/status/2103789415323562325",
-  "createdAt": "2026-09-26T10:10:57.000Z",
-  "durationMs": 59166,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103789415323562325/video.mp4",
-  "promptShared": true,
-  "promptText": "Opus 5.5 built this game in @unity. \n\nArtwork made in Chatgpt.\n\nUsed Topdown engine to speed up the process.\n\nPROMPT:\nPRD — Police Chase Arcade Game\n\nWorking title: Heatwave\nPlatform: iOS + Android\nEngine: Unity\nGenre: Top-down 3D arcade chase / survival\nOrientation: Portrait\nInput: One-thumb touch controls\nBusiness model: TBD — design MVP around gameplay first\nPrimary goal: Build a genuinely fun playable prototype before adding progression or monetization.\n⸻\nProduct vision\nA fast, chaotic mobile arcade game where the player is constantly being pursued by increasingly aggressive police.\nThe player cannot directly attack.\nInstead, they survive by driving aggressively, drifting around obstacles, making sudden turns and tricking pursuing police into crashing into obstacles and each other.\nThe fantasy is:\nYou’re not stronger than the police. You’re harder to catch.\n\nRuns should produce constant near-misses, chain collisions and moments where the player escapes a seemingly impossible situation.\n\nThink:\n\neasy controls + aggressive pursuit + physics chaos + escalating pressure.\n\n⸻\n\nCore gameplay loop\n\nSTART RUN\n↓\nDRIVE / DRIFT\n↓\nPOLICE PURSUE\n↓\nBAIT POLICE\n↓\nDODGE\n↓\nPOLICE CRASH\n↓\nGAIN SCORE\n↓\nWANTED LEVEL INCREASES\n↓\nMORE / HARDER POLICE\n↓\nSURVIVE\n↓\nEVENTUALLY GET CAUGHT\n↓\nSCORE / RESTART\n\nTarget run duration:\n\n2–5 minutes.\n\nRestart should take less than 2 seconds.\n\n⸻\n\nDesign principles\n\n3.1 One-thumb playable\n\nThe player should be able to understand the controls within seconds.\nNo accelerator.\nNo brake pedal.\nNo virtual steering wheel.\nThe vehicle moves automatically.\nThe player controls only direction.\n\n(I moved away from this after testing it the first time and added the onscreen joystick)\n\n3.2 Arcade physics, not simulation\nVehicles should:\ndrift\nslide\nbounce\nspin\ncollide dramatically\nrecover quickly\nFun takes priority over physical accuracy.\n\n3.3 Pursuers are weapons\nPolice are effectively the player’s offensive mechanic.\nThe player should learn:\n“If I turn here, that cop is going straight into that wall.”\n3.4 Chaos should remain readable\n\nEven with 10+ vehicles on screen, the player must immediately understand:\nwhere they are\nwhere they’re moving\n\nwhere police are coming from\n\nwhat can kill them\n\n3.5 Failure should feel fair\n\nDeath should generally result from a mistake the player understands rather than unpredictable physics.\n\n⸻\n\nMVP scope\n\nDo not build progression, upgrades, missions or monetization for the first milestone.\n\nThe first version contains:\n\n1 player vehicle\n\n1 arena\n\n1 police vehicle\n\n1 elite police variant\n\n5 wanted levels\n\nphysics collisions\n\nenvironmental obstacles\nscoring\nplayer health\npolice destruction\nbasic VFX\nbasic audio\n\ngame-over screen\n\ninstant restart\n\nThat’s enough to determine whether the game deserves further development.\n\n⸻\n\nPlayer vehicle\n\nMovement\n\nPlayer vehicle uses a Rigidbody-based arcade controller.\n\nDo not rely heavily on realistic WheelColliders.\nCore variables should be exposed in the Unity Inspector:\nAcceleration\nMaximum Speed\nTurn Speed\nTurn Curve\nLateral Grip\nDrift Factor\nVehicle Mass\nCollision Force\nDrag\nAngular Drag\nRecovery Speed\nThese need to be extremely easy to tune.\n\n⸻\n\nControls\n\nRecommended first implementation:\n\nDrag steering\n\nPlayer touches anywhere on the lower portion of the screen.\n\nDragging horizontally controls steering.\n\n← drag          turn left\n→ drag          turn right\nVehicle accelerates automatically.\nSteering should be relative rather than absolute.\nThe player should be able to lift their finger without immediately losing control.\nAlternative to prototype\nTest:\nHold left/right side of screen = steer left/right.\nDon’t commit until both have been tested on a physical phone.\n⸻\nDrift system\nDrifting should happen naturally when turning at speed.\nNo dedicated drift button.\nAt low speed:\nhigh traction\n\nAt high speed:\n\nreduced lateral traction\n\nThis produces controlled sliding.\n\nLong drifts can optionally award score.\n\nExample:\n\nDRIFT\n+120\nLONG DRIFT\n+340\n\nBut drift …",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103789415323562325/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103789415323562325"
- },
- {
   "id": "2103789882309234711",
   "title": "Sunset metal detector game demo",
   "title_zh": "落日背景下的金属探测器小游戏演示",
@@ -1916,24 +1843,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103850664007028964/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103850664007028964"
- },
- {
-  "id": "2103856583667052674",
-  "title": "Motion graphics video created for owndotpage",
-  "title_zh": "为owndotpage生成的动态设计视频",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "ElitzaVasileva",
-   "name": "Elitza Vasileva"
-  },
-  "postUrl": "https://x.com/ElitzaVasileva/status/2103856583667052674",
-  "createdAt": "2026-09-26T14:37:51.000Z",
-  "durationMs": 30000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103856583667052674/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103856583667052674/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103856583667052674"
  },
  {
   "id": "2103895476319969685",
@@ -2371,24 +2280,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104262648519156094"
  },
  {
-  "id": "2104273030465585397",
-  "title": "Visual shader generated with code",
-  "title_zh": "代码生成的着色器视觉效果",
-  "category": "particles",
-  "author": {
-   "handle": "foodofthegods3",
-   "name": "無事人"
-  },
-  "postUrl": "https://x.com/foodofthegods3/status/2104273030465585397",
-  "createdAt": "2026-09-27T18:12:40.000Z",
-  "durationMs": 10816,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104273030465585397/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104273030465585397/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104273030465585397"
- },
- {
   "id": "2104283163413606580",
   "title": "Three.js 3D game made with Opus 5.5",
   "title_zh": "Opus 5.5制作的Three.js 3D游戏",
@@ -2809,24 +2700,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2105309987983745060"
  },
  {
-  "id": "2105414480910069765",
-  "title": "Product showcase motion video for browser extension",
-  "title_zh": "浏览器插件产品动态展示视频",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "allodev",
-   "name": "Allo"
-  },
-  "postUrl": "https://x.com/allodev/status/2105414480910069765",
-  "createdAt": "2026-09-30T21:48:23.000Z",
-  "durationMs": 24554,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2105414480910069765/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2105414480910069765/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2105414480910069765"
- },
- {
   "id": "2105723245722812598",
   "title": "Procedural Animals Sculpted and Animated in Three.js",
   "title_zh": "Three.js纯代码程序化动物动画",
@@ -3133,24 +3006,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106957256247902272/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106957256247902272"
- },
- {
-  "id": "2107013497813172593",
-  "title": "Isometric design generated in five minutes",
-  "title_zh": "五分钟生成的等轴测设计",
-  "category": "3d-scene",
-  "author": {
-   "handle": "itsnotryan",
-   "name": "Ryan Ning"
-  },
-  "postUrl": "https://x.com/itsnotryan/status/2107013497813172593",
-  "createdAt": "2026-10-05T07:42:18.000Z",
-  "durationMs": 7183,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107013497813172593/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107013497813172593/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107013497813172593"
  },
  {
   "id": "2107058718882103388",
@@ -3645,24 +3500,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108007410522890319/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108007410522890319"
- },
- {
-  "id": "2108013423401353577",
-  "title": "Real-time 3D world in Claude Monet style",
-  "title_zh": "莫奈风格实时3D渲染场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "gruberbuilds",
-   "name": "Brian Gruber"
-  },
-  "postUrl": "https://x.com/gruberbuilds/status/2108013423401353577",
-  "createdAt": "2026-10-08T01:55:39.000Z",
-  "durationMs": 91141,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108013423401353577/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108013423401353577/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108013423401353577"
  },
  {
   "id": "2108167896065085463",
@@ -4884,24 +4721,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110275826658967896"
  },
  {
-  "id": "2110333207929634996",
-  "title": "Motion graphics generated with Gemini 4",
-  "title_zh": "Gemini 4 单提示词直出的动效视频",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "cheerselflin",
-   "name": "林悦己Cheer"
-  },
-  "postUrl": "https://x.com/cheerselflin/status/2110333207929634996",
-  "createdAt": "2026-10-14T11:33:39.000Z",
-  "durationMs": 18227,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110333207929634996/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110333207929634996/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110333207929634996"
- },
- {
   "id": "2110352122575274388",
   "title": "Business simulation game with dynamic weather cycles",
   "title_zh": "具备动态天气的商业模拟游戏开发",
@@ -5029,24 +4848,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110453070236922090"
  },
  {
-  "id": "2110455690091483346",
-  "title": "Multi-agent orchestration workflow with Claude Code",
-  "title_zh": "Claude Code 多智能体协作代码处理工作流",
-  "category": "ui-demo",
-  "author": {
-   "handle": "skunzu",
-   "name": "Skunzu"
-  },
-  "postUrl": "https://x.com/skunzu/status/2110455690091483346",
-  "createdAt": "2026-10-14T19:40:21.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110455690091483346/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110455690091483346/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110455690091483346"
- },
- {
   "id": "2110460775722852744",
   "title": "Airport ramp strategy game in Three.js",
   "title_zh": "基于Three.js的机场机坪策略游戏",
@@ -5135,24 +4936,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110689292737749146/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110689292737749146"
- },
- {
-  "id": "2110741762159288825",
-  "title": "Code-generated video using Opus 5.5 skill",
-  "title_zh": "使用 Opus 5.5 技能代码生成的视频",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "sarpstar",
-   "name": "sarpstar"
-  },
-  "postUrl": "https://x.com/sarpstar/status/2110741762159288825",
-  "createdAt": "2026-10-15T14:37:06.000Z",
-  "durationMs": 34500,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110741762159288825/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110741762159288825/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110741762159288825"
  },
  {
   "id": "2110770664101527568",
@@ -6188,24 +5971,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113184121883435047"
  },
  {
-  "id": "2113207736146043268",
-  "title": "Multi-agent cost optimization in Claude Code",
-  "title_zh": "Claude Code多智能体成本优化方案",
-  "category": "explainer",
-  "author": {
-   "handle": "Sprytixl",
-   "name": "Sprytix"
-  },
-  "postUrl": "https://x.com/Sprytixl/status/2113207736146043268",
-  "createdAt": "2026-10-22T09:56:00.000Z",
-  "durationMs": 36000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113207736146043268/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113207736146043268/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113207736146043268"
- },
- {
   "id": "2113248976984068329",
   "title": "An animated parchment map for Minecraft",
   "title_zh": "我的世界羊皮纸动态地图设计",
@@ -6223,25 +5988,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113248976984068329/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113248976984068329"
- },
- {
-  "id": "2113269204296048805",
-  "title": "Automated video generation system using Claude Code",
-  "title_zh": "基于Claude Code的自动化视频生成系统",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "N01ennn",
-   "name": "NO1ennn"
-  },
-  "postUrl": "https://x.com/N01ennn/status/2113269204296048805",
-  "createdAt": "2026-10-22T14:00:15.000Z",
-  "durationMs": 30000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113269204296048805/video.mp4",
-  "promptShared": true,
-  "promptText": "this is pure f*cking treasure\n\nPixar motion designers are about to start quitting after seeing what this guy built\n\nhe took a ready stack of 700+ viral videos, gave it to Opus 5.5 and built a system that makes videos 24/7\n\n> 700+ videos, each with the exact prompt its creator shared\n> Claude Code reads the repo, opens a video, copies its prompt\n> pulls out style, motion, camera, color, timing and stack\n> then builds it again with opus 5.5 \n> watch › scan › extract › prompt › queue, on loop\n\nkinetic type, 3D, particles, an exploded mechanical watch, a pixel art wizard\n\npick one. copy. build.",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113269204296048805/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113269204296048805"
  },
  {
   "id": "2113270979476545573",
@@ -6353,24 +6099,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113310927093436587"
  },
  {
-  "id": "2113323386927505627",
-  "title": "Finding hidden iPhone spyware using Claude Code",
-  "title_zh": "通过Claude Code排查iPhone隐蔽恶意软件",
-  "category": "explainer",
-  "author": {
-   "handle": "BoryaOfficial",
-   "name": "Borya | Official"
-  },
-  "postUrl": "https://x.com/BoryaOfficial/status/2113323386927505627",
-  "createdAt": "2026-10-22T17:35:33.000Z",
-  "durationMs": 33350,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113323386927505627/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113323386927505627/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113323386927505627"
- },
- {
   "id": "2113339047967920186",
   "title": "Interactive 3D Arduino simulator in the browser",
   "title_zh": "浏览器端交互式 3D Arduino 模拟器",
@@ -6424,42 +6152,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113535202098372655/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113535202098372655"
- },
- {
-  "id": "2113557631025455294",
-  "title": "Interactive 3D model of an AI server",
-  "title_zh": "可拆解的AI服务器交互式3D模型",
-  "category": "explainer",
-  "author": {
-   "handle": "0xbobaaa",
-   "name": "0xbobaa"
-  },
-  "postUrl": "https://x.com/0xbobaaa/status/2113557631025455294",
-  "createdAt": "2026-10-23T09:06:21.000Z",
-  "durationMs": 29033,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113557631025455294/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113557631025455294/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113557631025455294"
- },
- {
-  "id": "2113564231065124894",
-  "title": "Animation practice created with Claude Opus 5.5",
-  "title_zh": "使用Claude Opus 5.5制作的动画练习",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "NEXUS_TO_NOVA",
-   "name": "NΞXUS"
-  },
-  "postUrl": "https://x.com/NEXUS_TO_NOVA/status/2113564231065124894",
-  "createdAt": "2026-10-23T09:32:35.000Z",
-  "durationMs": 24079,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113564231065124894/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113564231065124894/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113564231065124894"
  },
  {
   "id": "2113580735319658994",
@@ -7079,25 +6771,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114728296034226583"
  },
  {
-  "id": "2114745463736082828",
-  "title": "Satoru Gojo edit made with Claude Opus",
-  "title_zh": "使用Claude Opus制作的五条悟剪辑",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "aimikoda",
-   "name": "Kōda"
-  },
-  "postUrl": "https://x.com/aimikoda/status/2114745463736082828",
-  "createdAt": "2026-10-26T15:46:23.000Z",
-  "durationMs": 33000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114745463736082828/video.mp4",
-  "promptShared": true,
-  "promptText": "Satoru Gojo Edit with Claude Opus 5.5\n\nThis time, I didn't use any video footage, just images I created with Midjourney and a music file.\n\nPrompt in the replies. 👇",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114745463736082828/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114745463736082828"
- },
- {
   "id": "2114752456915665236",
   "title": "A procedural sandworm coded in Opus 5.5",
   "title_zh": "Opus 5.5用代码构建的程序化沙虫",
@@ -7207,6 +6880,43 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115056349235052776"
  },
  {
+  "id": "2115062744466534702",
+  "title": "Lo-fi pixel art looping animation",
+  "title_zh": "Lo-fi 像素艺术循环动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "minosdevs",
+   "name": "minos"
+  },
+  "postUrl": "https://x.com/minosdevs/status/2115062744466534702",
+  "createdAt": "2026-10-27T12:47:08.000Z",
+  "durationMs": 12051,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115062744466534702/video.mp4",
+  "promptShared": true,
+  "promptText": "En gros 2k26, faut commencer à spammer les vidéos lofi beats sur YouTube les bros\n\n1. Tu demandes à Opus 5.5 de te coder une scène pixel art en boucle (bureau, pluie, ville la nuit)\n2. Tu demandes à Claude de te générer le beat lofi par code, zéro musique à acheter\n3. Tu postes sur YouTube avec un titre du genre « Rainy NYC Night 🌧️ Lofi Beats to Study/Code To »\n4. Tu lances plusieurs chaînes avec des styles différents : Tokyo, café Paris, cabane sous la neige…\n5. Tu double down sur celles qui font des vues\n\nLe prompt en commentaire 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115062744466534702/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115062744466534702"
+ },
+ {
+  "id": "2115083589977026714",
+  "title": "Automated code-generated viral video test",
+  "title_zh": "全代码生成的短视频测试",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "finnardley",
+   "name": "Finn"
+  },
+  "postUrl": "https://x.com/finnardley/status/2115083589977026714",
+  "createdAt": "2026-10-27T14:09:58.000Z",
+  "durationMs": 91113,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115083589977026714/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115083589977026714/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115083589977026714"
+ },
+ {
   "id": "2115106296794104086",
   "title": "Playable game built with Blender and Unreal",
   "title_zh": "结合Blender与虚幻引擎制作的可玩游戏",
@@ -7243,6 +6953,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115130015260291145"
  },
  {
+  "id": "2115143705342382159",
+  "title": "Unreal Engine 5.8 boss fight generated with AI",
+  "title_zh": "虚幻引擎5.8中AI生成的Boss战演示",
+  "category": "game",
+  "author": {
+   "handle": "CanItCode",
+   "name": "CanItCode"
+  },
+  "postUrl": "https://x.com/CanItCode/status/2115143705342382159",
+  "createdAt": "2026-10-27T18:08:51.000Z",
+  "durationMs": 25433,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115143705342382159/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115143705342382159/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115143705342382159"
+ },
+ {
   "id": "2115166136212111369",
   "title": "One-minute animated explainer video",
   "title_zh": "一分钟AI动画概念讲解视频展示",
@@ -7277,5 +7005,279 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115193601458151552/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115193601458151552"
+ },
+ {
+  "id": "2115442722660037110",
+  "title": "Simulated mobile fruit slicing game",
+  "title_zh": "模拟手机切水果游戏",
+  "category": "game",
+  "author": {
+   "handle": "ErnestoSOFTWARE",
+   "name": "Ernesto Lopez"
+  },
+  "postUrl": "https://x.com/ErnestoSOFTWARE/status/2115442722660037110",
+  "createdAt": "2026-10-28T13:57:02.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115442722660037110/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115442722660037110/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115442722660037110"
+ },
+ {
+  "id": "2115482577712590977",
+  "title": "A procedural city generated in Blender using nodes",
+  "title_zh": "Blender中基于节点程序化生成的城市",
+  "category": "3d-scene",
+  "author": {
+   "handle": "0xWast3",
+   "name": "wast3"
+  },
+  "postUrl": "https://x.com/0xWast3/status/2115482577712590977",
+  "createdAt": "2026-10-28T16:35:24.000Z",
+  "durationMs": 22633,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115482577712590977/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115482577712590977/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115482577712590977"
+ },
+ {
+  "id": "2115486834755035178",
+  "title": "Floating island 3D short film in Three.js",
+  "title_zh": "Three.js浮岛城镇演变3D短片",
+  "category": "3d-scene",
+  "author": {
+   "handle": "0xbobaaa",
+   "name": "0xbobaa"
+  },
+  "postUrl": "https://x.com/0xbobaaa/status/2115486834755035178",
+  "createdAt": "2026-10-28T16:52:19.000Z",
+  "durationMs": 58315,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115486834755035178/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115486834755035178/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115486834755035178"
+ },
+ {
+  "id": "2115489326222250114",
+  "title": "Automated 3D character animation with Blender and Remotion",
+  "title_zh": "结合Blender与Remotion的3D角色动画流程",
+  "category": "3d-scene",
+  "author": {
+   "handle": "renproton",
+   "name": "renproton"
+  },
+  "postUrl": "https://x.com/renproton/status/2115489326222250114",
+  "createdAt": "2026-10-28T17:02:13.000Z",
+  "durationMs": 15566,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115489326222250114/video.mp4",
+  "promptShared": true,
+  "promptText": "THIS IS F*CKING GOLDMINE\n\nOpus 5.5 + Blender + Remotion = your own character animation studio that you can use to earn $$$\n\ntiny worlds. expressive characters. cinematic camera moves.\n\ncharacter idea → editable 3D scene → animated film\n\nsteal the full stack ↓\n\n01 give Claude a director’s brief\n\none character. one setting. one visual joke\n\nspecify the shots, expressions, camera moves and final pose before building the scene\n\n02 connect Claude Code to Blender\n\nMCP for Blender lets Claude inspect the scene and write Blender Python\n\nwith Blender + uv installed:\n\n- `claude mcp add blender uvx mcp-for-blender`\n- `uvx mcp-for-blender install-addon`\n\nenable the addon in Blender and start its server\n\n▸MCP for Blender\nhttps://t.co/Io3qbXf2gW\n\n03 build + animate\n\nBlender handles the scene, rigging, keyframes and character animation\n\nblock the keyboard and character first. then add the walk, eye movements, glass and close-ups\n\n▸Blender animation tools\nhttps://t.co/VL0T7jPYlH\n\n04 light the world\n\nPoly Haven supplies CC0 HDRIs, textures and models\n\ngive the glass something to reflect. keep the character readable against the background\n\n▸Poly Haven\nhttps://t.co/kdUKzzD3AA\n\n05 finish the film\n\nRemotion assembles the rendered footage, titles and audio into a reusable composition\n\nadd the official agent guidance inside your video project:\n\n`npx skills add remotion-dev/skills`\n\n▸Remotion Skills\nhttps://t.co/bxBzSKDCsP\n\n06 export + check\n\nFFmpeg for the delivery file\n\nwatch the actual MP4, check the sound and keep the editable scene + project\n\n▸FFmpeg\nhttps://t.co/Y2Dc6luI2I\n\nthe loop:\n\nbrief → scene → character → materials → light → camera → preview → render → edit → export\n\nthe clip is the visual reference. the animated console breaks down a workflow for building this kind of scene\n\nsave this, then read the full guide for Opus 5.5 Motion Engineering ↓",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115489326222250114/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115489326222250114"
+ },
+ {
+  "id": "2115632086707225085",
+  "title": "Interactive 3D biology explainer for oxygen transport",
+  "title_zh": "氧气传输交互式3D生物教学演示",
+  "category": "explainer",
+  "author": {
+   "handle": "slashui",
+   "name": "洛克船长"
+  },
+  "postUrl": "https://x.com/slashui/status/2115632086707225085",
+  "createdAt": "2026-10-29T02:29:30.000Z",
+  "durationMs": 30037,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115632086707225085/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115632086707225085/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115632086707225085"
+ },
+ {
+  "id": "2115759392192659746",
+  "title": "Motion ads designed for Chipper",
+  "title_zh": "为Chipper制作的动态广告演示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "Aygramm_",
+   "name": "Ayomide Adeji"
+  },
+  "postUrl": "https://x.com/Aygramm_/status/2115759392192659746",
+  "createdAt": "2026-10-29T10:55:22.000Z",
+  "durationMs": 30000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115759392192659746/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115759392192659746/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115759392192659746"
+ },
+ {
+  "id": "2115785376292102495",
+  "title": "Motion design created with Opus 5.5",
+  "title_zh": "用Opus 5.5制作的动态设计",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "0xnicc0",
+   "name": "nicco"
+  },
+  "postUrl": "https://x.com/0xnicc0/status/2115785376292102495",
+  "createdAt": "2026-10-29T12:38:37.000Z",
+  "durationMs": 14058,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115785376292102495/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115785376292102495/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115785376292102495"
+ },
+ {
+  "id": "2115786060231770351",
+  "title": "Stickman thriller animated entirely with code",
+  "title_zh": "纯代码生成的火柴人惊悚动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "finnardley",
+   "name": "Finn"
+  },
+  "postUrl": "https://x.com/finnardley/status/2115786060231770351",
+  "createdAt": "2026-10-29T12:41:20.000Z",
+  "durationMs": 83366,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115786060231770351/video.mp4",
+  "promptShared": true,
+  "promptText": "i just made this stickman animation in full code with claude opus 5.5\n\ntook me 20 mins and spent $0 on videos or images\n\npromised you guys id give a free claude skill to re create any code format so here it is\n\nhand this prompt to your claude code and thank me later ↓\n\n<inputs>\nAsk me for: my video idea (one line is fine), the setting, the length (60-90 s) and the narrator (an ElevenLabs voice, or \"free\" for a local text-to-speech). Everything is built in code: no AI images, no AI video. Make it MY story, not a copy of an example.\n</inputs>\n\n<format>\nThe style is a second-person survival thriller with stickmen, built as a series:\n- \"Imagine you…\" hook with a time stamp in the first 3 s\n- a HUD with the DAY number and a clock that moves forward through the episode\n- 3-4 RULES, each one paid off on screen\n- a threat that escalates and is mostly shown, not told\n- a twist that makes one rule impossible\n- a two-choice ending (\"DO YOU OPEN IT?\" style, a green and a red option, \"COMMENT BELOW\") and \"FOLLOW FOR DAY 2\"\nAround 20-30 voice lines, 60-90 s, a new shot every 1.5-3 s.\n</format>\n\n<story>\nWrite a beat sheet and the script first and show me both before building anything.\n- One line = one visual. Rules are short commands.\n- Open a new question every ~10 s and only answer it with a bigger one.\n- Put the viewer in POV for the scary parts: what you see through a door, a window, a phone, a peephole.\n- The ending is a choice where both options look bad.\n- Write numbers twice: the caption form (\"11:58 PM\") and the spoken form (\"eleven fifty-eight P M\") for the text-to-speech.\n- Rotate settings between episodes (apartment, subway, school at night, hospital, cabin, plane, office, motel) and fit the threat to the setting.\n</story>\n\n<look>\nPick a palette per story, but keep the language:\n- real 3D low-poly sets with real lights and shadows; the mood comes from light (one warm practical, one cold fill, one strong accent such as a door gap, a screen or a siren)\n- the stickman is flat and 2D-looking: a light body with a thick dark outline, round strokes, dot eyes, no mouth; give the main character one mark (a scar, a cap, a colour) so doubles and callbacks read\n- the overlay: a monospace HUD top-left, chunky captions (1-3 words, key words in an accent colour), a tilted rule sticker with a big condensed title, phone screens drawn in 2D\n- banned: AI frames, glossy 3D characters, emojis, music with vocals, long captions\n</look>\n\n<shots>\nA library to adapt to the story (never use all of them):\n- the opener: a camera move that starts tight on you and pulls out to show where you are\n- POV phone in your hands (2D phone UI, two stick thumbs)\n- a macro on the one detail that matters\n- outside chaos from above (balcony, bridge, window): physics vehicles, a running crowd, something collapsing or burning\n- third-person action in the room: walking with planted feet, reaching, hesitating, barricading\n- POV interaction: throwing, holding a torch, opening something\n- a close-up of your face for the reaction\n- a low angle on a door or vent: light leaking in, shadows moving\n- knocks, shakes, things falling\n- a fisheye peephole, camera or window view of the threat stepping closer\n- the choice screen and the end card\n</shots>\n\n<tools>\nWhat each tool is for. Install whatever is missing, and ask me before anything paid:\n- three . js: the 3D engine; it runs inside a web page. Download its module file locally so renders don't depend on the internet. Use its post-processing passes for bloom, plus one custom lens shader for vignette, grain, fisheye and colour fringing.\n- cannon-es: a JavaScript physics engine for vehicles, falling debris and collapses.\n- Playwright (Python): opens the page in a real browser (Edge or Chrome with the GPU on) and captures every frame as an image.\n- ffmpeg: the command-line video and audio tool. It joins the frames into an MP4, cuts and filters the audio (highpass, lowpass and echo for voices behind doors), mixes, normalises loudness and…",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115786060231770351/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115786060231770351"
+ },
+ {
+  "id": "2115849659797373038",
+  "title": "Claude Fable 5.5 vs Opus 5.5 vs Gemini 4",
+  "title_zh": "Claude Fable 5.5对比Opus 5.5与Gemini 4",
+  "category": "comparison",
+  "author": {
+   "handle": "AI_Screening",
+   "name": "Pranav Reddy"
+  },
+  "postUrl": "https://x.com/AI_Screening/status/2115849659797373038",
+  "createdAt": "2026-10-29T16:54:04.000Z",
+  "durationMs": 15066,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115849659797373038/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115849659797373038/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115849659797373038"
+ },
+ {
+  "id": "2115862732637458763",
+  "title": "Realistic water shader in Three.js",
+  "title_zh": "Three.js打造的高逼真水体着色器",
+  "category": "3d-scene",
+  "author": {
+   "handle": "maxt3chno",
+   "name": "Max"
+  },
+  "postUrl": "https://x.com/maxt3chno/status/2115862732637458763",
+  "createdAt": "2026-10-29T17:46:00.000Z",
+  "durationMs": 92100,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115862732637458763/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115862732637458763/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115862732637458763"
+ },
+ {
+  "id": "2115870373300326503",
+  "title": "System cleaner app interface with shader background",
+  "title_zh": "带着色器背景的系统清理应用界面",
+  "category": "ui-demo",
+  "author": {
+   "handle": "0xMovez",
+   "name": "Movez"
+  },
+  "postUrl": "https://x.com/0xMovez/status/2115870373300326503",
+  "createdAt": "2026-10-29T18:16:22.000Z",
+  "durationMs": 35340,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115870373300326503/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115870373300326503/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115870373300326503"
+ },
+ {
+  "id": "2115878504067915826",
+  "title": "A 3D scene built in Three.js",
+  "title_zh": "使用 Three.js 构建的 3D 场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Belbizaz",
+   "name": "Frog King Simulator"
+  },
+  "postUrl": "https://x.com/Belbizaz/status/2115878504067915826",
+  "createdAt": "2026-10-29T18:48:41.000Z",
+  "durationMs": 33988,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115878504067915826/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115878504067915826/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115878504067915826"
+ },
+ {
+  "id": "2115882221319958984",
+  "title": "Interactive 3D simulation of a V8 engine",
+  "title_zh": "V8发动机3D交互仿真模拟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "elvar_official",
+   "name": "Elvar"
+  },
+  "postUrl": "https://x.com/elvar_official/status/2115882221319958984",
+  "createdAt": "2026-10-29T19:03:27.000Z",
+  "durationMs": 26000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115882221319958984/video.mp4",
+  "promptShared": true,
+  "promptText": "Claude Opus 5.5 just built me a V8 I can stop mid-explosion.\n\nThe result is getting out of hand.\n\n> Every piston runs on the exact slider-crank math, so the rev counter, the valve chart and the pressure curve all read the same number.\n> The crank is cross-plane, journals 90° apart, firing 1-8-4-3-6-5-7-2.\n> At 700 rpm it plays at 1/20 speed: 210° of crank a second, slow enough to watch a single intake.\n> 101.6 mm bore, 89 mm stroke, 8 cylinders: 5.8 L.\n\nSame rule as every machine in the article: the model first, the drawing after.\n\nEvery prompt for builds like this is in the article below 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115882221319958984/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115882221319958984"
+ },
+ {
+  "id": "2116149863935078885",
+  "title": "Automating 3D scene animation in Blender",
+  "title_zh": "在 Blender 中自动编排 3D 场景动画",
+  "category": "3d-scene",
+  "author": {
+   "handle": "sorenxet",
+   "name": "sorenxet"
+  },
+  "postUrl": "https://x.com/sorenxet/status/2116149863935078885",
+  "createdAt": "2026-10-30T12:46:58.000Z",
+  "durationMs": 46549,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116149863935078885/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116149863935078885/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116149863935078885"
+ },
+ {
+  "id": "2116192984299344372",
+  "title": "Mechanical model teardown simulated in Three.js",
+  "title_zh": "Three.js 机械模型拆解模拟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "elvar_official",
+   "name": "Elvar"
+  },
+  "postUrl": "https://x.com/elvar_official/status/2116192984299344372",
+  "createdAt": "2026-10-30T15:38:19.000Z",
+  "durationMs": 24000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116192984299344372/video.mp4",
+  "promptShared": true,
+  "promptText": "I just packed my whole 3D workflow into one Claude skill.\n\ni gave opus 5.5 one reference picture and said: build me a full teardown of this, every part in code.\n\nthe build:\n\n> the picture set the look, every shell, gear and hose is three.js code\n> opus matched its render to the picture side by side for 3 rounds before any video\n> 260 tiny pistons, hoses, screws and wires sit under the big gears\n> my first version just hovered, so now something comes apart every 2-3 seconds\n> pull a leg and its servo bar flips to DETACHED\n\ni built 7 of these in 2 days. the sims are live on my playground.\n\nthe skill, the playground and all 9 prompts 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116192984299344372/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116192984299344372"
  }
 ]

@@ -2,13 +2,12 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-79 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+81 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (13)
+- [3D scenes](#3d-scene) (16)
 - [Motion graphics](#motion-graphics) (34)
-- [Games](#game) (1)
 - [Product UI](#ui-demo) (11)
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (7)
@@ -223,6 +222,129 @@ made with Opus 5.5 + @threejs
 asked it to build a cyberpunk city with flying cars. as detailed as possible
 
 the future looks crazyyy 👀
+```
+
+### Automated 3D character animation with Blender and Remotion
+
+[@renproton](https://x.com/renproton/status/2115489326222250114) · 0:16 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2115489326222250114/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115489326222250114?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+THIS IS F*CKING GOLDMINE
+
+Opus 5.5 + Blender + Remotion = your own character animation studio that you can use to earn $$$
+
+tiny worlds. expressive characters. cinematic camera moves.
+
+character idea → editable 3D scene → animated film
+
+steal the full stack ↓
+
+01 give Claude a director’s brief
+
+one character. one setting. one visual joke
+
+specify the shots, expressions, camera moves and final pose before building the scene
+
+02 connect Claude Code to Blender
+
+MCP for Blender lets Claude inspect the scene and write Blender Python
+
+with Blender + uv installed:
+
+- `claude mcp add blender uvx mcp-for-blender`
+- `uvx mcp-for-blender install-addon`
+
+enable the addon in Blender and start its server
+
+▸MCP for Blender
+https://t.co/Io3qbXf2gW
+
+03 build + animate
+
+Blender handles the scene, rigging, keyframes and character animation
+
+block the keyboard and character first. then add the walk, eye movements, glass and close-ups
+
+▸Blender animation tools
+https://t.co/VL0T7jPYlH
+
+04 light the world
+
+Poly Haven supplies CC0 HDRIs, textures and models
+
+give the glass something to reflect. keep the character readable against the background
+
+▸Poly Haven
+https://t.co/kdUKzzD3AA
+
+05 finish the film
+
+Remotion assembles the rendered footage, titles and audio into a reusable composition
+
+add the official agent guidance inside your video project:
+
+`npx skills add remotion-dev/skills`
+
+▸Remotion Skills
+https://t.co/bxBzSKDCsP
+
+06 export + check
+
+FFmpeg for the delivery file
+
+watch the actual MP4, check the sound and keep the editable scene + project
+
+▸FFmpeg
+https://t.co/Y2Dc6luI2I
+
+the loop:
+
+brief → scene → character → materials → light → camera → preview → render → edit → export
+
+the clip is the visual reference. the animated console breaks down a workflow for building this kind of scene
+
+save this, then read the full guide for Opus 5.5 Motion Engineering ↓
+```
+
+### Interactive 3D simulation of a V8 engine
+
+[@elvar_official](https://x.com/elvar_official/status/2115882221319958984) · 0:26 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2115882221319958984/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115882221319958984?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Claude Opus 5.5 just built me a V8 I can stop mid-explosion.
+
+The result is getting out of hand.
+
+> Every piston runs on the exact slider-crank math, so the rev counter, the valve chart and the pressure curve all read the same number.
+> The crank is cross-plane, journals 90° apart, firing 1-8-4-3-6-5-7-2.
+> At 700 rpm it plays at 1/20 speed: 210° of crank a second, slow enough to watch a single intake.
+> 101.6 mm bore, 89 mm stroke, 8 cylinders: 5.8 L.
+
+Same rule as every machine in the article: the model first, the drawing after.
+
+Every prompt for builds like this is in the article below 👇
+```
+
+### Mechanical model teardown simulated in Three.js
+
+[@elvar_official](https://x.com/elvar_official/status/2116192984299344372) · 0:24 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2116192984299344372/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116192984299344372?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+I just packed my whole 3D workflow into one Claude skill.
+
+i gave opus 5.5 one reference picture and said: build me a full teardown of this, every part in code.
+
+the build:
+
+> the picture set the look, every shell, gear and hose is three.js code
+> opus matched its render to the picture side by side for 3 rounds before any video
+> 260 tiny pistons, hoses, screws and wires sit under the big gears
+> my first version just hovered, so now something comes apart every 2-3 seconds
+> pull a leg and its servo bar flips to DETACHED
+
+i built 7 of these in 2 days. the sims are live on my playground.
+
+the skill, the playground and all 9 prompts 👇
 ```
 
 <a id="motion-graphics"></a>
@@ -808,28 +930,6 @@ Here's the exact prompt I sent;
 "Using these four references, create me an animated map graphic for a minecraft video. It should take inspiration from the ingame map, the minecraft art style, as well as realistic old map parchments, and popular map animations on pinterest. i want the animation to appear by having it being lifted up into view on screen, and then the elements gradually appearing as if it's a hidden treasure map being revealed. i then want you to animate a route from the first location, and then to 4 other locations, starting at the first, and ending at the last. make the last location special by making it glow in gold to show that it's the final destination. Ensure it aligns with commonly known motion design best practices, add vfx on the different locations as they come into focus, as well as camera movement, sway, shake, and impact to build excitement towards the last location."
 ```
 
-### Automated video generation system using Claude Code
-
-[@N01ennn](https://x.com/N01ennn/status/2113269204296048805) · 0:30 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2113269204296048805/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113269204296048805?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-this is pure f*cking treasure
-
-Pixar motion designers are about to start quitting after seeing what this guy built
-
-he took a ready stack of 700+ viral videos, gave it to Opus 5.5 and built a system that makes videos 24/7
-
-> 700+ videos, each with the exact prompt its creator shared
-> Claude Code reads the repo, opens a video, copies its prompt
-> pulls out style, motion, camera, color, timing and stack
-> then builds it again with opus 5.5 
-> watch › scan › extract › prompt › queue, on loop
-
-kinetic type, 3D, particles, an exploded mechanical watch, a pixel art wizard
-
-pick one. copy. build.
-```
-
 ### A gunslinger with slow motion effects
 
 [@aimikoda](https://x.com/aimikoda/status/2114007429146964169) · 0:32 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2114007429146964169/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114007429146964169?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -876,235 +976,89 @@ Prompts:
 3. Create a 1:1 high-energy temporal poster-grid music video, exactly matching the supplied music's duration. Divide the frame into near-square cells with thin grey lines, preserving one continuous, recognizable image across the grid. The center ~6 cells follow the original action in sync while surrounding cells create intense temporal variations. Build dense rhythmic cascades of motion echoes, rapid frame repetitions, time offsets, reversals, impact freezes and layered graphic effects. Sync aggressive temporal bursts, typography, icons and transitions precisely to the music. Let the footage and soundtrack guide every creative decision. Keep the original action clearly identifiable amid the controlled visual chaos.
 ```
 
-### Satoru Gojo edit made with Claude Opus
+### Lo-fi pixel art looping animation
 
-[@aimikoda](https://x.com/aimikoda/status/2114745463736082828) · 0:33 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2114745463736082828/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114745463736082828?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+[@minosdevs](https://x.com/minosdevs/status/2115062744466534702) · 0:12 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2115062744466534702/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115062744466534702?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
 
 ```text
-Satoru Gojo Edit with Claude Opus 5.5
+En gros 2k26, faut commencer à spammer les vidéos lofi beats sur YouTube les bros
 
-This time, I didn't use any video footage, just images I created with Midjourney and a music file.
+1. Tu demandes à Opus 5.5 de te coder une scène pixel art en boucle (bureau, pluie, ville la nuit)
+2. Tu demandes à Claude de te générer le beat lofi par code, zéro musique à acheter
+3. Tu postes sur YouTube avec un titre du genre « Rainy NYC Night 🌧️ Lofi Beats to Study/Code To »
+4. Tu lances plusieurs chaînes avec des styles différents : Tokyo, café Paris, cabane sous la neige…
+5. Tu double down sur celles qui font des vues
 
-Prompt in the replies. 👇
+Le prompt en commentaire 👇
 ```
 
-<a id="game"></a>
+### Stickman thriller animated entirely with code
 
-## Games
-
-### Top-down police chase arcade game in Unity
-
-[@froessell](https://x.com/froessell/status/2103789415323562325) · 0:59 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2103789415323562325/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103789415323562325?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+[@finnardley](https://x.com/finnardley/status/2115786060231770351) · 1:23 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2115786060231770351/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115786060231770351?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
 
 ```text
-Opus 5.5 built this game in @unity. 
+i just made this stickman animation in full code with claude opus 5.5
 
-Artwork made in Chatgpt.
+took me 20 mins and spent $0 on videos or images
 
-Used Topdown engine to speed up the process.
+promised you guys id give a free claude skill to re create any code format so here it is
 
-PROMPT:
-PRD — Police Chase Arcade Game
+hand this prompt to your claude code and thank me later ↓
 
-Working title: Heatwave
-Platform: iOS + Android
-Engine: Unity
-Genre: Top-down 3D arcade chase / survival
-Orientation: Portrait
-Input: One-thumb touch controls
-Business model: TBD — design MVP around gameplay first
-Primary goal: Build a genuinely fun playable prototype before adding progression or monetization.
-⸻
-Product vision
-A fast, chaotic mobile arcade game where the player is constantly being pursued by increasingly aggressive police.
-The player cannot directly attack.
-Instead, they survive by driving aggressively, drifting around obstacles, making sudden turns and tricking pursuing police into crashing into obstacles and each other.
-The fantasy is:
-You’re not stronger than the police. You’re harder to catch.
+<inputs>
+Ask me for: my video idea (one line is fine), the setting, the length (60-90 s) and the narrator (an ElevenLabs voice, or "free" for a local text-to-speech). Everything is built in code: no AI images, no AI video. Make it MY story, not a copy of an example.
+</inputs>
 
-Runs should produce constant near-misses, chain collisions and moments where the player escapes a seemingly impossible situation.
+<format>
+The style is a second-person survival thriller with stickmen, built as a series:
+- "Imagine you…" hook with a time stamp in the first 3 s
+- a HUD with the DAY number and a clock that moves forward through the episode
+- 3-4 RULES, each one paid off on screen
+- a threat that escalates and is mostly shown, not told
+- a twist that makes one rule impossible
+- a two-choice ending ("DO YOU OPEN IT?" style, a green and a red option, "COMMENT BELOW") and "FOLLOW FOR DAY 2"
+Around 20-30 voice lines, 60-90 s, a new shot every 1.5-3 s.
+</format>
 
-Think:
+<story>
+Write a beat sheet and the script first and show me both before building anything.
+- One line = one visual. Rules are short commands.
+- Open a new question every ~10 s and only answer it with a bigger one.
+- Put the viewer in POV for the scary parts: what you see through a door, a window, a phone, a peephole.
+- The ending is a choice where both options look bad.
+- Write numbers twice: the caption form ("11:58 PM") and the spoken form ("eleven fifty-eight P M") for the text-to-speech.
+- Rotate settings between episodes (apartment, subway, school at night, hospital, cabin, plane, office, motel) and fit the threat to the setting.
+</story>
 
-easy controls + aggressive pursuit + physics chaos + escalating pressure.
+<look>
+Pick a palette per story, but keep the language:
+- real 3D low-poly sets with real lights and shadows; the mood comes from light (one warm practical, one cold fill, one strong accent such as a door gap, a screen or a siren)
+- the stickman is flat and 2D-looking: a light body with a thick dark outline, round strokes, dot eyes, no mouth; give the main character one mark (a scar, a cap, a colour) so doubles and callbacks read
+- the overlay: a monospace HUD top-left, chunky captions (1-3 words, key words in an accent colour), a tilted rule sticker with a big condensed title, phone screens drawn in 2D
+- banned: AI frames, glossy 3D characters, emojis, music with vocals, long captions
+</look>
 
-⸻
+<shots>
+A library to adapt to the story (never use all of them):
+- the opener: a camera move that starts tight on you and pulls out to show where you are
+- POV phone in your hands (2D phone UI, two stick thumbs)
+- a macro on the one detail that matters
+- outside chaos from above (balcony, bridge, window): physics vehicles, a running crowd, something collapsing or burning
+- third-person action in the room: walking with planted feet, reaching, hesitating, barricading
+- POV interaction: throwing, holding a torch, opening something
+- a close-up of your face for the reaction
+- a low angle on a door or vent: light leaking in, shadows moving
+- knocks, shakes, things falling
+- a fisheye peephole, camera or window view of the threat stepping closer
+- the choice screen and the end card
+</shots>
 
-Core gameplay loop
-
-START RUN
-↓
-DRIVE / DRIFT
-↓
-POLICE PURSUE
-↓
-BAIT POLICE
-↓
-DODGE
-↓
-POLICE CRASH
-↓
-GAIN SCORE
-↓
-WANTED LEVEL INCREASES
-↓
-MORE / HARDER POLICE
-↓
-SURVIVE
-↓
-EVENTUALLY GET CAUGHT
-↓
-SCORE / RESTART
-
-Target run duration:
-
-2–5 minutes.
-
-Restart should take less than 2 seconds.
-
-⸻
-
-Design principles
-
-3.1 One-thumb playable
-
-The player should be able to understand the controls within seconds.
-No accelerator.
-No brake pedal.
-No virtual steering wheel.
-The vehicle moves automatically.
-The player controls only direction.
-
-(I moved away from this after testing it the first time and added the onscreen joystick)
-
-3.2 Arcade physics, not simulation
-Vehicles should:
-drift
-slide
-bounce
-spin
-collide dramatically
-recover quickly
-Fun takes priority over physical accuracy.
-
-3.3 Pursuers are weapons
-Police are effectively the player’s offensive mechanic.
-The player should learn:
-“If I turn here, that cop is going straight into that wall.”
-3.4 Chaos should remain readable
-
-Even with 10+ vehicles on screen, the player must immediately understand:
-where they are
-where they’re moving
-
-where police are coming from
-
-what can kill them
-
-3.5 Failure should feel fair
-
-Death should generally result from a mistake the player understands rather than unpredictable physics.
-
-⸻
-
-MVP scope
-
-Do not build progression, upgrades, missions or monetization for the first milestone.
-
-The first version contains:
-
-1 player vehicle
-
-1 arena
-
-1 police vehicle
-
-1 elite police variant
-
-5 wanted levels
-
-physics collisions
-
-environmental obstacles
-scoring
-player health
-police destruction
-basic VFX
-basic audio
-
-game-over screen
-
-instant restart
-
-That’s enough to determine whether the game deserves further development.
-
-⸻
-
-Player vehicle
-
-Movement
-
-Player vehicle uses a Rigidbody-based arcade controller.
-
-Do not rely heavily on realistic WheelColliders.
-Core variables should be exposed in the Unity Inspector:
-Acceleration
-Maximum Speed
-Turn Speed
-Turn Curve
-Lateral Grip
-Drift Factor
-Vehicle Mass
-Collision Force
-Drag
-Angular Drag
-Recovery Speed
-These need to be extremely easy to tune.
-
-⸻
-
-Controls
-
-Recommended first implementation:
-
-Drag steering
-
-Player touches anywhere on the lower portion of the screen.
-
-Dragging horizontally controls steering.
-
-← drag          turn left
-→ drag          turn right
-Vehicle accelerates automatically.
-Steering should be relative rather than absolute.
-The player should be able to lift their finger without immediately losing control.
-Alternative to prototype
-Test:
-Hold left/right side of screen = steer left/right.
-Don’t commit until both have been tested on a physical phone.
-⸻
-Drift system
-Drifting should happen naturally when turning at speed.
-No dedicated drift button.
-At low speed:
-high traction
-
-At high speed:
-
-reduced lateral traction
-
-This produces controlled sliding.
-
-Long drifts can optionally award score.
-
-Example:
-
-DRIFT
-+120
-LONG DRIFT
-+340
-
-But drift …
+<tools>
+What each tool is for. Install whatever is missing, and ask me before anything paid:
+- three . js: the 3D engine; it runs inside a web page. Download its module file locally so renders don't depend on the internet. Use its post-processing passes for bloom, plus one custom lens shader for vignette, grain, fisheye and colour fringing.
+- cannon-es: a JavaScript physics engine for vehicles, falling debris and collapses.
+- Playwright (Python): opens the page in a real browser (Edge or Chrome with the GPU on) and captures every frame as an image.
+- ffmpeg: the command-line video and audio tool. It joins the frames into an MP4, cuts and filters the audio (highpass, lowpass and echo for voices behind doors), mixes, normalises loudness and…
 ```
 
 <a id="ui-demo"></a>
