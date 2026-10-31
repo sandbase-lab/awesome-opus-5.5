@@ -2,17 +2,17 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 81 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 83 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (16)
-- [动效](#motion-graphics) (34)
+- [动效](#motion-graphics) (32)
 - [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
-- [讲解](#explainer) (7)
+- [讲解](#explainer) (8)
 - [发布片](#launch-film) (6)
-- [测试对比](#comparison) (6)
+- [测试对比](#comparison) (9)
 
 <a id="3d-scene"></a>
 
@@ -479,25 +479,6 @@ Prompt
 That's it..
 ```
 
-### 纯代码生成的MakerMap产品动态演示
-
-[@verbove](https://x.com/verbove/status/2103483957266268381) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103483957266268381/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103483957266268381?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 is absolutely cracked at motion design
-
-this entire video is code
-
-0 After Effects
-0 manual animation
-
-I showed it one viral motion post and said:
-
-“explain MakerMap, but make it insane”
-
-it came back with 20 seconds of one shape morphing through the entire product:
-```
-
 ### 单条提示词生成的动态设计作品秀
 
 [@himanshutwtxs](https://x.com/himanshutwtxs/status/2103495232637882858) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103495232637882858/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103495232637882858?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -909,25 +890,6 @@ Generated a video with Seedance 2.5, then gave it to Opus 5.5 and asked for an a
 It re-cut every shot to the beat, added impact frames, motion graphics, a title logo and a color grade, and composed the music from scratch in code.
 
 Original + prompt in the replies.
-```
-
-### 我的世界羊皮纸动态地图设计
-
-[@sethfowIer](https://x.com/sethfowIer/status/2113248976984068329) · 0:19 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2113248976984068329/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113248976984068329?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-I made this YouTube graphic for a Minecraft video in one prompt and four references;
-
-- Minecraft branding assets
-- A screenshot of old parchment maps
-- An ingame minecraft map
-- Map animations on interest
-
-This is a Opus 5.5 one shot. 
-
-Here's the exact prompt I sent;
-
-"Using these four references, create me an animated map graphic for a minecraft video. It should take inspiration from the ingame map, the minecraft art style, as well as realistic old map parchments, and popular map animations on pinterest. i want the animation to appear by having it being lifted up into view on screen, and then the elements gradually appearing as if it's a hidden treasure map being revealed. i then want you to animate a route from the first location, and then to 4 other locations, starting at the first, and ending at the last. make the last location special by making it glow in gold to show that it's the final destination. Ensure it aligns with commonly known motion design best practices, add vfx on the different locations as they come into focus, as well as camera movement, sway, shake, and impact to build excitement towards the last location."
 ```
 
 ### 枪手斯安威斯坦慢动作特效片段
@@ -1607,6 +1569,38 @@ different box? let Claude Code figure it out
 Run it today. Then read article below on how to reverse-engineer anything:
 ```
 
+### 使用Opus搭建自建照片存储系统指南
+
+[@0xCodila](https://x.com/0xCodila/status/2116339908822319428) · 0:25 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2116339908822319428/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116339908822319428?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+How this is still f*cking legal... I paid Apple $199 last year just to have somewhere to keep my photos and videos
+
+so I just reverse-engineered iCloud / Google Photos with Opus 5.5 from one prompt and made it public for free
+
+here's full guide step by step:
+
+you need: a Mac or Windows PC + Claude Code, the bigger your disk - the more photos and video it keeps
+
+step 1 → paste prompt below into Claude Code Opus 5.5
+
+step 2 → it checks your disk, you say "yes" once, it installs Immich (open-source Google Photos) + Tailscale (private tunnel to your phone)
+
+step 3 → iCloud: it downloads your originals the way iCloud. com does, your password goes only into your disk
+
+step 4 → Google Photos: one script in your own tab saves your library to your disk
+
+( that's reverse-engineering: Apple and Google have no public API for your library, so it sends the same private requests their websites send )
+
+step 5 → it checks every file against Apple's or Google's list: N of N, nothing in your cloud
+
+step 6 → scan 2 QR codes on your phone, new photos back up to your computer
+
+then make a second copy on an external drive and cancel your storage plan yourself
+
+Try this today please. Then read article on how to save money on any other app:
+```
+
 <a id="launch-film"></a>
 
 ## 发布片
@@ -1854,4 +1848,68 @@ Look at the colors. And the shadows are real: every layer casts its own color on
 Opus took 3x longer and cost 5x more for this.
 
 Would you still pay for Opus?
+```
+
+### Gemini与Opus彩虹果冻效果对比
+
+[@0xRhinoX](https://x.com/0xRhinoX/status/2115891194383200515) · 0:23 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2115891194383200515/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115891194383200515?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Gemini 4 Carbon just DESTROYED Opus 5.5. For $4.30
+
+Same prompt: rainbow jelly you can cut, nail and torch.
+
+Gemini 4 Carbon - $4.30, 32 min
+Opus 5.5 - $14.00, 1h 20m
+
+Carbon's jelly is bright, sharp and throws rainbow shadows across the table.
+Opus looks washed out next to it.
+
+3x cheaper. 2x faster. 1 day old.
+
+Is Opus still worth $14?
+```
+
+### 两款模型生成捣蛋角色场景对比
+
+[@0xPorterio](https://x.com/0xPorterio/status/2116108534051905642) · 0:29 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2116108534051905642/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116108534051905642?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+🚨 Gemini 4 Carbon is 3x cheaper than Opus 5.5. but is it better?
+
+same prompt: 9 tiny troublemakers, a dock full of tools, and one of them has to pop at the end.
+
+Gemini 4 Carbon - $4.10, 34 min
+Opus 5.5 - $12.80, 1h 12m
+
+Carbon looks SERIOUSLY good. brighter, shinier, more chaos.
+Opus feels more alive. the way they all stare at the one getting squashed got me
+
+watch till the end, the inside of the black one is where it gets interesting.
+
+is Opus still worth 3x the price?
+```
+
+### 多模型四冲程发动机剖切动画对比
+
+[@EnvolDev](https://x.com/EnvolDev/status/2116189885723734309) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2116189885723734309/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116189885723734309?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+DeepSeek V4.1 Flash 1017 just embarrassed everyone. 🤯
+Same prompt: a working four-stroke engine cutaway.
+
+DeepSeek V4.1 Flash 1017: $0.36 · 1h 54m 16s 
+Claude Opus 5.5: $21.81 · 2h 00m 13s 
+GPT-6.1 Terra: $0.43 · 9m 09s 
+GPT-6 Astra: $7.33 · 54m 33s
+
+Opus got it right. No surprise there.
+
+But DeepSeek? As good as Claude, maybe the most beautiful one of the four… for 36 cents.
+
+That's 60x cheaper than Opus. This is nuts.
+
+Yes, Terra is fast. But costing more than DeepSeek? That's a joke. 😂
+
+Which one wins for you? 👇
 ```

@@ -417,24 +417,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102712897701097828"
  },
  {
-  "id": "2102716269598294339",
-  "title": "Comparison between Claude Opus 5.5 and GPT-6 Sol",
-  "title_zh": "Claude Opus 5.5与GPT-6 Sol对比",
-  "category": "comparison",
-  "author": {
-   "handle": "vision_ia",
-   "name": "VISION IA"
-  },
-  "postUrl": "https://x.com/vision_ia/status/2102716269598294339",
-  "createdAt": "2026-09-23T11:06:39.000Z",
-  "durationMs": 48000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102716269598294339/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102716269598294339/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102716269598294339"
- },
- {
   "id": "2102722719502704941",
   "title": "An explainer animation on special relativity",
   "title_zh": "狭义相对论主题的剪纸风科普动画",
@@ -1204,24 +1186,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103437168731636090"
  },
  {
-  "id": "2103437700783038710",
-  "title": "Agency presentation motion design",
-  "title_zh": "设计机构介绍动态演示",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "baptistelcx",
-   "name": "Baptiste Lacroix"
-  },
-  "postUrl": "https://x.com/baptistelcx/status/2103437700783038710",
-  "createdAt": "2026-09-25T10:53:22.000Z",
-  "durationMs": 77766,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103437700783038710/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103437700783038710/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103437700783038710"
- },
- {
   "id": "2103449416325890146",
   "title": "A dynamic fifteen second motion graphics showreel",
   "title_zh": "15秒动态图形设计师作品集展示",
@@ -1312,43 +1276,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103482164193165711/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103482164193165711"
- },
- {
-  "id": "2103482545111232946",
-  "title": "Procedural animated story of Steve Jobs",
-  "title_zh": "程序化史蒂夫·乔布斯生平动画",
-  "category": "explainer",
-  "author": {
-   "handle": "oozn",
-   "name": "onur ozcan"
-  },
-  "postUrl": "https://x.com/oozn/status/2103482545111232946",
-  "createdAt": "2026-09-25T13:51:34.000Z",
-  "durationMs": 119061,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103482545111232946/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103482545111232946/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103482545111232946"
- },
- {
-  "id": "2103483957266268381",
-  "title": "Coded motion design morphing through MakerMap",
-  "title_zh": "纯代码生成的MakerMap产品动态演示",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "verbove",
-   "name": "Martijn Verbove"
-  },
-  "postUrl": "https://x.com/verbove/status/2103483957266268381",
-  "createdAt": "2026-09-25T13:57:10.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103483957266268381/video.mp4",
-  "promptShared": true,
-  "promptText": "Opus 5.5 is absolutely cracked at motion design\n\nthis entire video is code\n\n0 After Effects\n0 manual animation\n\nI showed it one viral motion post and said:\n\n“explain MakerMap, but make it insane”\n\nit came back with 20 seconds of one shape morphing through the entire product:",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103483957266268381/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103483957266268381"
  },
  {
   "id": "2103485566570369333",
@@ -1717,24 +1644,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103757371357229129"
  },
  {
-  "id": "2103759350330544254",
-  "title": "M3E Canvas video in Remotion and Three.js",
-  "title_zh": "Remotion与Three.js制作的M3E Canvas视频",
-  "category": "3d-scene",
-  "author": {
-   "handle": "lnkiai",
-   "name": "いのり"
-  },
-  "postUrl": "https://x.com/lnkiai/status/2103759350330544254",
-  "createdAt": "2026-09-26T08:11:29.000Z",
-  "durationMs": 32136,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103759350330544254/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103759350330544254/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103759350330544254"
- },
- {
   "id": "2103789882309234711",
   "title": "Sunset metal detector game demo",
   "title_zh": "落日背景下的金属探测器小游戏演示",
@@ -1951,24 +1860,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104002281641542008/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104002281641542008"
- },
- {
-  "id": "2104004272946094296",
-  "title": "Open world fantasy sci-fi game update",
-  "title_zh": "开放世界奇幻科幻游戏更新展示",
-  "category": "game",
-  "author": {
-   "handle": "aniketjart",
-   "name": "Aniket J"
-  },
-  "postUrl": "https://x.com/aniketjart/status/2104004272946094296",
-  "createdAt": "2026-09-27T00:24:43.000Z",
-  "durationMs": 25472,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104004272946094296/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104004272946094296/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104004272946094296"
  },
  {
   "id": "2104013515623170390",
@@ -3283,24 +3174,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107611576543093088"
  },
  {
-  "id": "2107641212291424400",
-  "title": "Strategy game style mine management software",
-  "title_zh": "策略游戏风格矿山管理软件",
-  "category": "ui-demo",
-  "author": {
-   "handle": "tradphi",
-   "name": "Rish Dodhia"
-  },
-  "postUrl": "https://x.com/tradphi/status/2107641212291424400",
-  "createdAt": "2026-10-07T01:16:37.000Z",
-  "durationMs": 32000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107641212291424400/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107641212291424400/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107641212291424400"
- },
- {
   "id": "2107653056771068069",
   "title": "Code-rendered educational animation style prompts",
   "title_zh": "代码渲染知识动画全套提示词",
@@ -4303,24 +4176,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109693904136405364"
  },
  {
-  "id": "2109703283614916812",
-  "title": "Interactive EV teardown visualization in HTML",
-  "title_zh": "HTML实现的电动车拆解交互可视化",
-  "category": "3d-scene",
-  "author": {
-   "handle": "N01ennn",
-   "name": "NO1ennn"
-  },
-  "postUrl": "https://x.com/N01ennn/status/2109703283614916812",
-  "createdAt": "2026-10-12T17:50:33.000Z",
-  "durationMs": 44416,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109703283614916812/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109703283614916812/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109703283614916812"
- },
- {
   "id": "2109718931409699043",
   "title": "An interactive 3D world with a nightclub",
   "title_zh": "包含夜总会的可交互三维世界",
@@ -5113,7 +4968,7 @@
   "durationMs": 31700,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111306207239557288/video.mp4",
   "promptShared": false,
-  "featured": 7,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111306207239557288/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111306207239557288"
  },
@@ -5628,24 +5483,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112213850682536223"
  },
  {
-  "id": "2112247645955895455",
-  "title": "Four models tested on a Tesla Roadster drive",
-  "title_zh": "四款模型生成特斯拉驾驶视角对比",
-  "category": "comparison",
-  "author": {
-   "handle": "RafaCrackYT",
-   "name": "Rafa"
-  },
-  "postUrl": "https://x.com/RafaCrackYT/status/2112247645955895455",
-  "createdAt": "2026-10-19T18:20:57.000Z",
-  "durationMs": 30000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112247645955895455/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112247645955895455/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112247645955895455"
- },
- {
   "id": "2112255405002801347",
   "title": "Turning a TV box into a Linux agent server",
   "title_zh": "将电视盒子改造成Linux智能体服务器",
@@ -5827,24 +5664,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112818481557123186"
  },
  {
-  "id": "2112850049189486656",
-  "title": "Testing code-generated video repositories with Opus 5.5",
-  "title_zh": "使用 Opus 5.5 测试代码视频生成仓库",
-  "category": "comparison",
-  "author": {
-   "handle": "remoteugur",
-   "name": "Uğur Keşkekçi"
-  },
-  "postUrl": "https://x.com/remoteugur/status/2112850049189486656",
-  "createdAt": "2026-10-21T10:14:41.000Z",
-  "durationMs": 34321,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112850049189486656/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112850049189486656/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112850049189486656"
- },
- {
   "id": "2112912588027650182",
   "title": "Opus 5.5 launch vs now comparison",
   "title_zh": "Opus 5.5 发布初期与当前效果对比",
@@ -5917,24 +5736,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112989996366102944"
  },
  {
-  "id": "2113012516338970992",
-  "title": "Codebase memory management in Claude Code",
-  "title_zh": "Claude Code代码库记忆管理机制演示",
-  "category": "explainer",
-  "author": {
-   "handle": "mirku21",
-   "name": "mirku"
-  },
-  "postUrl": "https://x.com/mirku21/status/2113012516338970992",
-  "createdAt": "2026-10-21T21:00:16.000Z",
-  "durationMs": 25100,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113012516338970992/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113012516338970992/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113012516338970992"
- },
- {
   "id": "2113025231732224063",
   "title": "Pure JavaScript paper-cut fox animation",
   "title_zh": "纯 JavaScript 剪纸风格狐狸动画",
@@ -5969,25 +5770,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113184121883435047/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113184121883435047"
- },
- {
-  "id": "2113248976984068329",
-  "title": "An animated parchment map for Minecraft",
-  "title_zh": "我的世界羊皮纸动态地图设计",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "sethfowIer",
-   "name": "Seth Fowler"
-  },
-  "postUrl": "https://x.com/sethfowIer/status/2113248976984068329",
-  "createdAt": "2026-10-22T12:39:53.000Z",
-  "durationMs": 19200,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113248976984068329/video.mp4",
-  "promptShared": true,
-  "promptText": "I made this YouTube graphic for a Minecraft video in one prompt and four references;\n\n- Minecraft branding assets\n- A screenshot of old parchment maps\n- An ingame minecraft map\n- Map animations on interest\n\nThis is a Opus 5.5 one shot. \n\nHere's the exact prompt I sent;\n\n\"Using these four references, create me an animated map graphic for a minecraft video. It should take inspiration from the ingame map, the minecraft art style, as well as realistic old map parchments, and popular map animations on pinterest. i want the animation to appear by having it being lifted up into view on screen, and then the elements gradually appearing as if it's a hidden treasure map being revealed. i then want you to animate a route from the first location, and then to 4 other locations, starting at the first, and ending at the last. make the last location special by making it glow in gold to show that it's the final destination. Ensure it aligns with commonly known motion design best practices, add vfx on the different locations as they come into focus, as well as camera movement, sway, shake, and impact to build excitement towards the last location.\"",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113248976984068329/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113248976984068329"
  },
  {
   "id": "2113270979476545573",
@@ -7153,6 +6935,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115786060231770351"
  },
  {
+  "id": "2115818348772553107",
+  "title": "Unreal Engine Scene Built with Opus and Tripo",
+  "title_zh": "使用Opus与Tripo构建的虚幻引擎场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Octoberry",
+   "name": "O🌷"
+  },
+  "postUrl": "https://x.com/Octoberry/status/2115818348772553107",
+  "createdAt": "2026-10-29T14:49:39.000Z",
+  "durationMs": 63833,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115818348772553107/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115818348772553107/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115818348772553107"
+ },
+ {
   "id": "2115849659797373038",
   "title": "Claude Fable 5.5 vs Opus 5.5 vs Gemini 4",
   "title_zh": "Claude Fable 5.5对比Opus 5.5与Gemini 4",
@@ -7244,6 +7044,98 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115882221319958984"
  },
  {
+  "id": "2115891194383200515",
+  "title": "Rainbow Jelly Comparison in Gemini and Opus",
+  "title_zh": "Gemini与Opus彩虹果冻效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xRhinoX",
+   "name": "Rhino"
+  },
+  "postUrl": "https://x.com/0xRhinoX/status/2115891194383200515",
+  "createdAt": "2026-10-29T19:39:06.000Z",
+  "durationMs": 22600,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115891194383200515/video.mp4",
+  "promptShared": true,
+  "promptText": "Gemini 4 Carbon just DESTROYED Opus 5.5. For $4.30\n\nSame prompt: rainbow jelly you can cut, nail and torch.\n\nGemini 4 Carbon - $4.30, 32 min\nOpus 5.5 - $14.00, 1h 20m\n\nCarbon's jelly is bright, sharp and throws rainbow shadows across the table.\nOpus looks washed out next to it.\n\n3x cheaper. 2x faster. 1 day old.\n\nIs Opus still worth $14?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115891194383200515/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115891194383200515"
+ },
+ {
+  "id": "2115898852704456739",
+  "title": "Interactive Motion Explainer for Teaching EKGs",
+  "title_zh": "心电图教学交互式动态演示",
+  "category": "explainer",
+  "author": {
+   "handle": "therealRYC",
+   "name": "Robert Y. Chen"
+  },
+  "postUrl": "https://x.com/therealRYC/status/2115898852704456739",
+  "createdAt": "2026-10-29T20:09:32.000Z",
+  "durationMs": 48768,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115898852704456739/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115898852704456739/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115898852704456739"
+ },
+ {
+  "id": "2115933646645567876",
+  "title": "Stick Figure Gym Progress Animation Comparison",
+  "title_zh": "火柴人健身对比动画演示",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "Vynqorxe",
+   "name": "VynqorxeAI"
+  },
+  "postUrl": "https://x.com/Vynqorxe/status/2115933646645567876",
+  "createdAt": "2026-10-29T22:27:48.000Z",
+  "durationMs": 16300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115933646645567876/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115933646645567876/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115933646645567876"
+ },
+ {
+  "id": "2115953941808550313",
+  "title": "Comparing AI models coding Chrome Dino",
+  "title_zh": "多模型生成 Chrome 小恐龙游戏对比",
+  "category": "comparison",
+  "author": {
+   "handle": "noclipepe",
+   "name": "noclipepe"
+  },
+  "postUrl": "https://x.com/noclipepe/status/2115953941808550313",
+  "createdAt": "2026-10-29T23:48:26.000Z",
+  "durationMs": 27366,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115953941808550313/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115953941808550313/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115953941808550313"
+ },
+ {
+  "id": "2116108534051905642",
+  "title": "Tiny Troublemakers Scene Compared Across Two Models",
+  "title_zh": "两款模型生成捣蛋角色场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "0xPorterio",
+   "name": "Porterio"
+  },
+  "postUrl": "https://x.com/0xPorterio/status/2116108534051905642",
+  "createdAt": "2026-10-30T10:02:44.000Z",
+  "durationMs": 29000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116108534051905642/video.mp4",
+  "promptShared": true,
+  "promptText": "🚨 Gemini 4 Carbon is 3x cheaper than Opus 5.5. but is it better?\n\nsame prompt: 9 tiny troublemakers, a dock full of tools, and one of them has to pop at the end.\n\nGemini 4 Carbon - $4.10, 34 min\nOpus 5.5 - $12.80, 1h 12m\n\nCarbon looks SERIOUSLY good. brighter, shinier, more chaos.\nOpus feels more alive. the way they all stare at the one getting squashed got me\n\nwatch till the end, the inside of the black one is where it gets interesting.\n\nis Opus still worth 3x the price?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116108534051905642/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116108534051905642"
+ },
+ {
   "id": "2116149863935078885",
   "title": "Automating 3D scene animation in Blender",
   "title_zh": "在 Blender 中自动编排 3D 场景动画",
@@ -7260,6 +7152,25 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116149863935078885/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116149863935078885"
+ },
+ {
+  "id": "2116189885723734309",
+  "title": "Four-Stroke Engine Cutaway Across Multiple AI Models",
+  "title_zh": "多模型四冲程发动机剖切动画对比",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2116189885723734309",
+  "createdAt": "2026-10-30T15:26:00.000Z",
+  "durationMs": 20000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116189885723734309/video.mp4",
+  "promptShared": true,
+  "promptText": "DeepSeek V4.1 Flash 1017 just embarrassed everyone. 🤯\nSame prompt: a working four-stroke engine cutaway.\n\nDeepSeek V4.1 Flash 1017: $0.36 · 1h 54m 16s \nClaude Opus 5.5: $21.81 · 2h 00m 13s \nGPT-6.1 Terra: $0.43 · 9m 09s \nGPT-6 Astra: $7.33 · 54m 33s\n\nOpus got it right. No surprise there.\n\nBut DeepSeek? As good as Claude, maybe the most beautiful one of the four… for 36 cents.\n\nThat's 60x cheaper than Opus. This is nuts.\n\nYes, Terra is fast. But costing more than DeepSeek? That's a joke. 😂\n\nWhich one wins for you? 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116189885723734309/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116189885723734309"
  },
  {
   "id": "2116192984299344372",
@@ -7279,5 +7190,96 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116192984299344372/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116192984299344372"
+ },
+ {
+  "id": "2116277601794724232",
+  "title": "Interactive 3D robot scorpion simulation with disassembly",
+  "title_zh": "可交互拆解的3D机械蝎子动态模拟",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Nyxera0x",
+   "name": "Nyxera"
+  },
+  "postUrl": "https://x.com/Nyxera0x/status/2116277601794724232",
+  "createdAt": "2026-10-30T21:14:33.000Z",
+  "durationMs": 26000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116277601794724232/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116277601794724232/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116277601794724232"
+ },
+ {
+  "id": "2116289885870981296",
+  "title": "A robotic octopus exploding in Three.js",
+  "title_zh": "Three.js 机械章鱼爆炸拆解模型",
+  "category": "3d-scene",
+  "author": {
+   "handle": "0x_fokki",
+   "name": "Fokki"
+  },
+  "postUrl": "https://x.com/0x_fokki/status/2116289885870981296",
+  "createdAt": "2026-10-30T22:03:22.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116289885870981296/video.mp4",
+  "promptShared": false,
+  "featured": 7,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116289885870981296/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116289885870981296"
+ },
+ {
+  "id": "2116339908822319428",
+  "title": "Setting Up Self-Hosted Photo Storage with Opus",
+  "title_zh": "使用Opus搭建自建照片存储系统指南",
+  "category": "explainer",
+  "author": {
+   "handle": "0xCodila",
+   "name": "codila"
+  },
+  "postUrl": "https://x.com/0xCodila/status/2116339908822319428",
+  "createdAt": "2026-10-31T01:22:08.000Z",
+  "durationMs": 24566,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116339908822319428/video.mp4",
+  "promptShared": true,
+  "promptText": "How this is still f*cking legal... I paid Apple $199 last year just to have somewhere to keep my photos and videos\n\nso I just reverse-engineered iCloud / Google Photos with Opus 5.5 from one prompt and made it public for free\n\nhere's full guide step by step:\n\nyou need: a Mac or Windows PC + Claude Code, the bigger your disk - the more photos and video it keeps\n\nstep 1 → paste prompt below into Claude Code Opus 5.5\n\nstep 2 → it checks your disk, you say \"yes\" once, it installs Immich (open-source Google Photos) + Tailscale (private tunnel to your phone)\n\nstep 3 → iCloud: it downloads your originals the way iCloud. com does, your password goes only into your disk\n\nstep 4 → Google Photos: one script in your own tab saves your library to your disk\n\n( that's reverse-engineering: Apple and Google have no public API for your library, so it sends the same private requests their websites send )\n\nstep 5 → it checks every file against Apple's or Google's list: N of N, nothing in your cloud\n\nstep 6 → scan 2 QR codes on your phone, new photos back up to your computer\n\nthen make a second copy on an external drive and cancel your storage plan yourself\n\nTry this today please. Then read article on how to save money on any other app:",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116339908822319428/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116339908822319428"
+ },
+ {
+  "id": "2116404959277433240",
+  "title": "Gameplay Trailer Built with Three.js and Opus",
+  "title_zh": "使用Three.js与Opus制作的游戏预告片",
+  "category": "game",
+  "author": {
+   "handle": "MengTo",
+   "name": "Meng To"
+  },
+  "postUrl": "https://x.com/MengTo/status/2116404959277433240",
+  "createdAt": "2026-10-31T05:40:37.000Z",
+  "durationMs": 60000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116404959277433240/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116404959277433240/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116404959277433240"
+ },
+ {
+  "id": "2116509069477621819",
+  "title": "3D Pixel Game Built with Claude Opus",
+  "title_zh": "使用Claude Opus制作的3D像素游戏",
+  "category": "game",
+  "author": {
+   "handle": "AmirMushich",
+   "name": "AmirMušić"
+  },
+  "postUrl": "https://x.com/AmirMushich/status/2116509069477621819",
+  "createdAt": "2026-10-31T12:34:19.000Z",
+  "durationMs": 29489,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116509069477621819/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116509069477621819/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116509069477621819"
  }
 ]
