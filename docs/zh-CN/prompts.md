@@ -2,13 +2,13 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 83 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 80 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (16)
-- [动效](#motion-graphics) (32)
-- [产品界面](#ui-demo) (11)
+- [3D 场景](#3d-scene) (15)
+- [动效](#motion-graphics) (31)
+- [产品界面](#ui-demo) (10)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (8)
 - [发布片](#launch-film) (6)
@@ -123,30 +123,6 @@ Opus 在后台一顿敲，海上小火车就这么水灵灵造出来，场景音
 额外提示如下，给模型的自由度较高：
 ```
 
-### 雨夜日式便利店微缩三维场景
-
-[@NFT_Chen](https://x.com/NFT_Chen/status/2109420193399357665) · 1:53 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2109420193399357665/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109420193399357665?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-🔥超高画质雨夜便利店微缩场景攻略：Opus 5.5 + three.js 一轮直出
-
-模型用的是 Opus 5.5，框架 three.js，一轮基本直出，第二轮只修了穿模，最便宜会员的 5 hours limit 就能搓出一个完整场景。
-
-核心提示词要点拆解：
-1️⃣第三视角自由拖拽/旋转/缩放的微缩三维模型，无任何 UI，方形底座。
-2️⃣日式便利店街角为主体，玻璃橱窗、自动门、屋檐雨棚、自动贩卖机、自行车、雨伞架等元素齐全。
-3️⃣店内必须明亮温暖、货架整齐、便当区/饮料柜/收银/关东煮台等细节丰富，透过大玻璃能清楚看到内部。
-4️⃣室外潮湿昏暗雨夜，形成强烈冷暖对比，营造经典日式动画雨夜氛围。
-5️⃣美术风格：高精细建模 + 三渲二卡通渲染、清晰轮廓线、湿润反光、二次元日常感。
-6️⃣动效点缀：持续降雨、屋檐滴水、积水波纹、招牌微闪、自动门偶开、路面反光等，静止中带恰到好处的生命力。
-
-安静、治愈、带点都市夜晚孤独感，却依然温暖。
-
-想复现的直接照着改提示词，效率很高！
-
-#Opus55 #雨夜便利店 #三渲二 #微缩场景 #threejs #AI绘画 #日式氛围 #二次元场景 #AI3D #便利店美学 #雨夜氛围感 #Claude #Dario
-```
-
 ### 滚动展开地面的三维场景
 
 [@viktoroddy](https://x.com/viktoroddy/status/2109984169845821651) · 0:22 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2109984169845821651/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109984169845821651?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -224,88 +200,6 @@ asked it to build a cyberpunk city with flying cars. as detailed as possible
 the future looks crazyyy 👀
 ```
 
-### 结合Blender与Remotion的3D角色动画流程
-
-[@renproton](https://x.com/renproton/status/2115489326222250114) · 0:16 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2115489326222250114/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115489326222250114?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-THIS IS F*CKING GOLDMINE
-
-Opus 5.5 + Blender + Remotion = your own character animation studio that you can use to earn $$$
-
-tiny worlds. expressive characters. cinematic camera moves.
-
-character idea → editable 3D scene → animated film
-
-steal the full stack ↓
-
-01 give Claude a director’s brief
-
-one character. one setting. one visual joke
-
-specify the shots, expressions, camera moves and final pose before building the scene
-
-02 connect Claude Code to Blender
-
-MCP for Blender lets Claude inspect the scene and write Blender Python
-
-with Blender + uv installed:
-
-- `claude mcp add blender uvx mcp-for-blender`
-- `uvx mcp-for-blender install-addon`
-
-enable the addon in Blender and start its server
-
-▸MCP for Blender
-https://t.co/Io3qbXf2gW
-
-03 build + animate
-
-Blender handles the scene, rigging, keyframes and character animation
-
-block the keyboard and character first. then add the walk, eye movements, glass and close-ups
-
-▸Blender animation tools
-https://t.co/VL0T7jPYlH
-
-04 light the world
-
-Poly Haven supplies CC0 HDRIs, textures and models
-
-give the glass something to reflect. keep the character readable against the background
-
-▸Poly Haven
-https://t.co/kdUKzzD3AA
-
-05 finish the film
-
-Remotion assembles the rendered footage, titles and audio into a reusable composition
-
-add the official agent guidance inside your video project:
-
-`npx skills add remotion-dev/skills`
-
-▸Remotion Skills
-https://t.co/bxBzSKDCsP
-
-06 export + check
-
-FFmpeg for the delivery file
-
-watch the actual MP4, check the sound and keep the editable scene + project
-
-▸FFmpeg
-https://t.co/Y2Dc6luI2I
-
-the loop:
-
-brief → scene → character → materials → light → camera → preview → render → edit → export
-
-the clip is the visual reference. the animated console breaks down a workflow for building this kind of scene
-
-save this, then read the full guide for Opus 5.5 Motion Engineering ↓
-```
-
 ### V8发动机3D交互仿真模拟
 
 [@elvar_official](https://x.com/elvar_official/status/2115882221319958984) · 0:26 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2115882221319958984/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115882221319958984?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -345,6 +239,17 @@ the build:
 i built 7 of these in 2 days. the sims are live on my playground.
 
 the skill, the playground and all 9 prompts 👇
+```
+
+### 暴风雨中的微型石油钻井与哥斯拉
+
+[@Guronnimo](https://x.com/Guronnimo/status/2116503955119255977) · 0:24 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2116503955119255977/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116503955119255977?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+made with opus 5.5 + @threejs 
+
+asked it for a tiny oil rig in a storm. 
+then i asked for godzilla 👀
 ```
 
 <a id="motion-graphics"></a>
@@ -866,20 +771,6 @@ Ask me for the inputs, then show me the beat map and four stills (toggle, graph,
 </start>
 ```
 
-### 人类消失后的概念视觉动画
-
-[@Mr_Salio](https://x.com/Mr_Salio/status/2109345018490053100) · 0:56 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2109345018490053100/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109345018490053100?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-🚨 Claude Next is being tested on Claude Code
-
-I asked “What if all humans disappeared?” and it one-shotted this entire visual concept
-
-It's a new Claude model being tested under "Opus 5.5" on claude 
-
-Anthropic might be cooking something HUGE
-```
-
 ### 代码配乐剪辑的动漫片头视频
 
 [@aimikoda](https://x.com/aimikoda/status/2110119492076404869) · 0:32 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2110119492076404869/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110119492076404869?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1135,60 +1026,6 @@ f64–96, press: …
 I have an addiction to one-shotting calorie trackers so you know I had to try it on Opus 5.5, and WTF this model is CRAZY
 
 One massive prompt plus a tiny followup. Full app, music, voice, editing, all of it. 10% quota on the Max plan. Prompts and full breakdown below.
-```
-
-### 交互式TLDR网页爬虫插件演示
-
-[@AnatoliKopadze](https://x.com/AnatoliKopadze/status/2106011248265486693) · 0:33 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2106011248265486693/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106011248265486693?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-No f*cking way, I just built this web crawler from one single prompt with Opus 5.5
-
-it can:
-- follow your cursor across any page
-- crawl the text and glitch every word it steps on
-- pull out the key sentences as it walks
-- build a short TL;DR in real time while you scroll
-- take any article you paste in and do the same
-
-here is the prompt: 
-
-Build a Chrome extension (Manifest V3) called "TL;DR Crawler" that works on any normal web page.
-
-WHAT IT DOES
-Click the toolbar icon: a line-drawn spider appears on the current page, follows your cursor (also while scrolling), reads the text it walks over and builds a short TL;DR in a floating panel. Click the icon again: everything disappears and the page is exactly as before.
-
-1. TOGGLE
-- background.js: chrome.action.onClicked injects content.js with chrome.scripting.executeScript.
-- content.js checks a global flag. If the crawler is already running, it shuts down and cleans up. Otherwise it starts. Only one instance per tab, ever.
-
-2. FIND THE TEXT
-- Find the main readable area: prefer <article> or <main>, otherwise the element with the most paragraph text. Skip nav, header, footer, aside, menus, forms, code, ads and hidden elements.
-- Collect text blocks (p, li, blockquote, h2-h4) and split them into sentences. Store each sentence as a DOM Range (sentences can span links and bold text, so do NOT wrap them in elements).
-- Watch the area with a debounced MutationObserver (1s) to pick up text loaded later (infinite scroll, lazy content).
-
-3. PICK KEY SENTENCES
-- Score each sentence: +2 digits, +2 for %, $, €, million, billion; +1.5 for words like first, record, launch, announce, new, only, biggest, fastest, warns, raises, cuts; +0.3 per capitalized name (max +2); -2 if under 40 or over 260 characters.
-- Mark the top 25% as key sentences (min 5, max 80), spread so most paragraphs get one.
-- Summaries, max 9 words each:
-  - If an API key is set: send all key sentences in ONE request to Claude and ask for a JSON array of short, plain summaries (max 9 words, keep numbers and names exactly, no hype). Request again in batches when new text appears.
-  - Without a key: fallback summary = the sentence with filler openers removed (and, but, however, also, according to), cut at a word boundary with "…".
-
-4. THE SPIDER
-- Shadow DOM host at document root containing a full-screen fixed <canvas> (pointer-events: none, z-index 2147483646) and the panel.
-- Look: small rounded-rectangle body, abdomen ellipse, head with two white eyes, outlines in #5ab8ff. 8 legs as 3px blue lines with pink (#ff4f7a) joint dots, two segments each with inverse kinematics, knees bending outward.
-- Gait: two alternating leg groups. A foot steps only when it's ~80px from its ideal spot and the other group is planted. Steps last 0.13s with a small lift, landing slightly ahead in the walking direction.
-- Movement: target = cursor position + scroll, so it follows while scrolling. Max ~420 px/s, smooth acceleration, stops ~40px from the cursor, turns smoothly toward its direction. If the cursor is idle for 8s, it wanders around the viewport.
-- requestAnimationFrame with a fixed 1/120s physics step. Support devicePixelRatio and window resize.
-
-5. CRAWLING
-- Every 80ms and on every foot landing, find the text under the spider with document.caretRangeFromPoint (ignore the extension's own elements).
-- If that point is inside a key sentence not yet found: highlight it with the CSS Custom Highlight API (::highlight(tldr-found) with a soft yellow background) and add its summary to the panel.
-- If a foot lands on a normal word: in ~25% of cases glitch just that word. Wrap only that word in a span (it's a single text node, so it's safe) and apply one random effect: monospace font, blue outline, blue highlight, slight rotation, wide letter-spacing, blur or uppercase. Max 2 effects per word. Record every change so it can be undone.
-
-6. PANEL
-- Top-right, draggable by its header, inside the Shadow DOM so site CSS can't affect it.
-- Dark (#161…
 ```
 
 ### 使用Claude Opus逆向工程电视界面
