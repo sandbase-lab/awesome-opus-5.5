@@ -13,7 +13,7 @@
   "durationMs": 28000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102437977435893771/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102437977435893771/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102437977435893771"
  },
@@ -965,25 +965,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103176101497651644"
  },
  {
-  "id": "2103194052850241739",
-  "title": "Detailed 3D world with creative builds",
-  "title_zh": "生成式高细节3D世界场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "LexnLin",
-   "name": "Leon Lin"
-  },
-  "postUrl": "https://x.com/LexnLin/status/2103194052850241739",
-  "createdAt": "2026-09-24T18:45:12.000Z",
-  "durationMs": 84053,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103194052850241739/video.mp4",
-  "promptShared": true,
-  "promptText": "This is insane\n\nOpus 5.5 built THIS detailed 3d world with a lot of weird creative builds in one prompt and in less than 8h!\n\nCheck it out here:\nmonolithwilds.vercel.app\n(prompt is below)",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103194052850241739/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103194052850241739"
- },
- {
   "id": "2103198490746900830",
   "title": "A Japanese style boating game in browser",
   "title_zh": "浏览器中运行的日式划船游戏",
@@ -1639,7 +1620,7 @@
   "durationMs": 31686,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103821040174698674/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103821040174698674/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103821040174698674"
  },
@@ -2275,7 +2256,7 @@
   "durationMs": 15000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104618175803609305/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104618175803609305/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104618175803609305"
  },
@@ -2640,7 +2621,7 @@
   "durationMs": 270016,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106027834217259394/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106027834217259394/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106027834217259394"
  },
@@ -3320,24 +3301,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108007410522890319"
  },
  {
-  "id": "2108167896065085463",
-  "title": "Code generated motion graphics with automated self checks",
-  "title_zh": "通过代码自纠错循环生成的动态设计",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "gippp69",
-   "name": "Gipp 🦅"
-  },
-  "postUrl": "https://x.com/gippp69/status/2108167896065085463",
-  "createdAt": "2026-10-08T12:09:28.000Z",
-  "durationMs": 26003,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108167896065085463/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108167896065085463/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108167896065085463"
- },
- {
   "id": "2108199183983497433",
   "title": "Motion design story about Opus and Haiku",
   "title_zh": "关于Opus与Haiku的动态设计故事短片",
@@ -3539,25 +3502,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108537908583919966"
  },
  {
-  "id": "2108570705692357094",
-  "title": "Dynamic Motion System Starting from an Orange Dot",
-  "title_zh": "橙色圆点演变的动态图形系统",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "rossaxbt",
-   "name": "testarossa"
-  },
-  "postUrl": "https://x.com/rossaxbt/status/2108570705692357094",
-  "createdAt": "2026-10-09T14:50:06.000Z",
-  "durationMs": 14699,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108570705692357094/video.mp4",
-  "promptShared": true,
-  "promptText": "opus 5.5 as a motion designer. 0 keyframes.\n\nthis 15-second video turns one orange dot into an entire motion system\n\ntoggle → typography → spring graph → shape morph → kinetic type → halftone → end card\n\nhere's the prompt to recreate the idea ↓\n\n<inputs>\nAsk me for: a short label for the opening toggle, one hero word, a percentage for the graph, the text for the final card, one accent color, and a track with a clear beat.\n</inputs>\n\n<direction>\nA 2D motion design film in 16:9. Use a warm off-white canvas, near-black backgrounds, bold typography and one vivid orange accent. The orange dot connects every scene: it starts in the UI, becomes the dot over a letter, traces a spring graph, grows into a shape and returns on the end card. A cursor makes the opening click feel real. Keep the motion sharp and controlled, with small spring overshoots and no dead time.\nBanned: stock footage, gradients, glows, particle bursts, random transitions and motion that isn't connected to an element already on screen.\n</direction>\n\n<structure>\nAround 15 seconds, with a visual change on every major beat.\nOpen: a cursor clicks the orange toggle beside \"Reduce Motion\". The letters bend and move into place until only \"Motion\" remains, with the orange dot above the \"i\".\nSpring: the dot jumps away from the word and lands on a graph. Its path draws a spring response, overshoots the target and settles beside a \"+22%\" callout.\nShape: the dot shoots across a line, grows into an orange circle and fills the frame. A black rounded square rotates inside it, then stretches into a pill. The scene contracts to a single orange dot on black.\nType: words like \"SPRINGS\", \"EASING\", \"KINETIC TYPE\", \"3D\" and \"SOUND\" orbit the dot. The circle of type opens out into a field of tiny dots.\nReveal: the halftone field expands and flips to black, revealing the final card: \"Opus 5.5\", \"Motion designer.\" and \"0 keyframes\".\nReturn: the orange dot moves back through the halftone, graph and toggle. Match the final frame to the first so the video loops cleanly.\n</structure>\n\n<build>\n1. One HTML file, 1920x1080 at 60fps. Compute every visual from time inside seek(t): no CSS transitions, timers or state carried between frames.\n2. Use closed-form springs for the toggle, bouncing dot and graph. Draw the graph from the same spring function that moves the dot.\n3. Animate letters individually for the \"Reduce Motion\" to \"Motion\" transformation. Keep the orange dot attached to the \"i\" until it begins its jump.\n4. Make the orange circle, rotating square and pill different states of the same shape. Preserve its position and motion through each transformation.\n5. Place the orbiting words along a circular path, then move their letters outward to hand the frame over to the halftone grid.\n6. Draw the halftone as a grid of dots whose sizes respond to the orange dot. Let it grow past the frame edges before revealing the end card.\n7. Sync the click, dot landing, graph peak, shape changes and final title to measured beats. Render one frame per beat to check the pacing before the full export.\n</build>\n\n<gotchas>\nThe graph and dot must follow the same motion or the spring will feel fake. Keep the orange accent consistent across every scene. Give outgoing and incoming text separate timing so letters don't overlap. When a shape fills the screen, scale it past all four corners. Match the cursor, dot and typography in the first and last frames to avoid a loop stutter.\n</gotchas>\n\n<start>\nAsk me for the inputs, then show me the beat map and four stills (toggle, graph, kinetic type, end card) before building the full video.\n</start>",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108570705692357094/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108570705692357094"
- },
- {
   "id": "2108618648763896141",
   "title": "Minecraft content loader integrated into GTA 5",
   "title_zh": "将我的世界内容加载器接入GTA5的演示",
@@ -3646,24 +3590,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108865799674876154/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108865799674876154"
- },
- {
-  "id": "2108926571021279560",
-  "title": "Ink-Bleed Brand Effect Tool in WebGL",
-  "title_zh": "WebGL墨水晕染品牌动效工具",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "ann_nnng",
-   "name": "Ann Nguyen"
-  },
-  "postUrl": "https://x.com/ann_nnng/status/2108926571021279560",
-  "createdAt": "2026-10-10T14:24:11.000Z",
-  "durationMs": 17175,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108926571021279560/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108926571021279560/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108926571021279560"
  },
  {
   "id": "2108931642542698801",
@@ -3809,25 +3735,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109221315769221401/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109221315769221401"
- },
- {
-  "id": "2109225641878888692",
-  "title": "Comparison between GPT-6 Astra and Opus 5.5",
-  "title_zh": "GPT-6与Opus生成的动物场景对比",
-  "category": "comparison",
-  "author": {
-   "handle": "kinderlayer",
-   "name": "Kinder"
-  },
-  "postUrl": "https://x.com/kinderlayer/status/2109225641878888692",
-  "createdAt": "2026-10-11T10:12:35.000Z",
-  "durationMs": 20033,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109225641878888692/video.mp4",
-  "promptShared": true,
-  "promptText": "holy sh*t. I ran the same prompts through GPT-6 Astra and Opus 5.5 again. it’s not even close anymore ↓\n\nTop is Astra, bottom is Opus. Same prompt, no edits, no picking the best take.\n\nA skeleton half-buried in the desert. A tiger mid-stride. An eagle dropping over the ocean. A shark cutting through the deep.\n\nAstra nails the thing you asked for: crisp, detailed, correct. shown on its own, you’d be impressed.\n\nThen your eye drifts to the bottom half.\n\nOpus isn’t drawing the animal, it’s directing the shot. the sun actually bakes the desert, the water has weight, the air has dust, every frame carries a mood. one gives you a clip. the other gives you a scene.\n\nand it’s not a fluke. it’s all four.\n\ntwelve months ago this was unwatchable soup. now nobody’s asking “is it real” - they’re asking “which one has taste.” the bar moved and half of X slept through it.\n\nmy pick is obvious. what’s yours?\n\nAstra or Opus 5.5?\n\nfollow me and I’ll drop the exact prompt",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109225641878888692/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109225641878888692"
  },
  {
   "id": "2109231561711427883",
@@ -4207,24 +4114,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109952769171800391/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109952769171800391"
- },
- {
-  "id": "2109956613926797384",
-  "title": "Playable MMORPG Game Iteration Demo",
-  "title_zh": "多轮迭代生成的可玩MMORPG游戏",
-  "category": "game",
-  "author": {
-   "handle": "PawelJLisowski",
-   "name": "Paweł J Lisowski"
-  },
-  "postUrl": "https://x.com/PawelJLisowski/status/2109956613926797384",
-  "createdAt": "2026-10-13T10:37:12.000Z",
-  "durationMs": 83392,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109956613926797384/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109956613926797384/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109956613926797384"
  },
  {
   "id": "2109984169845821651",
@@ -4716,24 +4605,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110773148081606775/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110773148081606775"
- },
- {
-  "id": "2110815900215513372",
-  "title": "Attack on Titan browser game inside Minecraft style",
-  "title_zh": "浏览器运行的类我的世界进击的巨人游戏",
-  "category": "game",
-  "author": {
-   "handle": "Mikadzyki_NFT",
-   "name": "Mikadzyki🌙"
-  },
-  "postUrl": "https://x.com/Mikadzyki_NFT/status/2110815900215513372",
-  "createdAt": "2026-10-15T19:31:42.000Z",
-  "durationMs": 15500,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110815900215513372/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110815900215513372/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110815900215513372"
  },
  {
   "id": "2111024434958275063",
@@ -6316,24 +6187,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114506454451229033"
  },
  {
-  "id": "2114512807500615723",
-  "title": "Interactive jelly dam simulation in WebGPU",
-  "title_zh": "WebGPU打造的交互式果冻水坝模拟",
-  "category": "3d-scene",
-  "author": {
-   "handle": "vib3coded",
-   "name": "Vib3Coded"
-  },
-  "postUrl": "https://x.com/vib3coded/status/2114512807500615723",
-  "createdAt": "2026-10-26T00:21:53.000Z",
-  "durationMs": 18000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114512807500615723/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114512807500615723/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114512807500615723"
- },
- {
   "id": "2114546079618257104",
   "title": "Scroll-driven 2D to 3D architectural transitions",
   "title_zh": "滚动交互式2D转3D建筑效果展示",
@@ -6350,24 +6203,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114546079618257104/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114546079618257104"
- },
- {
-  "id": "2114677095141872022",
-  "title": "Interactive 3D physics textbook in Three.js",
-  "title_zh": "Three.js打造的交互式3D物理课本",
-  "category": "explainer",
-  "author": {
-   "handle": "Mortezabihzadeh",
-   "name": "Morteza"
-  },
-  "postUrl": "https://x.com/Mortezabihzadeh/status/2114677095141872022",
-  "createdAt": "2026-10-26T11:14:42.000Z",
-  "durationMs": 30058,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114677095141872022/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114677095141872022/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114677095141872022"
  },
  {
   "id": "2114728296034226583",
@@ -7039,7 +6874,7 @@
   "durationMs": 25000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116289885870981296/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116289885870981296/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116289885870981296"
  },
@@ -7262,6 +7097,62 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116668827207364645"
  },
  {
+  "id": "2116832762912973220",
+  "title": "Animated pixel art Halloween diorama in TypeScript",
+  "title_zh": "TypeScript 编写的万圣节像素风微缩模型",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "zer0point_eth",
+   "name": "Zero"
+  },
+  "postUrl": "https://x.com/zer0point_eth/status/2116832762912973220",
+  "createdAt": "2026-11-01T10:00:34.000Z",
+  "durationMs": 13033,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116832762912973220/video.mp4",
+  "promptShared": true,
+  "promptText": "Claude Opus 5.5 just coded this entire animated pixel art world from scratch using only TypeScript\n\nNo game engine. No static image generators. Just pure code rendering a cozy, rainy world.\n\nHere is the exact prompt:\n\n> \"Make me an animated pixel art Halloween diorama, built to be the looping cover for a 10 hour lofi music video. Build the palette on strong warm/cold contrast: a cold, rainy night against warm pockets of firelight and glowing windows. Bring it to life with great effects: rain, fire sparks, drifting smoke and flickering light. It should look crisp full screen at 1080p and loop smoothly for hours.\"\n\nHow it actually works under the hood:\n\n> Written entirely in TypeScript in about 10 minutes\n> Renders complex atmospheric loops: rain particles, lightning flashes, smoke, firelight, and a skeleton relaxing under an umbrella\n> Can hook into Sprite Fusion API or MCP to generate and animate custom game sprites on demand\n\nGive an LLM TypeScript and a pixel grid, and it stops being a text chatbot \n\nIt becomes an ambient studio",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116832762912973220/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116832762912973220"
+ },
+ {
+  "id": "2116887799274299512",
+  "title": "A knitted island generated in Three.js",
+  "title_zh": "Three.js中代码针织生成的小岛",
+  "category": "3d-scene",
+  "author": {
+   "handle": "krisyangdev",
+   "name": "Kris Yang"
+  },
+  "postUrl": "https://x.com/krisyangdev/status/2116887799274299512",
+  "createdAt": "2026-11-01T13:39:15.000Z",
+  "durationMs": 15000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116887799274299512/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116887799274299512/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116887799274299512"
+ },
+ {
+  "id": "2116893154322284929",
+  "title": "Same character rendered in twelve distinct styles",
+  "title_zh": "同一角色在十二种不同风格下的渲染效果",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "m4lkxx",
+   "name": "m4lka"
+  },
+  "postUrl": "https://x.com/m4lkxx/status/2116893154322284929",
+  "createdAt": "2026-11-01T14:00:32.000Z",
+  "durationMs": 18000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116893154322284929/video.mp4",
+  "promptShared": true,
+  "promptText": "Holy f*ck, studios charge $2,000 for one style frame\n\nHere's the same character in 12 styles, and the one-line prompt that makes each one with Opus 5.5\n\nClay. Pixels. Anime. Neon. Chrome.\n\nCopy, paste, render:\n\n1. Claymation → \"Make it claymation: soft clay with fingerprints, lumpy edges, stop-motion at 12 fps\"\n\n2. Pixel art → \"Make it 32x32 pixel art: 8-color palette, no anti-aliasing, 4-frame idle loop\"\n\n3. Low-poly → \"Make it low-poly: under 300 flat-shaded faces, hard light, pastel gradient sky\"\n\n4. Anime → \"Make it anime cel-shaded: two-tone shading, bold outline, speed lines on every move\"\n\n5. Isometric → \"Make it an isometric diorama: 30-degree camera, tiny world on a floating block, soft shadows\"\n\n6. Voxel → \"Make it voxel: 1-unit cubes only, beveled edges, warm studio light\"\n\n7. Paper cutout → \"Make it paper cutout: layered cardstock, drop shadows, paper grain, jittery stop-motion\"\n\n8. Neon → \"Make it a neon sign: glowing tube outlines on a dark brick wall, flicker, bloom\"\n\n9. Risograph → \"Make it risograph: two inks, orange and blue, halftone dots, misregistered layers\"\n\n10. Watercolor → \"Make it watercolor: wet soft edges, paper texture, pigment pooling at the rims\"\n\n11. Liquid chrome → \"Make it liquid chrome: mirror metal, studio reflections, slow ripples across the surface\"\n\n12. Blueprint → \"Make it a blueprint: white line wireframe on a blue grid, dimension callouts, drawn stroke by stroke\"\n\n$24,000 of style frames → $0\n\nSave this and paste any line into your Opus 5.5\n\nThen read the full motion design guide below ↓",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116893154322284929/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116893154322284929"
+ },
+ {
   "id": "2116893197939224714",
   "title": "Fable 5.5 Versus Opus 5.5 Comparison",
   "title_zh": "Fable 5.5与Opus 5.5对比测试",
@@ -7278,5 +7169,113 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116893197939224714/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116893197939224714"
+ },
+ {
+  "id": "2116914502390480919",
+  "title": "Glass breaking game with synthesized procedural audio",
+  "title_zh": "纯代码音效的敲碎玻璃小游戏",
+  "category": "game",
+  "author": {
+   "handle": "prasenx",
+   "name": "Prasenjit"
+  },
+  "postUrl": "https://x.com/prasenx/status/2116914502390480919",
+  "createdAt": "2026-11-01T15:25:22.000Z",
+  "durationMs": 27266,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116914502390480919/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116914502390480919/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116914502390480919"
+ },
+ {
+  "id": "2116974743005913262",
+  "title": "Earth simulator landscape of snowy Chamonix",
+  "title_zh": "地球模拟器展示霞慕尼雪山景观",
+  "category": "3d-scene",
+  "author": {
+   "handle": "RiadEtm",
+   "name": "Riad"
+  },
+  "postUrl": "https://x.com/RiadEtm/status/2116974743005913262",
+  "createdAt": "2026-11-01T19:24:44.000Z",
+  "durationMs": 50474,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116974743005913262/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116974743005913262/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116974743005913262"
+ },
+ {
+  "id": "2117045423378665704",
+  "title": "Three.js and GLSL promo film recreation",
+  "title_zh": "用 Three.js 和 GLSL 还原的宣传片",
+  "category": "launch-film",
+  "author": {
+   "handle": "GaoYipeng",
+   "name": "Yipeng Gao"
+  },
+  "postUrl": "https://x.com/GaoYipeng/status/2117045423378665704",
+  "createdAt": "2026-11-02T00:05:36.000Z",
+  "durationMs": 30133,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117045423378665704/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117045423378665704/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117045423378665704"
+ },
+ {
+  "id": "2117169796290916732",
+  "title": "Pure code animation generated with Fable 5.5",
+  "title_zh": "使用 Fable 5.5 纯代码生成的动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "chetaslua",
+   "name": "Chetaslua"
+  },
+  "postUrl": "https://x.com/chetaslua/status/2117169796290916732",
+  "createdAt": "2026-11-02T08:19:49.000Z",
+  "durationMs": 80666,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117169796290916732/video.mp4",
+  "promptShared": false,
+  "featured": 1,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117169796290916732/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117169796290916732"
+ },
+ {
+  "id": "2117230395406364857",
+  "title": "Three.js visual scene with audio",
+  "title_zh": "Three.js 打造的声音视觉场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "LexnLin",
+   "name": "Leon Lin"
+  },
+  "postUrl": "https://x.com/LexnLin/status/2117230395406364857",
+  "createdAt": "2026-11-02T12:20:37.000Z",
+  "durationMs": 45000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117230395406364857/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117230395406364857/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117230395406364857"
+ },
+ {
+  "id": "2117240315069276186",
+  "title": "Automated video editing pipeline using open-source tools",
+  "title_zh": "基于开源工具的自动化视频剪辑工作流",
+  "category": "explainer",
+  "author": {
+   "handle": "0xwhrrari",
+   "name": "rari🈀"
+  },
+  "postUrl": "https://x.com/0xwhrrari/status/2117240315069276186",
+  "createdAt": "2026-11-02T13:00:02.000Z",
+  "durationMs": 19495,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117240315069276186/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117240315069276186/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117240315069276186"
  }
 ]

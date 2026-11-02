@@ -2,35 +2,21 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-80 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+79 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (15)
-- [Motion graphics](#motion-graphics) (31)
+- [3D scenes](#3d-scene) (14)
+- [Motion graphics](#motion-graphics) (32)
 - [Product UI](#ui-demo) (10)
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (8)
 - [Launch films](#launch-film) (6)
-- [Tests & comparisons](#comparison) (9)
+- [Tests & comparisons](#comparison) (8)
 
 <a id="3d-scene"></a>
 
 ## 3D scenes
-
-### Detailed 3D world with creative builds
-
-[@LexnLin](https://x.com/LexnLin/status/2103194052850241739) · 1:24 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2103194052850241739/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103194052850241739?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-This is insane
-
-Opus 5.5 built THIS detailed 3d world with a lot of weird creative builds in one prompt and in less than 8h!
-
-Check it out here:
-monolithwilds.vercel.app
-(prompt is below)
-```
 
 ### Cinematic animated scene from a single prompt
 
@@ -669,57 +655,6 @@ prompt in the comments
 bookmark and share it!
 ```
 
-### Dynamic Motion System Starting from an Orange Dot
-
-[@rossaxbt](https://x.com/rossaxbt/status/2108570705692357094) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2108570705692357094/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108570705692357094?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-opus 5.5 as a motion designer. 0 keyframes.
-
-this 15-second video turns one orange dot into an entire motion system
-
-toggle → typography → spring graph → shape morph → kinetic type → halftone → end card
-
-here's the prompt to recreate the idea ↓
-
-<inputs>
-Ask me for: a short label for the opening toggle, one hero word, a percentage for the graph, the text for the final card, one accent color, and a track with a clear beat.
-</inputs>
-
-<direction>
-A 2D motion design film in 16:9. Use a warm off-white canvas, near-black backgrounds, bold typography and one vivid orange accent. The orange dot connects every scene: it starts in the UI, becomes the dot over a letter, traces a spring graph, grows into a shape and returns on the end card. A cursor makes the opening click feel real. Keep the motion sharp and controlled, with small spring overshoots and no dead time.
-Banned: stock footage, gradients, glows, particle bursts, random transitions and motion that isn't connected to an element already on screen.
-</direction>
-
-<structure>
-Around 15 seconds, with a visual change on every major beat.
-Open: a cursor clicks the orange toggle beside "Reduce Motion". The letters bend and move into place until only "Motion" remains, with the orange dot above the "i".
-Spring: the dot jumps away from the word and lands on a graph. Its path draws a spring response, overshoots the target and settles beside a "+22%" callout.
-Shape: the dot shoots across a line, grows into an orange circle and fills the frame. A black rounded square rotates inside it, then stretches into a pill. The scene contracts to a single orange dot on black.
-Type: words like "SPRINGS", "EASING", "KINETIC TYPE", "3D" and "SOUND" orbit the dot. The circle of type opens out into a field of tiny dots.
-Reveal: the halftone field expands and flips to black, revealing the final card: "Opus 5.5", "Motion designer." and "0 keyframes".
-Return: the orange dot moves back through the halftone, graph and toggle. Match the final frame to the first so the video loops cleanly.
-</structure>
-
-<build>
-1. One HTML file, 1920x1080 at 60fps. Compute every visual from time inside seek(t): no CSS transitions, timers or state carried between frames.
-2. Use closed-form springs for the toggle, bouncing dot and graph. Draw the graph from the same spring function that moves the dot.
-3. Animate letters individually for the "Reduce Motion" to "Motion" transformation. Keep the orange dot attached to the "i" until it begins its jump.
-4. Make the orange circle, rotating square and pill different states of the same shape. Preserve its position and motion through each transformation.
-5. Place the orbiting words along a circular path, then move their letters outward to hand the frame over to the halftone grid.
-6. Draw the halftone as a grid of dots whose sizes respond to the orange dot. Let it grow past the frame edges before revealing the end card.
-7. Sync the click, dot landing, graph peak, shape changes and final title to measured beats. Render one frame per beat to check the pacing before the full export.
-</build>
-
-<gotchas>
-The graph and dot must follow the same motion or the spring will feel fake. Keep the orange accent consistent across every scene. Give outgoing and incoming text separate timing so letters don't overlap. When a shape fills the screen, scale it past all four corners. Match the cursor, dot and typography in the first and last frames to avoid a loop stutter.
-</gotchas>
-
-<start>
-Ask me for the inputs, then show me the beat map and four stills (toggle, graph, kinetic type, end card) before building the full video.
-</start>
-```
-
 ### A 2D motion design film with orange dot
 
 [@ultimaxbt](https://x.com/ultimaxbt/status/2108935657334702300) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2108935657334702300/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108935657334702300?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -912,6 +847,74 @@ What each tool is for. Install whatever is missing, and ask me before anything p
 - cannon-es: a JavaScript physics engine for vehicles, falling debris and collapses.
 - Playwright (Python): opens the page in a real browser (Edge or Chrome with the GPU on) and captures every frame as an image.
 - ffmpeg: the command-line video and audio tool. It joins the frames into an MP4, cuts and filters the audio (highpass, lowpass and echo for voices behind doors), mixes, normalises loudness and…
+```
+
+### Animated pixel art Halloween diorama in TypeScript
+
+[@zer0point_eth](https://x.com/zer0point_eth/status/2116832762912973220) · 0:13 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2116832762912973220/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116832762912973220?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Claude Opus 5.5 just coded this entire animated pixel art world from scratch using only TypeScript
+
+No game engine. No static image generators. Just pure code rendering a cozy, rainy world.
+
+Here is the exact prompt:
+
+> "Make me an animated pixel art Halloween diorama, built to be the looping cover for a 10 hour lofi music video. Build the palette on strong warm/cold contrast: a cold, rainy night against warm pockets of firelight and glowing windows. Bring it to life with great effects: rain, fire sparks, drifting smoke and flickering light. It should look crisp full screen at 1080p and loop smoothly for hours."
+
+How it actually works under the hood:
+
+> Written entirely in TypeScript in about 10 minutes
+> Renders complex atmospheric loops: rain particles, lightning flashes, smoke, firelight, and a skeleton relaxing under an umbrella
+> Can hook into Sprite Fusion API or MCP to generate and animate custom game sprites on demand
+
+Give an LLM TypeScript and a pixel grid, and it stops being a text chatbot 
+
+It becomes an ambient studio
+```
+
+### Same character rendered in twelve distinct styles
+
+[@m4lkxx](https://x.com/m4lkxx/status/2116893154322284929) · 0:18 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2116893154322284929/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116893154322284929?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Holy f*ck, studios charge $2,000 for one style frame
+
+Here's the same character in 12 styles, and the one-line prompt that makes each one with Opus 5.5
+
+Clay. Pixels. Anime. Neon. Chrome.
+
+Copy, paste, render:
+
+1. Claymation → "Make it claymation: soft clay with fingerprints, lumpy edges, stop-motion at 12 fps"
+
+2. Pixel art → "Make it 32x32 pixel art: 8-color palette, no anti-aliasing, 4-frame idle loop"
+
+3. Low-poly → "Make it low-poly: under 300 flat-shaded faces, hard light, pastel gradient sky"
+
+4. Anime → "Make it anime cel-shaded: two-tone shading, bold outline, speed lines on every move"
+
+5. Isometric → "Make it an isometric diorama: 30-degree camera, tiny world on a floating block, soft shadows"
+
+6. Voxel → "Make it voxel: 1-unit cubes only, beveled edges, warm studio light"
+
+7. Paper cutout → "Make it paper cutout: layered cardstock, drop shadows, paper grain, jittery stop-motion"
+
+8. Neon → "Make it a neon sign: glowing tube outlines on a dark brick wall, flicker, bloom"
+
+9. Risograph → "Make it risograph: two inks, orange and blue, halftone dots, misregistered layers"
+
+10. Watercolor → "Make it watercolor: wet soft edges, paper texture, pigment pooling at the rims"
+
+11. Liquid chrome → "Make it liquid chrome: mirror metal, studio reflections, slow ripples across the surface"
+
+12. Blueprint → "Make it a blueprint: white line wireframe on a blue grid, dimension callouts, drawn stroke by stroke"
+
+$24,000 of style frames → $0
+
+Save this and paste any line into your Opus 5.5
+
+Then read the full motion design guide below ↓
 ```
 
 <a id="ui-demo"></a>
@@ -1624,34 +1627,6 @@ I gave all four the same one-line prompt: recreate Sonic in Three.js.
 No reference image. No follow-ups. Just one prompt.
 
 Who wins?
-```
-
-### Comparison between GPT-6 Astra and Opus 5.5
-
-[@kinderlayer](https://x.com/kinderlayer/status/2109225641878888692) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2109225641878888692/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109225641878888692?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-holy sh*t. I ran the same prompts through GPT-6 Astra and Opus 5.5 again. it’s not even close anymore ↓
-
-Top is Astra, bottom is Opus. Same prompt, no edits, no picking the best take.
-
-A skeleton half-buried in the desert. A tiger mid-stride. An eagle dropping over the ocean. A shark cutting through the deep.
-
-Astra nails the thing you asked for: crisp, detailed, correct. shown on its own, you’d be impressed.
-
-Then your eye drifts to the bottom half.
-
-Opus isn’t drawing the animal, it’s directing the shot. the sun actually bakes the desert, the water has weight, the air has dust, every frame carries a mood. one gives you a clip. the other gives you a scene.
-
-and it’s not a fluke. it’s all four.
-
-twelve months ago this was unwatchable soup. now nobody’s asking “is it real” - they’re asking “which one has taste.” the bar moved and half of X slept through it.
-
-my pick is obvious. what’s yours?
-
-Astra or Opus 5.5?
-
-follow me and I’ll drop the exact prompt
 ```
 
 ### Electric motor animation comparison between Opus and DeepSeek
