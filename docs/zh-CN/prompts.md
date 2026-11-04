@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 79 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 80 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -10,7 +10,7 @@
 - [动效](#motion-graphics) (32)
 - [产品界面](#ui-demo) (10)
 - [图表图解](#data-viz) (1)
-- [讲解](#explainer) (8)
+- [讲解](#explainer) (9)
 - [发布片](#launch-film) (6)
 - [测试对比](#comparison) (8)
 
@@ -1439,6 +1439,24 @@ step 6 → scan 2 QR codes on your phone, new photos back up to your computer
 then make a second copy on an external drive and cancel your storage plan yourself
 
 Try this today please. Then read article on how to save money on any other app:
+```
+
+### 贝多芬逐渐失聪的纪录短片
+
+[@naometzger](https://x.com/naometzger/status/2117313324576821613) · 0:28 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2117313324576821613/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117313324576821613?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+i spent 4 days teaching opus 5.5 to make vox-style documentary reels
+
+all i typed was "do one about beethoven going deaf"
+
+it wrote the script, made the images in nano banana, and animated each scene using code. all in chat, no after effects
+
+we went back and forth for like 3 hours cos i really wanted my taste but next time will be so much faster with my skill
+
+still learning but it's the best thing i've made with claude
+
+want a full breakdown? comment "beethoven"
 ```
 
 <a id="launch-film"></a>

@@ -13,7 +13,7 @@
   "durationMs": 28000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102437977435893771/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102437977435893771/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102437977435893771"
  },
@@ -161,24 +161,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102476258948927543/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102476258948927543"
- },
- {
-  "id": "2102484620109644273",
-  "title": "AI Generated Video Progression with Music",
-  "title_zh": "AI生成的渐进式视频与音乐",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "dhruvalgolakiya",
-   "name": "Dhruval"
-  },
-  "postUrl": "https://x.com/dhruvalgolakiya/status/2102484620109644273",
-  "createdAt": "2026-09-22T19:46:10.000Z",
-  "durationMs": 22800,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102484620109644273/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102484620109644273/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102484620109644273"
  },
  {
   "id": "2102487879809126834",
@@ -2256,7 +2238,7 @@
   "durationMs": 15000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104618175803609305/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104618175803609305/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104618175803609305"
  },
@@ -2621,7 +2603,7 @@
   "durationMs": 270016,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106027834217259394/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106027834217259394/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106027834217259394"
  },
@@ -4062,24 +4044,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109896130188177563"
  },
  {
-  "id": "2109902063916257466",
-  "title": "First-Person Open World Game in Three.js",
-  "title_zh": "Three.js第一人称开放世界游戏",
-  "category": "game",
-  "author": {
-   "handle": "badboyfoxy",
-   "name": "badboyfoxy"
-  },
-  "postUrl": "https://x.com/badboyfoxy/status/2109902063916257466",
-  "createdAt": "2026-10-13T07:00:26.000Z",
-  "durationMs": 152000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109902063916257466/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109902063916257466/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109902063916257466"
- },
- {
   "id": "2109920822068654290",
   "title": "Beach update for Business Empire Tycoon game",
   "title_zh": "商业帝国大亨游戏的沙滩内容更新",
@@ -4515,42 +4479,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110472847084650726/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110472847084650726"
- },
- {
-  "id": "2110665151389003777",
-  "title": "Picasso inspired Three.js Tetris game gameplay",
-  "title_zh": "毕加索艺术风格的Three.js俄罗斯方块",
-  "category": "game",
-  "author": {
-   "handle": "SimonasLTU1",
-   "name": "Simonas"
-  },
-  "postUrl": "https://x.com/SimonasLTU1/status/2110665151389003777",
-  "createdAt": "2026-10-15T09:32:41.000Z",
-  "durationMs": 90000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110665151389003777/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110665151389003777/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110665151389003777"
- },
- {
-  "id": "2110665495221268915",
-  "title": "Interactive squishable jelly orange in browser",
-  "title_zh": "浏览器中可挤压切开如果冻般的橙子",
-  "category": "3d-scene",
-  "author": {
-   "handle": "vib3coded",
-   "name": "Vib3Coded"
-  },
-  "postUrl": "https://x.com/vib3coded/status/2110665495221268915",
-  "createdAt": "2026-10-15T09:34:02.000Z",
-  "durationMs": 18000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110665495221268915/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110665495221268915/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110665495221268915"
  },
  {
   "id": "2110689292737749146",
@@ -6874,7 +6802,7 @@
   "durationMs": 25000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116289885870981296/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116289885870981296/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116289885870981296"
  },
@@ -7225,6 +7153,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117045423378665704"
  },
  {
+  "id": "2117062532439671028",
+  "title": "Two billion triangles rendered in Three.js browser",
+  "title_zh": "Three.js浏览器渲染二十亿三角形网格",
+  "category": "3d-scene",
+  "author": {
+   "handle": "sara_kumodeck",
+   "name": "Sara Chen"
+  },
+  "postUrl": "https://x.com/sara_kumodeck/status/2117062532439671028",
+  "createdAt": "2026-11-02T01:13:35.000Z",
+  "durationMs": 10000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117062532439671028/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117062532439671028/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117062532439671028"
+ },
+ {
   "id": "2117169796290916732",
   "title": "Pure code animation generated with Fable 5.5",
   "title_zh": "使用 Fable 5.5 纯代码生成的动画",
@@ -7238,7 +7184,7 @@
   "durationMs": 80666,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117169796290916732/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117169796290916732/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117169796290916732"
  },
@@ -7277,5 +7223,60 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117240315069276186/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117240315069276186"
+ },
+ {
+  "id": "2117313324576821613",
+  "title": "Documentary reel about Beethoven going deaf",
+  "title_zh": "贝多芬逐渐失聪的纪录短片",
+  "category": "explainer",
+  "author": {
+   "handle": "naometzger",
+   "name": "Naomi Metzger"
+  },
+  "postUrl": "https://x.com/naometzger/status/2117313324576821613",
+  "createdAt": "2026-11-02T17:50:09.000Z",
+  "durationMs": 27800,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117313324576821613/video.mp4",
+  "promptShared": true,
+  "promptText": "i spent 4 days teaching opus 5.5 to make vox-style documentary reels\n\nall i typed was \"do one about beethoven going deaf\"\n\nit wrote the script, made the images in nano banana, and animated each scene using code. all in chat, no after effects\n\nwe went back and forth for like 3 hours cos i really wanted my taste but next time will be so much faster with my skill\n\nstill learning but it's the best thing i've made with claude\n\nwant a full breakdown? comment \"beethoven\"",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117313324576821613/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117313324576821613"
+ },
+ {
+  "id": "2117391948348817828",
+  "title": "Vox-style reels side-by-side comparison",
+  "title_zh": "Vox风格短视频生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "naometzger",
+   "name": "Naomi Metzger"
+  },
+  "postUrl": "https://x.com/naometzger/status/2117391948348817828",
+  "createdAt": "2026-11-02T23:02:34.000Z",
+  "durationMs": 27910,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117391948348817828/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117391948348817828/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117391948348817828"
+ },
+ {
+  "id": "2117404840678641954",
+  "title": "Soft 3D animation with sentimental counters",
+  "title_zh": "带情感计数器的柔和3D动画",
+  "category": "3d-scene",
+  "author": {
+   "handle": "Vynqorxe",
+   "name": "VynqorxeAI"
+  },
+  "postUrl": "https://x.com/Vynqorxe/status/2117404840678641954",
+  "createdAt": "2026-11-02T23:53:48.000Z",
+  "durationMs": 71000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117404840678641954/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117404840678641954/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117404840678641954"
  }
 ]

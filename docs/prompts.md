@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-79 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+80 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -10,7 +10,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Motion graphics](#motion-graphics) (32)
 - [Product UI](#ui-demo) (10)
 - [Charts & diagrams](#data-viz) (1)
-- [Explainers](#explainer) (8)
+- [Explainers](#explainer) (9)
 - [Launch films](#launch-film) (6)
 - [Tests & comparisons](#comparison) (8)
 
@@ -1439,6 +1439,24 @@ step 6 → scan 2 QR codes on your phone, new photos back up to your computer
 then make a second copy on an external drive and cancel your storage plan yourself
 
 Try this today please. Then read article on how to save money on any other app:
+```
+
+### Documentary reel about Beethoven going deaf
+
+[@naometzger](https://x.com/naometzger/status/2117313324576821613) · 0:28 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2117313324576821613/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117313324576821613?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+i spent 4 days teaching opus 5.5 to make vox-style documentary reels
+
+all i typed was "do one about beethoven going deaf"
+
+it wrote the script, made the images in nano banana, and animated each scene using code. all in chat, no after effects
+
+we went back and forth for like 3 hours cos i really wanted my taste but next time will be so much faster with my skill
+
+still learning but it's the best thing i've made with claude
+
+want a full breakdown? comment "beethoven"
 ```
 
 <a id="launch-film"></a>
