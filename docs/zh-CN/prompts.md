@@ -2,17 +2,18 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 80 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 81 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (14)
-- [动效](#motion-graphics) (32)
-- [产品界面](#ui-demo) (10)
+- [动效](#motion-graphics) (29)
+- [游戏](#game) (1)
+- [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (9)
 - [发布片](#launch-film) (6)
-- [测试对比](#comparison) (8)
+- [测试对比](#comparison) (10)
 
 <a id="3d-scene"></a>
 
@@ -293,18 +294,6 @@ PROMPT:
 We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start
 ```
 
-### 纯代码生成的车窗外四季变换动画
-
-[@itsolelehmann](https://x.com/itsolelehmann/status/2103124033365762215) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103124033365762215/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103124033365762215?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Anthropic has no image or video model, yet Opus 5.5 just made me this 30 second animated film using nothing but 2,800 lines of code
-
-(yes, this is 100% Claude Code with no other AI tools, connectors, or reference images)
-
-i gave it one prompt: 4 seasons passing outside a train
-```
-
 ### Opus 5.5制作的动画演示
 
 [@koldo2k](https://x.com/koldo2k/status/2103129343253778767) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103129343253778767/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103129343253778767?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -341,18 +330,6 @@ What do you think?
 
 ```text
 Opus 5.5 on Max effort - "make a dynamic 15-second motion graphics video that shows what an incredible motion designer you are, like it's your showreel for a résumé. go all out."
-```
-
-### 纯代码生成的动态设计作品
-
-[@techhalla](https://x.com/techhalla/status/2103411244468498547) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103411244468498547/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103411244468498547?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 just cooked this perfect motion piece in 14'
-
-0 After Effects or AI. just code
-
-full prompt I used, below👇
 ```
 
 ### 15秒动态图形设计师作品集展示
@@ -570,55 +547,6 @@ I asked Claude Opus 5.5 (Max) this prompt:
 It worked on its own for 1 hour 37 minutes and gave me this:
 
 → @claudeai
-```
-
-### 代码渲染知识动画全套提示词
-
-[@NFT_Chen](https://x.com/NFT_Chen/status/2107653056771068069) · 2:51 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2107653056771068069/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107653056771068069?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-💥我靠！Opus 5.5 制作视频全套提示词来了！画面不是抽卡生成的，全是它写代码渲染出来的！
-
-一共15 种视频风格，想给知识视频配动画，挑一种，把【】换成你要讲的内容，直接丢给 Opus 5.5。
- 
-视频分类+提示词：
-1️⃣皮影讲典故
-做一支 10 秒彩色皮影戏，讲【曹冲称象】。剪影布局，暖光透背，关节式偶戏。依次出现秤盘、铜碗、石头，先平衡，再把石头分批称、加起来。字幕卡点出现。用代码渲染，导出可播放视频。
-
-2️⃣等距流程
-做一支 12 秒等距 2.5D 流程动画，讲【快递怎么分拣】。包裹沿分拣线、货台、平板运输、清关关卡移动，每步编号标签，最后双线汇成一条。干净、可跟读。
-
-3️⃣比例尺对比
-做一支 10 秒比例尺对比，把【地球、木星、太阳】按真实半径同屏摆放。镜头平滑拉远，第一个物体缩小，点题「太阳底下约有 130 万个地球」。数字标注清晰。
-
-4️⃣白板手绘
-做一支 10 秒白板手绘。白底黑马克笔一笔笔画出【火柴人连甩 5 个包子】，红色只强调关键点。满足感粒子一颗比一颗大，最后角落画满。字幕：第 1 个，满足感拉满。
-
-5️⃣汉字演变 做一支 10 秒 WebGL 电影感汉字演变，主题【火】。龟甲、青铜、墨迹、火光质感。「火」从甲骨到闪电、火把，再到现代照明，形态连续变形，对应炎、烈、焰。
-
-6️⃣3D 拆解 用 three.js 做一支 12 秒爆炸图，拆解【一部手机】。外壳、中框、芯片分层炸开，镜头环绕拉近，零件用虚线引出标注。可换成任何结构。
-
-7️⃣像素典故 做一支 10 秒 16 位像素典故，讲【黄粱一梦】。取象、中举、治河、出征，每段约 1.6 秒硬切，最后回到现实。字幕：第二年，考中进士，当上了官。
-
-8️⃣绘本科普 做一支 10 秒绘本风科普，讲【小金鱼怎么游】。蜡笔线加铅笔涂色，线条抖动，眼睛、鳃、尾鳍对称，尾巴跟着节拍摆。纸本质感。
-
-9️⃣数学可视化 做一支 10 秒 3Blue1Brown 式数学可视化，讲【圆面积】。深色底，圆切成 8、16、32 个扇形，真的移拼成长方形。公式逐项出现，定格 πr²。
-
-🔟地图动画 做一支 10 秒古地图动画，讲【长安到敦煌】。羊皮纸、淡墨山路，朱红路线一笔画过去，标注里程和一句讲解，最后盖章。镜头可缩放。
-
-1️⃣1️⃣数据信息图 做一支 10 秒 Kurzgesagt 式信息图，讲【纸对折厚度】。干净图形、大数字：对折 2 次，厚度 0.4 毫米，厚度 ×2。镜头规则拉近，直到终点。
-
-1️⃣2️⃣扁平 MG 做一支 10 秒扁平 MG，讲【降水】。纯色几何、无描边。云里的小水滴越聚越大，然后掉下来。两段明暗，卡通云朵。
-
-1️⃣3️⃣卡点金句 做一支 10 秒卡点排版，120 BPM，讲【费曼学习法】。每个词卡一拍，黑底橙字切入。四步依次砸出，最后一锤：讲不清楚，就是没真懂。
-
-1️⃣4️⃣漫画分格 做一支 10 秒漫画分格，讲【一扇窗破了】。黑白网点加一个红色。听课、被发现、冲出教室，格间硬切，最后一格点题。
-
-1️⃣5️⃣时间线 做一支 12 秒横轴时间线，讲【从达特茅斯到 ChatGPT】。镜头沿轴推进，节点缩放点亮。年份大字加一句事件。示例节点：1971，又过了 41 年。
-
-用法：选一种风格，只换【】里的主题和字幕，不要同时堆三种画风。
-
-#动效设计 #AI编程 #ai视频制作 #Claude #榨干软件 #howto #ai视频剪辑 #AI新星计划 #vibe知识大赏 #MG动画 #科普
 ```
 
 ### 关于Opus与Haiku的动态设计故事短片
@@ -915,6 +843,24 @@ $24,000 of style frames → $0
 Save this and paste any line into your Opus 5.5
 
 Then read the full motion design guide below ↓
+```
+
+<a id="game"></a>
+
+## 游戏
+
+### 24小时内用AI制作的原原创游戏
+
+[@xikhar](https://x.com/xikhar/status/2117776295534997818) · 1:37 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2117776295534997818/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117776295534997818?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+I made a full original game in 24 hours using AI
+
+Stack: Opus 5.5 + Flux 3 Max + GPT Image + Tripo + Blender + Three.js
+
+Anyone can make games now. Full workflow thread and prompt below:
+
+(1/7)
 ```
 
 <a id="ui-demo"></a>
@@ -1231,6 +1177,18 @@ the alarm wakes you up. the drone already knows where he went...
 Find full prompt below
 
 Then, read the article below on how to reverse-engineer anything with Opus 5.5.
+```
+
+### 使用Opus复刻应用动效
+
+[@timothylindblom](https://x.com/timothylindblom/status/2117597825081254024) · 0:08 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2117597825081254024/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117597825081254024?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Copying an animation and app has never been this easy
+
+1 prompt with @newlyhq using Opus 5.5
+
+Prompt below (with 5 images, very important!) 🧵
 ```
 
 <a id="data-viz"></a>
@@ -1742,4 +1700,28 @@ That's 60x cheaper than Opus. This is nuts.
 Yes, Terra is fast. But costing more than DeepSeek? That's a joke. 😂
 
 Which one wins for you? 👇
+```
+
+### Gemini与Claude果冻屏保效果对比
+
+[@0xRhinoX](https://x.com/0xRhinoX/status/2117682945116774562) · 0:25 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2117682945116774562/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117682945116774562?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+WTF Claude. I asked for the DVD screensaver and it made a f*cking ad for itself
+
+Same prompt: the DVD screensaver, but out of jelly.
+
+Gemini 4 Carbon made the DVD logo.
+
+Claude Opus 5.5 said the DVD logo is trademarked and made the Claude logo instead.
+```
+
+### Opus 3与Opus 5.5写作对比
+
+[@ishuagra02](https://x.com/ishuagra02/status/2117847600892465212) · 0:23 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2117847600892465212/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117847600892465212?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+I compared Opus 3's writing to Opus 5.5's writing based on the prompt "Write a sarcastic eulogy for OpenAI, in under 400 characters."
+
+It's not even close.
 ```
