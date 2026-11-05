@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-81 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+82 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -11,7 +11,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Games](#game) (1)
 - [Product UI](#ui-demo) (11)
 - [Charts & diagrams](#data-viz) (1)
-- [Explainers](#explainer) (9)
+- [Explainers](#explainer) (10)
 - [Launch films](#launch-film) (6)
 - [Tests & comparisons](#comparison) (10)
 
@@ -1179,16 +1179,26 @@ Find full prompt below
 Then, read the article below on how to reverse-engineer anything with Opus 5.5.
 ```
 
-### Replicating an app animation with Opus
+### Autonomous research agent workflow with Opus
 
-[@timothylindblom](https://x.com/timothylindblom/status/2117597825081254024) · 0:08 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2117597825081254024/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117597825081254024?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+[@HoodieFade_](https://x.com/HoodieFade_/status/2118010863038746652) · 0:15 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2118010863038746652/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118010863038746652?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
 
 ```text
-Copying an animation and app has never been this easy
+After Andrej Karpathy released autoresearch, where an agent runs experiments in a loop on its own, I packed his method into one prompt that turns Opus 5.5 into a graph and can carry almost any task to the finish.
 
-1 prompt with @newlyhq using Opus 5.5
+→ writes a check that can actually fail, first
+→ splits the task into parts
+→ runs the independent parts in parallel
+→ loops each one until it passes the check
+→ sends back only the part that failed
+→ turns every mistake into a rule for next time
+→ calls you only for the step that can’t be undone
 
-Prompt below (with 5 images, very important!) 🧵
+Throw it at Opus 5.5 with the task you’ve been putting off for a week, and you’ll see the difference in one run.
+
+The full prompt is in the comments.
+
+How to tune it for your own work is in the article below. Save it before it gets lost ↓
 ```
 
 <a id="data-viz"></a>
@@ -1415,6 +1425,52 @@ we went back and forth for like 3 hours cos i really wanted my taste but next ti
 still learning but it's the best thing i've made with claude
 
 want a full breakdown? comment "beethoven"
+```
+
+### Vector explainer animation with Opus prompt
+
+[@treyscalez](https://x.com/treyscalez/status/2117602113509294520) · 1:02 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2117602113509294520/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117602113509294520?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+HOLY F*CK
+
+i just tried the infographicshow opus 5.5 prompt & the results are mind blowing 
+
+u can also try it yourself for completely free ↯
+
+<inputs>
+Ask me for my topic (a what-if, a "why does X happen", a true story, or how something works), or pitch 3 with one shocking true angle each. Ask which image model I have (GPT Image 2, or another that takes reference images at 4K) and which voice service (ElevenLabs, or Kokoro for free). Then write a 55-65 s script and a shot plan, and show me both before you spend anything.
+</inputs>
+
+<direction>
+A 1920x1080 flat vector explainer in the style of the big infographic animation channels. Every scene is a full illustrated place (a lab, a street, a classroom, a stage) with characters acting the line out.
+Flat colour shapes, no outlines, one slightly darker flat shade for form, a muted palette (dusty blue-grey, slate teal, warm beige, navy, soft purple), salmon-pink skin, big heads, dot eyes.
+A new scene every 2-4 s and a hard cut on every sentence that changes the idea. A white splat wipe (0.2 s in, 0.2 s out) between big sections. The camera always drifts 2-4% or pans.
+Text lives only on things in the world: signs on posts, hanging boards, chalkboards, building panels and screens.
+- It is typed in Montserrat 800 at 26-34 letters a second. Each letter arrives 1.45x big and 0.7 em to the right, then settles in 0.18 s.
+- Ink is #2b2d42 on white boards.
+- A red X (#d62828, 30 px round strokes, two strokes of 0.11 s each) goes over every wrong idea.
+- Every date gets a white 330x120 card top left with an orange #f4a261 calendar.
+- Headlines are white 92-96 px caps on a flat colour (#e2552f with drifting lighter puffs, or #5b3fa6 with slowly turning #6a4cb6 gears).
+Banned: outlines, motion-design UI floating over the art (code editors, glass cards, checklists), emoji, burned-in subtitles, any channel's logo, a still frame longer than 1 s, and a character who doesn't move.
+</direction>
+
+<structure>
+Length: the voice decides, 55-65 s at about 190 words per minute.
+0 s a second-person hook that flips what the viewer assumes, acted out literally, then a red X on the denial line → 3-8 s the stakes in one shocking true line, with icons popping in one per word → 8-11 s the subject revealed under a spotlight, its name typed on a sign → 11-18 s the origin: the real place with its name typed on its own sign, a date card, people walking in or out of it → 18-24 s the types or parts, landing one by one on their names, each labelled → 24-25.5 s "so how does it work?" as a headline with question marks popping → 25.5-36 s the mechanism acted out in 2-3 places (a chalkboard, a machine, a map), with a counter rolling up to the big number → 36-46 s what it leads to, with characters who react (jump, turn, a "!" pops) → 46-55 s the twist that ties back to the hook → 55 s the last line is a question to the viewer, the viewer character from the hook reacts, and the sign holds to the end.
+</structure>
+
+<build>
+1. Tools: Python, Playwright with Chromium, FFmpeg, faster-whisper, OpenCV, Pillow, librosa. Install what's missing and tell me what you installed.
+2. Art: everything at 3840x2160, with 3-5 frames of the reference channel as style references (crop their logo off first).
+   - One EMPTY plate per scene: no people, straight-on, open floor, blank signs and screens to write on in code.
+   - Character sheets on solid chroma green #00B140, with nothing green on anyone.
+   - Draw any character who gestures a lot WITHOUT ARMS, only round shoulder sockets, so code draws the arms. Draw everyone else in the exact pose their scene needs: side view at a desk, side view walking, seen from behind, sitting.
+3. Cutouts:
+   - The background is every pixel with G - max(R,B) over 40, within 110 of the median green, connected to the border.
+   - Add a 2 px soft alpha band, and clamp G to max(R,B) + 6 inside it.
+   - Split heads at the neck, drawing hands, and walkers' legs below the coat hem.
+   - Refill each hole with inpainti…
 ```
 
 <a id="launch-film"></a>
