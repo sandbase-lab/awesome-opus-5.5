@@ -309,24 +309,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102592355165782312"
  },
  {
-  "id": "2102623690152419633",
-  "title": "Procedural Cartoon Scene Generation Comparison",
-  "title_zh": "程序化卡通场景生成对比",
-  "category": "comparison",
-  "author": {
-   "handle": "Stefan_3D_AI",
-   "name": "Stefan 3D AI"
-  },
-  "postUrl": "https://x.com/Stefan_3D_AI/status/2102623690152419633",
-  "createdAt": "2026-09-23T04:58:47.000Z",
-  "durationMs": 29605,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102623690152419633/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102623690152419633/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102623690152419633"
- },
- {
   "id": "2102645793828036643",
   "title": "Animated film rendered in Canvas 2D",
   "title_zh": "使用Canvas 2D实时渲染的动画短片",
@@ -415,24 +397,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102733714845491558/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102733714845491558"
- },
- {
-  "id": "2102735082218004540",
-  "title": "Stickman animation made with JavaScript in HTML",
-  "title_zh": "单 HTML 文件中的 JavaScript 火柴人动画",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "notjazii",
-   "name": "J A Z I I"
-  },
-  "postUrl": "https://x.com/notjazii/status/2102735082218004540",
-  "createdAt": "2026-09-23T12:21:25.000Z",
-  "durationMs": 24933,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102735082218004540/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102735082218004540/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102735082218004540"
  },
  {
   "id": "2102743212922384673",
@@ -892,24 +856,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103151003272962130"
  },
  {
-  "id": "2103176101497651644",
-  "title": "Promotional video for Squad.so created in one shot",
-  "title_zh": "一次成型的Squad.so宣传视频",
-  "category": "launch-film",
-  "author": {
-   "handle": "pbteja1998",
-   "name": "Bhanu Teja P"
-  },
-  "postUrl": "https://x.com/pbteja1998/status/2103176101497651644",
-  "createdAt": "2026-09-24T17:33:52.000Z",
-  "durationMs": 65100,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103176101497651644/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103176101497651644/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103176101497651644"
- },
- {
   "id": "2103198490746900830",
   "title": "A Japanese style boating game in browser",
   "title_zh": "浏览器中运行的日式划船游戏",
@@ -945,25 +891,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103273003555402193/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103273003555402193"
- },
- {
-  "id": "2103275618045686217",
-  "title": "Social promo video for Lightspark with sound",
-  "title_zh": "带声音的Lightspark社交宣传短片",
-  "category": "launch-film",
-  "author": {
-   "handle": "davidmarcus",
-   "name": "David Marcus"
-  },
-  "postUrl": "https://x.com/davidmarcus/status/2103275618045686217",
-  "createdAt": "2026-09-25T00:09:18.000Z",
-  "durationMs": 23000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103275618045686217/video.mp4",
-  "promptShared": true,
-  "promptText": "Opus 5.5 got quite good at video creation. My prompt was: “make a punchy and modern short video for social that promotes @lightspark capabilities. Needs to be production grade with sound”. 5 mins later (one shot):",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103275618045686217/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103275618045686217"
  },
  {
   "id": "2103282610948464811",
@@ -1964,7 +1891,7 @@
   "durationMs": 103759,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104215873120764032/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104215873120764032/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104215873120764032"
  },
@@ -2529,7 +2456,7 @@
   "durationMs": 270016,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106027834217259394/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106027834217259394/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106027834217259394"
  },
@@ -3061,24 +2988,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107804983416467598/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107804983416467598"
- },
- {
-  "id": "2107870449593909592",
-  "title": "Train journey simulated live in Three.js",
-  "title_zh": "Three.js实时模拟的火车旅程场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "KhalidDevLog",
-   "name": "Khalid"
-  },
-  "postUrl": "https://x.com/KhalidDevLog/status/2107870449593909592",
-  "createdAt": "2026-10-07T16:27:32.000Z",
-  "durationMs": 132476,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107870449593909592/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107870449593909592/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107870449593909592"
  },
  {
   "id": "2107877177303699584",
@@ -4205,25 +4114,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110394800411185404/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110394800411185404"
- },
- {
-  "id": "2110407591503491372",
-  "title": "Retro game launch video with demo",
-  "title_zh": "复古游戏发布宣传片与演示",
-  "category": "launch-film",
-  "author": {
-   "handle": "doseofcreative",
-   "name": "dos"
-  },
-  "postUrl": "https://x.com/doseofcreative/status/2110407591503491372",
-  "createdAt": "2026-10-14T16:29:13.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110407591503491372/video.mp4",
-  "promptShared": true,
-  "promptText": "after opus 5.5, every other motion video feels like PowerPoint\n\nprompt\n\n\"use higgsfield katana to make a cracked retro game launch video with demo.\"",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110407591503491372/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110407591503491372"
  },
  {
   "id": "2110433923436052799",
@@ -6186,24 +6076,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115482577712590977"
  },
  {
-  "id": "2115486834755035178",
-  "title": "Floating island 3D short film in Three.js",
-  "title_zh": "Three.js浮岛城镇演变3D短片",
-  "category": "3d-scene",
-  "author": {
-   "handle": "0xbobaaa",
-   "name": "0xbobaa"
-  },
-  "postUrl": "https://x.com/0xbobaaa/status/2115486834755035178",
-  "createdAt": "2026-10-28T16:52:19.000Z",
-  "durationMs": 58315,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115486834755035178/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115486834755035178/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115486834755035178"
- },
- {
   "id": "2115632086707225085",
   "title": "Interactive 3D biology explainer for oxygen transport",
   "title_zh": "氧气传输交互式3D生物教学演示",
@@ -6385,24 +6257,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115891194383200515/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115891194383200515"
- },
- {
-  "id": "2115898852704456739",
-  "title": "Interactive Motion Explainer for Teaching EKGs",
-  "title_zh": "心电图教学交互式动态演示",
-  "category": "explainer",
-  "author": {
-   "handle": "therealRYC",
-   "name": "Robert Y. Chen"
-  },
-  "postUrl": "https://x.com/therealRYC/status/2115898852704456739",
-  "createdAt": "2026-10-29T20:09:32.000Z",
-  "durationMs": 48768,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115898852704456739/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115898852704456739/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115898852704456739"
  },
  {
   "id": "2115933646645567876",
@@ -6734,24 +6588,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116606788241969445"
  },
  {
-  "id": "2116613174409748591",
-  "title": "Performance comparison of Claude Opus and GPT models",
-  "title_zh": "Claude Opus与多款GPT模型的性能对比",
-  "category": "comparison",
-  "author": {
-   "handle": "EnvolDev",
-   "name": "Tony"
-  },
-  "postUrl": "https://x.com/EnvolDev/status/2116613174409748591",
-  "createdAt": "2026-10-31T19:28:00.000Z",
-  "durationMs": 25000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116613174409748591/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116613174409748591/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116613174409748591"
- },
- {
   "id": "2116668827207364645",
   "title": "Pipeline Converting Images to 3D Game Characters",
   "title_zh": "将图片转化为3D游戏角色的自动化管线",
@@ -7043,24 +6879,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117404840678641954"
  },
  {
-  "id": "2117536810184438037",
-  "title": "Green swamp ported to WebGPU in Three.js",
-  "title_zh": "移植到WebGPU的Three.js绿色沼泽场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "chetanankola",
-   "name": "Chetan Ankola"
-  },
-  "postUrl": "https://x.com/chetanankola/status/2117536810184438037",
-  "createdAt": "2026-11-03T08:38:12.000Z",
-  "durationMs": 48503,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117536810184438037/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117536810184438037/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117536810184438037"
- },
- {
   "id": "2117593246515810630",
   "title": "Coding pixel art visual effects with Claude Opus",
   "title_zh": "用Claude Opus编写像素风视觉特效",
@@ -7264,6 +7082,43 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118343870450954318"
  },
  {
+  "id": "2118357912624005300",
+  "title": "Vertical animated cartoon short in Three.js",
+  "title_zh": "Three.js 制作的竖屏卡通动画短片",
+  "category": "3d-scene",
+  "author": {
+   "handle": "treyscalez",
+   "name": "trey"
+  },
+  "postUrl": "https://x.com/treyscalez/status/2118357912624005300",
+  "createdAt": "2026-11-05T15:00:58.000Z",
+  "durationMs": 33966,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118357912624005300/video.mp4",
+  "promptShared": true,
+  "promptText": "i made this ricksclips style animation completely from scratch using opus 5.5\n\nthe style is going extremely viral rn on the internet and people are paying money just to be able to make them\n\nwell today is ur lucky day cause am giving away the full prompt to guys for free\n\nall u need is voiceover and claude to be able to make this, $0 spent on images or videos\n\n-> here's the prompt \n\n{\n \"task\": \"Make a vertical animated cartoon short of MY story, built in code: three.js r160 world + canvas-drawn 2D character cards, rendered frame by frame in headless Chromium (Playwright, swiftshader), encoded with ffmpeg. 1080x1920, 30fps, exactly as long as my voiceover. Work start to finish; only ask if script and audio don't match.\",\n \"my_inputs\": {\n  \"story\": \"[your idea, true event, legend or full script]\",\n  \"script\": \"[optional exact script]\",\n  \"voiceover\": \"[optional: attach mp3/wav]\",\n  \"length_seconds\": 30,\n  \"voice_speed\": 1.0,\n  \"captions\": false,\n  \"notes\": \"[optional: era, setting, characters, jokes]\"\n },\n \"stages\": [\n  \"A. No script: write one at ~3.7 words/s (30s~110 words): 1) hook = absurd fact, no setup 2) setting in 1-2 lines with a concrete detail 3) 2-4 escalating beats, others doubt/mock, one exaggeration joke 4) pivot 'But...'/'You see,' revealing the real mechanism with an everyday analogy 5) short ironic twist = last words. Spoken English, contractions, numbers as words, never describe what's on screen. If presented as true, web-check facts and say history/disputed/legend.\",\n  \"B. No voiceover: give script in a copyable block + word count + est. length, a short shot plan, recording tips (one warm narrator; ElevenLabs speed 1.05-1.1, stability 45-55%; pauses at sentence ends; no music). Stop and ask for the upload.\",\n  \"C. With voiceover: build everything below without stopping. Task list for progress; send a stills contact sheet before the long render.\"\n ],\n \"setup\": [\n  \"mkdir -p web/lib work stills frames out\",\n  \"npm pack three@0.160.0 -> copy package/build/three.module.js to web/lib (fallback: sparse git clone of mrdoob/three.js branch r160, folder build)\",\n  \"Playwright + Chromium (npm i -g playwright && npx playwright install chromium); launch args --use-angle=swiftshader --enable-unsafe-swiftshader --ignore-gpu-blocklist\",\n  \"python3 numpy Pillow, ffmpeg (with rubberband)\",\n  \"Serve web/ with a tiny Node http server; render.mjs loads index.html, waits for window.ready, calls window.renderFrame(f), saves canvas.toDataURL('image/jpeg',.95) to frames/f0000.jpg. Support RESUME=1 (skip existing) and a frame list 'a-b' or '1,5,9'.\"\n ],\n \"timing\": \"If voice_speed!=1: ffmpeg -af rubberband=tempo=<speed> (pitch kept). Claude can't hear audio: align my script to speech using ffmpeg silencedetect (-35dB, 0.12s): split script into phrases at punctuation, DP-match phrases to speech segments by syllable count vs duration, penalise sentence ends inside a segment. Spread words by syllables. Write work/phrases.json; check pauses fall at sentence ends. Frames = round(duration*30). Every reaction lands 0-3 frames before its word; the final payoff lands on the final word.\",\n \"architecture\": {\n  \"files\": \"web/index.html (canvas#c 1080x1920 + module main.js), main.js (renderer, materials, world, cards, sprites, passes), story.js (SHOTS, LIGHTS, lightFor, camAt, dofAt, worldAt, actorsAt, fxAt: all pure functions of frame f), motion.js, paint.js (canvas textures), toon.js (character + creature drawing), https://t.co/MwT4jjcu22, https://t.co/3V5W7hv6gk, https://t.co/XLDraRXh1Z, https://t.co/vZbd2PyUGV (contact sheets).\",\n  \"renderer\": \"WebGLRenderer antialias:false, preserveDrawingBuffer, PCFSoft shadows 2048, sun = DirectionalLight from az/el per light preset, shadow camera centred on each shot's action (ext 8-60m), HemisphereLight, Fog(colour = sky horizon). Camera Perspective, near .08 far 1500.\",\n  \"materials\": \"MeshToonMaterial with a 2-texel gradientMap [90,255] Nearest = hard 2-step toon shading. Textures are CanvasTextures pai…",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118357912624005300/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118357912624005300"
+ },
+ {
+  "id": "2118360273614524779",
+  "title": "Interactive 3D electronics workbench in browser",
+  "title_zh": "浏览器中的交互式3D电子实验台",
+  "category": "3d-scene",
+  "author": {
+   "handle": "0xKapri",
+   "name": "Kapri"
+  },
+  "postUrl": "https://x.com/0xKapri/status/2118360273614524779",
+  "createdAt": "2026-11-05T15:10:21.000Z",
+  "durationMs": 56768,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118360273614524779/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118360273614524779/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118360273614524779"
+ },
+ {
   "id": "2118386115170496855",
   "title": "Local speech transcription and refinement engine",
   "title_zh": "本地实时语音转录与精炼引擎演示",
@@ -7280,5 +7135,150 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118386115170496855/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118386115170496855"
+ },
+ {
+  "id": "2118521562261528849",
+  "title": "Playable game built in 24 hours with AI",
+  "title_zh": "用AI在24小时内制作的完整可玩游戏",
+  "category": "game",
+  "author": {
+   "handle": "NicoleOfCringe",
+   "name": "NicoleCringe"
+  },
+  "postUrl": "https://x.com/NicoleOfCringe/status/2118521562261528849",
+  "createdAt": "2026-11-06T01:51:15.000Z",
+  "durationMs": 75000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118521562261528849/video.mp4",
+  "promptShared": true,
+  "promptText": "I made a full original game in 24 hours using AI  \n\nStack: Opus 5.5 + Flux 3 Max + GPT Image + Tripo + Blender + Three.js  \n\nAnyone can make games now. Full workflow thread and prompt below:  (1/7)",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118521562261528849/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118521562261528849"
+ },
+ {
+  "id": "2118582485412131107",
+  "title": "3D modeling and procedural shader test in Blender",
+  "title_zh": "Blender中的3D建模与程序化着色测试",
+  "category": "3d-scene",
+  "author": {
+   "handle": "arafune",
+   "name": "荒船泰廣"
+  },
+  "postUrl": "https://x.com/arafune/status/2118582485412131107",
+  "createdAt": "2026-11-06T05:53:20.000Z",
+  "durationMs": 35666,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118582485412131107/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118582485412131107/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118582485412131107"
+ },
+ {
+  "id": "2118631658979250631",
+  "title": "Updated fog system in Three.js and Blender",
+  "title_zh": "Three.js与Blender更新雾效系统演示",
+  "category": "3d-scene",
+  "author": {
+   "handle": "chetanankola",
+   "name": "Chetan Ankola"
+  },
+  "postUrl": "https://x.com/chetanankola/status/2118631658979250631",
+  "createdAt": "2026-11-06T09:08:44.000Z",
+  "durationMs": 23021,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118631658979250631/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118631658979250631/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118631658979250631"
+ },
+ {
+  "id": "2118742203371573615",
+  "title": "Claude Opus 5.5 effort tiers comparison",
+  "title_zh": "Claude Opus 5.5不同算力档位对比",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2118742203371573615",
+  "createdAt": "2026-11-06T16:28:00.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118742203371573615/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118742203371573615/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118742203371573615"
+ },
+ {
+  "id": "2118839791165067330",
+  "title": "Roblox story video made with Claude Opus",
+  "title_zh": "使用Claude Opus制作的Roblox故事视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "traqscales",
+   "name": "traqs"
+  },
+  "postUrl": "https://x.com/traqscales/status/2118839791165067330",
+  "createdAt": "2026-11-06T22:55:47.000Z",
+  "durationMs": 50049,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118839791165067330/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118839791165067330/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118839791165067330"
+ },
+ {
+  "id": "2118847014071120179",
+  "title": "Infinite self-evolving browser Backrooms game",
+  "title_zh": "可在浏览器中玩的无限自进化后室游戏",
+  "category": "game",
+  "author": {
+   "handle": "apekshik",
+   "name": "apek"
+  },
+  "postUrl": "https://x.com/apekshik/status/2118847014071120179",
+  "createdAt": "2026-11-06T23:24:29.000Z",
+  "durationMs": 100300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118847014071120179/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2118847014071120179/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118847014071120179"
+ },
+ {
+  "id": "2119038154053480543",
+  "title": "AI models competing in a sailing game",
+  "title_zh": "多款AI模型帆船游戏对决测试",
+  "category": "comparison",
+  "author": {
+   "handle": "Pirat_Nation",
+   "name": "Pirat_Nation 🔴"
+  },
+  "postUrl": "https://x.com/Pirat_Nation/status/2119038154053480543",
+  "createdAt": "2026-11-07T12:04:00.000Z",
+  "durationMs": 37566,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2119038154053480543/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2119038154053480543/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119038154053480543"
+ },
+ {
+  "id": "2119103146974957675",
+  "title": "Recreating a bedroom in Three.js",
+  "title_zh": "用Three.js重建卧室3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "MengTo",
+   "name": "Meng To"
+  },
+  "postUrl": "https://x.com/MengTo/status/2119103146974957675",
+  "createdAt": "2026-11-07T16:22:15.000Z",
+  "durationMs": 23600,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2119103146974957675/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2119103146974957675/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119103146974957675"
  }
 ]

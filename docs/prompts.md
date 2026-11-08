@@ -6,13 +6,13 @@ English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../R
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (14)
+- [3D scenes](#3d-scene) (15)
 - [Motion graphics](#motion-graphics) (29)
-- [Games](#game) (1)
+- [Games](#game) (2)
 - [Product UI](#ui-demo) (11)
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (10)
-- [Launch films](#launch-film) (6)
+- [Launch films](#launch-film) (4)
 - [Tests & comparisons](#comparison) (10)
 
 <a id="3d-scene"></a>
@@ -237,6 +237,51 @@ made with opus 5.5 + @threejs
 
 asked it for a tiny oil rig in a storm. 
 then i asked for godzilla 👀
+```
+
+### Vertical animated cartoon short in Three.js
+
+[@treyscalez](https://x.com/treyscalez/status/2118357912624005300) · 0:34 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2118357912624005300/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118357912624005300?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+i made this ricksclips style animation completely from scratch using opus 5.5
+
+the style is going extremely viral rn on the internet and people are paying money just to be able to make them
+
+well today is ur lucky day cause am giving away the full prompt to guys for free
+
+all u need is voiceover and claude to be able to make this, $0 spent on images or videos
+
+-> here's the prompt 
+
+{
+ "task": "Make a vertical animated cartoon short of MY story, built in code: three.js r160 world + canvas-drawn 2D character cards, rendered frame by frame in headless Chromium (Playwright, swiftshader), encoded with ffmpeg. 1080x1920, 30fps, exactly as long as my voiceover. Work start to finish; only ask if script and audio don't match.",
+ "my_inputs": {
+  "story": "[your idea, true event, legend or full script]",
+  "script": "[optional exact script]",
+  "voiceover": "[optional: attach mp3/wav]",
+  "length_seconds": 30,
+  "voice_speed": 1.0,
+  "captions": false,
+  "notes": "[optional: era, setting, characters, jokes]"
+ },
+ "stages": [
+  "A. No script: write one at ~3.7 words/s (30s~110 words): 1) hook = absurd fact, no setup 2) setting in 1-2 lines with a concrete detail 3) 2-4 escalating beats, others doubt/mock, one exaggeration joke 4) pivot 'But...'/'You see,' revealing the real mechanism with an everyday analogy 5) short ironic twist = last words. Spoken English, contractions, numbers as words, never describe what's on screen. If presented as true, web-check facts and say history/disputed/legend.",
+  "B. No voiceover: give script in a copyable block + word count + est. length, a short shot plan, recording tips (one warm narrator; ElevenLabs speed 1.05-1.1, stability 45-55%; pauses at sentence ends; no music). Stop and ask for the upload.",
+  "C. With voiceover: build everything below without stopping. Task list for progress; send a stills contact sheet before the long render."
+ ],
+ "setup": [
+  "mkdir -p web/lib work stills frames out",
+  "npm pack three@0.160.0 -> copy package/build/three.module.js to web/lib (fallback: sparse git clone of mrdoob/three.js branch r160, folder build)",
+  "Playwright + Chromium (npm i -g playwright && npx playwright install chromium); launch args --use-angle=swiftshader --enable-unsafe-swiftshader --ignore-gpu-blocklist",
+  "python3 numpy Pillow, ffmpeg (with rubberband)",
+  "Serve web/ with a tiny Node http server; render.mjs loads index.html, waits for window.ready, calls window.renderFrame(f), saves canvas.toDataURL('image/jpeg',.95) to frames/f0000.jpg. Support RESUME=1 (skip existing) and a frame list 'a-b' or '1,5,9'."
+ ],
+ "timing": "If voice_speed!=1: ffmpeg -af rubberband=tempo=<speed> (pitch kept). Claude can't hear audio: align my script to speech using ffmpeg silencedetect (-35dB, 0.12s): split script into phrases at punctuation, DP-match phrases to speech segments by syllable count vs duration, penalise sentence ends inside a segment. Spread words by syllables. Write work/phrases.json; check pauses fall at sentence ends. Frames = round(duration*30). Every reaction lands 0-3 frames before its word; the final payoff lands on the final word.",
+ "architecture": {
+  "files": "web/index.html (canvas#c 1080x1920 + module main.js), main.js (renderer, materials, world, cards, sprites, passes), story.js (SHOTS, LIGHTS, lightFor, camAt, dofAt, worldAt, actorsAt, fxAt: all pure functions of frame f), motion.js, paint.js (canvas textures), toon.js (character + creature drawing), https://t.co/MwT4jjcu22, https://t.co/3V5W7hv6gk, https://t.co/XLDraRXh1Z, https://t.co/vZbd2PyUGV (contact sheets).",
+  "renderer": "WebGLRenderer antialias:false, preserveDrawingBuffer, PCFSoft shadows 2048, sun = DirectionalLight from az/el per light preset, shadow camera centred on each shot's action (ext 8-60m), HemisphereLight, Fog(colour = sky horizon). Camera Perspective, near .08 far 1500.",
+  "materials": "MeshToonMaterial with a 2-texel gradientMap [90,255] Nearest = hard 2-step toon shading. Textures are CanvasTextures pai…
 ```
 
 <a id="motion-graphics"></a>
@@ -861,6 +906,18 @@ Stack: Opus 5.5 + Flux 3 Max + GPT Image + Tripo + Blender + Three.js
 Anyone can make games now. Full workflow thread and prompt below:
 
 (1/7)
+```
+
+### Playable game built in 24 hours with AI
+
+[@NicoleOfCringe](https://x.com/NicoleOfCringe/status/2118521562261528849) · 1:15 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2118521562261528849/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118521562261528849?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+I made a full original game in 24 hours using AI  
+
+Stack: Opus 5.5 + Flux 3 Max + GPT Image + Tripo + Blender + Three.js  
+
+Anyone can make games now. Full workflow thread and prompt below:  (1/7)
 ```
 
 <a id="ui-demo"></a>
@@ -1491,14 +1548,6 @@ i just told opus to go pick a SaaS and create a professional product launch vide
 prompt below:
 ```
 
-### Social promo video for Lightspark with sound
-
-[@davidmarcus](https://x.com/davidmarcus/status/2103275618045686217) · 0:23 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2103275618045686217/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103275618045686217?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 got quite good at video creation. My prompt was: “make a punchy and modern short video for social that promotes @lightspark capabilities. Needs to be production grade with sound”. 5 mins later (one shot):
-```
-
 ### Dynamic motion graphics video for Distilbook
 
 [@ajith_io](https://x.com/ajith_io/status/2103469807375208546) · 0:40 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2103469807375208546/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103469807375208546?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1602,18 +1651,6 @@ Beats 21-32, outro: the black button expands into the page, staying pill-shaped 
 3. Use closed-form step-response springs for every pop and settle.
 4. Make every handoff a shared element: the lime flood carries a copy of the bubble's words, and the button carries its label into the page.
 5. Sound: use a downloaded Mixkit SFX for each event - typing, send pop, each toss, drop impact, card s…
-```
-
-### Retro game launch video with demo
-
-[@doseofcreative](https://x.com/doseofcreative/status/2110407591503491372) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2110407591503491372/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110407591503491372?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-after opus 5.5, every other motion video feels like PowerPoint
-
-prompt
-
-"use higgsfield katana to make a cracked retro game launch video with demo."
 ```
 
 <a id="comparison"></a>
