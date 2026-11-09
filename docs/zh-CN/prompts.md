@@ -2,18 +2,18 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 82 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 79 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (15)
-- [动效](#motion-graphics) (29)
+- [动效](#motion-graphics) (27)
 - [游戏](#game) (2)
 - [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (10)
 - [发布片](#launch-film) (4)
-- [测试对比](#comparison) (10)
+- [测试对比](#comparison) (9)
 
 <a id="3d-scene"></a>
 
@@ -351,24 +351,6 @@ And I asked it to explain how it pulled it off, and my mind got blown all over a
 I'll leave you the prompt too 👇
 ```
 
-### 带字幕与动效的口播视频快剪
-
-[@sab8a](https://x.com/sab8a/status/2103144778481475686) · 0:37 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103144778481475686/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103144778481475686?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 + OpenEdit
-
-Prompt: 
-
-"Cut a raw talking-head clip into a punchy, fun edit with subtitles, graphics and music”
-
-~ 1h 51 min
-~ token usage $23
-~ fal usage $49
-
-What do you think?
-```
-
 ### 代码生成的动态动态图形作品集展示
 
 [@stephanlivera](https://x.com/stephanlivera/status/2103315922098470926) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103315922098470926/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103315922098470926?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -418,14 +400,6 @@ So I gave it a one sentence prompt, and it one shot this in 15 minutes.
 Will add the prompt below, but this is genuinely mind blowing.
 
 This level of work
-```
-
-### Opus 5.5单提示词生成的视频
-
-[@kentcdodds](https://x.com/kentcdodds/status/2103638102333858193) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103638102333858193/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103638102333858193?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-This video was made by opus 5.5 with a single prompt (posting below). Unbelievable.
 ```
 
 ### TypingMind 标志缓慢显现转场动画
@@ -1749,26 +1723,6 @@ Opus looks washed out next to it.
 3x cheaper. 2x faster. 1 day old.
 
 Is Opus still worth $14?
-```
-
-### 两款模型生成捣蛋角色场景对比
-
-[@0xPorterio](https://x.com/0xPorterio/status/2116108534051905642) · 0:29 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2116108534051905642/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116108534051905642?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-🚨 Gemini 4 Carbon is 3x cheaper than Opus 5.5. but is it better?
-
-same prompt: 9 tiny troublemakers, a dock full of tools, and one of them has to pop at the end.
-
-Gemini 4 Carbon - $4.10, 34 min
-Opus 5.5 - $12.80, 1h 12m
-
-Carbon looks SERIOUSLY good. brighter, shinier, more chaos.
-Opus feels more alive. the way they all stare at the one getting squashed got me
-
-watch till the end, the inside of the black one is where it gets interesting.
-
-is Opus still worth 3x the price?
 ```
 
 ### 多模型四冲程发动机剖切动画对比
