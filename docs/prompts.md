@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-79 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+80 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -11,7 +11,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Games](#game) (2)
 - [Product UI](#ui-demo) (11)
 - [Charts & diagrams](#data-viz) (1)
-- [Explainers](#explainer) (10)
+- [Explainers](#explainer) (11)
 - [Launch films](#launch-film) (4)
 - [Tests & comparisons](#comparison) (9)
 
@@ -1502,6 +1502,41 @@ Length: the voice decides, 55-65 s at about 190 words per minute.
    - Add a 2 px soft alpha band, and clamp G to max(R,B) + 6 inside it.
    - Split heads at the neck, drawing hands, and walkers' legs below the coat hem.
    - Refill each hole with inpainti…
+```
+
+### Kurzgesagt-style space explainer animation in code
+
+[@treyscalez](https://x.com/treyscalez/status/2119489762134295014) · 1:07 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2119489762134295014/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119489762134295014?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+HOLY SH*T
+
+i tried recreating kurzgesagt style animation and it's mindblowing
+
+the creator behind the channel spends 1200 hours with a full animation team
+
+this takes 20min with just claude opus 5.5 and am giving the prompt completely for free
+
+here's the prompt -> 
+
+<inputs>
+Ask me for: one topic as a "what if" question (default: "What if the Sun vanished?"), the length (default 30 seconds), and whether I have an ElevenLabs key (if not, use a free local voice).
+</inputs>
+
+<direction>
+A Kurzgesagt-style animated explainer at 1920x1080, 30fps, drawn entirely in code: one 2D canvas plus one WebGL canvas for planets.
+Space: a vertical gradient #081d2c to #102348, five huge parallax nebula blobs (teal rgb 24,150,160 at 20%, blue 40,95,195 at 16%, coral 220,95,110 at 10%, indigo 60,70,175 at 15%), three star layers at parallax depths .12/.35/.6 that twinkle, 40% of the near stars drawn as 4-point sparkles.
+The Sun: radius 300px, half off the left edge. A radial gradient #fff7dc to #ffc857 to #ff8f4a with an offset highlight, additive halo rings at 1.23/1.48/1.76/2.1x the radius, 18 faint rotating ray wedges, 28 drifting glowing granules on its surface.
+Earth: an orthographic sphere in a fragment shader, 4x supersampled, from a 2048x1024 map painted from longitude/latitude polygons: land #5fc47a, forest #48ad6b, desert #f5c75f, rainforest #3a9d62, ice #f1f8ff, ocean gradient #4dc7eb to #1a66b8, white capsule clouds. Tilt .26 rad, spin .55 degrees per second. Day/night uses smoothstep(-.12, .24, N·L) with the light direction recomputed from Sun to Earth every frame. Navy night side with ~380 warm city lights, a coral band on the terminator, a cyan rim, ocean specular, an atmosphere halo that is stronger on the lit side.
+A small astronaut mascot (~180px) built from rounded rectangles: suit #f3f7fb, orange #ff8f4a boots, a visor gradient #1f5a73 to #0a1c2c with glowing cyan eyes that look at whatever matters, a blinking antenna light, an idle bob, squash and stretch on every pose.
+Type: Fredoka 600/700 only. Captions in caps with 3-6px letter spacing in teal #8fd8e6, gold #ffd98a or white, sitting in rounded pills of rgb(6,20,40) at 62%. Every line of text rises 1.3x its own height through a clip on an ease-out-quint.
+Finish: a vignette to rgba(4,4,20,.45) and a 6% film grain re-randomized 24 times per second.
+Banned: outlines, flares or loops on the Sun's edge, static infographic strips, full stops in on-screen text, text that fades in whole, AI images or AI video, Kurzgesagt's own characters, bird or music.
+</direction>
+
+<structure>
+30 seconds, every line of narration gets a camera move or a transformation, nothing ever holds still.
+Tight on the Sun at 2.25x (0s) → on the word "vanished" it swells 6% for 0.22s, collapses in 0.33s, then a white flash and a shockwave ring (1s) → pull back to 1x revealing Earth still lit and the astronaut staring at the empty spot (1.6-3s) → on "eight" an 8:20 countdown slams in from 1.7x to 1x and starts ticking, a "LAST LIGHT" label rides the edge of the growing dark disc (3.2s) → dive to 2.3x on Earth with light streaks flowing in (5.6s) → on "you" a YOU pin drops (7s) → on "left" a photon lands on the pin with "THIS LIGHT LEFT THE SUN / 8 MIN 20 SEC AGO" (7.5s) → on "play" the pin morphs into a play button, "YOU PRESSED PLAY / 15 SEC AGO" (8.8s) → one pull-back from 2.4x to a 0.3x orbit view, "LAST LIGHT" and "GRAVITY" riding the ring (9.6-12.5s) → on "nothing" a dotted circle at the empty centre (13.4s) → on "hits" the darkness sweeps Earth in 0.7s, city lights pop on, the countdown turns gold at 0:00 (15.8s) → on "black" the background fades almost to black (17.4s) → Jupiter appears, "STILL SHINING FOR 1 HOUR+" (17.9s) → zoom out, a dashed tangent line, "30 KM/S" as Earth flies straight off (20.8s) → a thermometer counts 15 to -70°C while frost grows from the poles (22.8s) → a 0.8s rewind on a separate story clock (24.3s) → sunglasses drop onto the astronaut (25.2s) → a photon tagged "8:20 OLD", t…
 ```
 
 <a id="launch-film"></a>
