@@ -2,18 +2,18 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 80 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 82 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (15)
-- [动效](#motion-graphics) (27)
+- [动效](#motion-graphics) (28)
 - [游戏](#game) (2)
 - [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
-- [讲解](#explainer) (11)
-- [发布片](#launch-film) (4)
-- [测试对比](#comparison) (9)
+- [讲解](#explainer) (12)
+- [发布片](#launch-film) (5)
+- [测试对比](#comparison) (8)
 
 <a id="3d-scene"></a>
 
@@ -864,6 +864,22 @@ Save this and paste any line into your Opus 5.5
 Then read the full motion design guide below ↓
 ```
 
+### Claude Opus制作的动效视频集合
+
+[@tivollem](https://x.com/tivollem/status/2119327911521984639) · 0:32 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2119327911521984639/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119327911521984639?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Avec ce repo GitHub gratuit t'as plus besoin de payer un motion designer 🥵
+
+475 vidéos faites avec Claude Opus 5.5 : des animations, des vidéos explicatives, de la 3D et même des jeux
+
+Et chaque démo a son prompt d'origine donc tu prends celle que tu veux et tu la refais pour ton produit 🤖
+
+Une vidéo comme ça une agence te la facture plusieurs centaines d'euros, là tu la sors en quelques minutes et tu la postes tous les jours pour vendre ton app ou ton shop 💰
+
+Je te mets le lien en réponse 👇
+```
+
 <a id="game"></a>
 
 ## 游戏
@@ -1458,50 +1474,25 @@ still learning but it's the best thing i've made with claude
 want a full breakdown? comment "beethoven"
 ```
 
-### 使用Opus提示词制作矢量科普动画
+### Three.js 交互式手摇削铅笔机 3D 模型
 
-[@treyscalez](https://x.com/treyscalez/status/2117602113509294520) · 1:02 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2117602113509294520/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117602113509294520?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+[@Nyxera0x](https://x.com/Nyxera0x/status/2119386456607031460) · 0:24 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2119386456607031460/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119386456607031460?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
 
 ```text
-HOLY F*CK
+Love this! This is how I wish someone had explained physics to me.
 
-i just tried the infographicshow opus 5.5 prompt & the results are mind blowing 
+I always wondered how a crank sharpener gets such a sharp point, so I asked Claude Opus 5.5 to build me one I could take apart.
 
-u can also try it yourself for completely free ↯
+How it works:
 
-<inputs>
-Ask me for my topic (a what-if, a "why does X happen", a true story, or how something works), or pitch 3 with one shocking true angle each. Ask which image model I have (GPT Image 2, or another that takes reference images at 4K) and which voice service (ElevenLabs, or Kokoro for free). Then write a 55-65 s script and a shot plan, and show me both before you spend anything.
-</inputs>
+> It built the whole sharpener from one picture. Every gear, cutter and spring is three.js code.
+> Turn the crank and both cutters circle the pencil while a fixed 36-tooth ring spins each one.
+> 15 helical edges per cutter: 12 turns, 1,080 cuts, a 22° point, then the crank goes light.
+> Pull the drawer and the cedar curls are sitting in clear acrylic.
 
-<direction>
-A 1920x1080 flat vector explainer in the style of the big infographic animation channels. Every scene is a full illustrated place (a lab, a street, a classroom, a stage) with characters acting the line out.
-Flat colour shapes, no outlines, one slightly darker flat shade for form, a muted palette (dusty blue-grey, slate teal, warm beige, navy, soft purple), salmon-pink skin, big heads, dot eyes.
-A new scene every 2-4 s and a hard cut on every sentence that changes the idea. A white splat wipe (0.2 s in, 0.2 s out) between big sections. The camera always drifts 2-4% or pans.
-Text lives only on things in the world: signs on posts, hanging boards, chalkboards, building panels and screens.
-- It is typed in Montserrat 800 at 26-34 letters a second. Each letter arrives 1.45x big and 0.7 em to the right, then settles in 0.18 s.
-- Ink is #2b2d42 on white boards.
-- A red X (#d62828, 30 px round strokes, two strokes of 0.11 s each) goes over every wrong idea.
-- Every date gets a white 330x120 card top left with an orange #f4a261 calendar.
-- Headlines are white 92-96 px caps on a flat colour (#e2552f with drifting lighter puffs, or #5b3fa6 with slowly turning #6a4cb6 gears).
-Banned: outlines, motion-design UI floating over the art (code editors, glass cards, checklists), emoji, burned-in subtitles, any channel's logo, a still frame longer than 1 s, and a character who doesn't move.
-</direction>
+I packed the whole process into a Claude skill, so you can build your own from any picture.
 
-<structure>
-Length: the voice decides, 55-65 s at about 190 words per minute.
-0 s a second-person hook that flips what the viewer assumes, acted out literally, then a red X on the denial line → 3-8 s the stakes in one shocking true line, with icons popping in one per word → 8-11 s the subject revealed under a spotlight, its name typed on a sign → 11-18 s the origin: the real place with its name typed on its own sign, a date card, people walking in or out of it → 18-24 s the types or parts, landing one by one on their names, each labelled → 24-25.5 s "so how does it work?" as a headline with question marks popping → 25.5-36 s the mechanism acted out in 2-3 places (a chalkboard, a machine, a map), with a counter rolling up to the big number → 36-46 s what it leads to, with characters who react (jump, turn, a "!" pops) → 46-55 s the twist that ties back to the hook → 55 s the last line is a question to the viewer, the viewer character from the hook reacts, and the sign holds to the end.
-</structure>
-
-<build>
-1. Tools: Python, Playwright with Chromium, FFmpeg, faster-whisper, OpenCV, Pillow, librosa. Install what's missing and tell me what you installed.
-2. Art: everything at 3840x2160, with 3-5 frames of the reference channel as style references (crop their logo off first).
-   - One EMPTY plate per scene: no people, straight-on, open floor, blank signs and screens to write on in code.
-   - Character sheets on solid chroma green #00B140, with nothing green on anyone.
-   - Draw any character who gestures a lot WITHOUT ARMS, only round shoulder sockets, so code draws the arms. Draw everyone else in the exact pose their scene needs: side view at a desk, side view walking, seen from behind, sitting.
-3. Cutouts:
-   - The background is every pixel with G - max(R,B) over 40, within 110 of the median green, connected to the border.
-   - Add a 2 px soft alpha band, and clamp G to max(R,B) + 6 inside it.
-   - Split heads at the neck, drawing hands, and walkers' legs below the coat hem.
-   - Refill each hole with inpainti…
+Free skill and every prompt in the article below👇
 ```
 
 ### 代码生成的Kurzgesagt风格太空科普动画
@@ -1537,6 +1528,44 @@ Banned: outlines, flares or loops on the Sun's edge, static infographic strips, 
 <structure>
 30 seconds, every line of narration gets a camera move or a transformation, nothing ever holds still.
 Tight on the Sun at 2.25x (0s) → on the word "vanished" it swells 6% for 0.22s, collapses in 0.33s, then a white flash and a shockwave ring (1s) → pull back to 1x revealing Earth still lit and the astronaut staring at the empty spot (1.6-3s) → on "eight" an 8:20 countdown slams in from 1.7x to 1x and starts ticking, a "LAST LIGHT" label rides the edge of the growing dark disc (3.2s) → dive to 2.3x on Earth with light streaks flowing in (5.6s) → on "you" a YOU pin drops (7s) → on "left" a photon lands on the pin with "THIS LIGHT LEFT THE SUN / 8 MIN 20 SEC AGO" (7.5s) → on "play" the pin morphs into a play button, "YOU PRESSED PLAY / 15 SEC AGO" (8.8s) → one pull-back from 2.4x to a 0.3x orbit view, "LAST LIGHT" and "GRAVITY" riding the ring (9.6-12.5s) → on "nothing" a dotted circle at the empty centre (13.4s) → on "hits" the darkness sweeps Earth in 0.7s, city lights pop on, the countdown turns gold at 0:00 (15.8s) → on "black" the background fades almost to black (17.4s) → Jupiter appears, "STILL SHINING FOR 1 HOUR+" (17.9s) → zoom out, a dashed tangent line, "30 KM/S" as Earth flies straight off (20.8s) → a thermometer counts 15 to -70°C while frost grows from the poles (22.8s) → a 0.8s rewind on a separate story clock (24.3s) → sunglasses drop onto the astronaut (25.2s) → a photon tagged "8:20 OLD", t…
+```
+
+### 儿童英语启蒙动画生成技能演示
+
+[@linxiaobei888](https://x.com/linxiaobei888/status/2120050837347258451) · 2:19 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2120050837347258451/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2120050837347258451?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+儿童英语启蒙视频 skill 来啦！
+
+实测 Claude Opus 5.5 和 Fable 5.2 都很棒，差别不是很大
+
+非常适合用来给孩子做英语启蒙动画短片
+
+成片是横屏 1920×1080，一集两三分钟，一个句型反复问答、单词卡、领念跟念、留空拍让孩子开口答
+
+支持五种画风：flat 扁平矢量、crayon 蜡笔手绘、paper 剪纸拼贴、clay 3D 黏土、watercolor 水彩绘本
+
+每种画风都带 4 个角色的基础帧（闭嘴、半张、大张嘴、挥手、大笑、欢呼）和设定稿，扁平风另有前两集的吃、跳、跑等动作帧
+
+配乐五选一：ukulele 尤克里里、musicbox 音乐盒、march 玩具进行曲、chiptune 8-bit、none 不要
+
+用到的工具：
+
+- 角色和物品图：Codex 生图 （需要你本地登录codex）
+- 配音：Fish Audio 公共音色（s2.1-pro-free 免费的），每条按音色和文字缓存
+- 画面：Canvas 代码逐帧渲染，Playwright 无头浏览器分段并行出帧
+- 音效和伴奏：Python 代码合成
+- 混音：FFmpeg，响度 -16 LUFS
+
+怎么用：
+
+运行下面命令或者把GitHub地址给你的Agent
+
+npx skills add https://t.co/nEcLBqeEB0
+
+然后输入：做一集 Can you jump? 蜡笔风，玩具进行曲
+
+后续会继续增加玩法和风格，欢迎给个Star:
 ```
 
 <a id="launch-film"></a>
@@ -1662,6 +1691,16 @@ Beats 21-32, outro: the black button expands into the page, staying pill-shaped 
 5. Sound: use a downloaded Mixkit SFX for each event - typing, send pop, each toss, drop impact, card s…
 ```
 
+### Blender 工作流制作的应用发布视频
+
+[@rileybrown](https://x.com/rileybrown/status/2119651130963537996) · 0:37 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2119651130963537996/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119651130963537996?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+One shot with Opus 5.5 with my new blender video editing workflow done in less than 10min. 
+
+"Create a launch video for an app just like screen studio but showing a desktop app and iOS app"
+```
+
 <a id="comparison"></a>
 
 ## 测试对比
@@ -1691,20 +1730,6 @@ We gave Opus 5.5 the same prompt twice:
 > Right: Opus 5.5 in Motion.
 
 Here’s what each one made 👇
-```
-
-### 多模型在Three.js中重现索尼克对比
-
-[@luckeyfaraday](https://x.com/luckeyfaraday/status/2107877177303699584) · 0:24 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2107877177303699584/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107877177303699584?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 vs. GPT-6 Astra vs. Sonnet 5.5 vs. GPT-6.1 Sol.
-
-I gave all four the same one-line prompt: recreate Sonic in Three.js.
-
-No reference image. No follow-ups. Just one prompt.
-
-Who wins?
 ```
 
 ### Opus与DeepSeek电机动画效果对比
@@ -1760,30 +1785,6 @@ Opus looks washed out next to it.
 Is Opus still worth $14?
 ```
 
-### 多模型四冲程发动机剖切动画对比
-
-[@EnvolDev](https://x.com/EnvolDev/status/2116189885723734309) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2116189885723734309/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116189885723734309?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-DeepSeek V4.1 Flash 1017 just embarrassed everyone. 🤯
-Same prompt: a working four-stroke engine cutaway.
-
-DeepSeek V4.1 Flash 1017: $0.36 · 1h 54m 16s 
-Claude Opus 5.5: $21.81 · 2h 00m 13s 
-GPT-6.1 Terra: $0.43 · 9m 09s 
-GPT-6 Astra: $7.33 · 54m 33s
-
-Opus got it right. No surprise there.
-
-But DeepSeek? As good as Claude, maybe the most beautiful one of the four… for 36 cents.
-
-That's 60x cheaper than Opus. This is nuts.
-
-Yes, Terra is fast. But costing more than DeepSeek? That's a joke. 😂
-
-Which one wins for you? 👇
-```
-
 ### Gemini与Claude果冻屏保效果对比
 
 [@0xRhinoX](https://x.com/0xRhinoX/status/2117682945116774562) · 0:25 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2117682945116774562/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117682945116774562?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -1806,4 +1807,26 @@ Claude Opus 5.5 said the DVD logo is trademarked and made the Claude logo instea
 I compared Opus 3's writing to Opus 5.5's writing based on the prompt "Write a sarcastic eulogy for OpenAI, in under 400 characters."
 
 It's not even close.
+```
+
+### 冰之大教堂生成效果对比
+
+[@EnvolDev](https://x.com/EnvolDev/status/2119907318729245180) · 0:25 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2119907318729245180/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119907318729245180?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Claude Fable 5.2 vs Claude Opus 5.5 🧊
+
+The first Fable 5.2 result is here. And it's totally insane. 🤯
+
+Same prompt. Cathedral of Ice.
+Fable 5.2: $81.10 · 1h 56m 52s
+Opus 5.5: $45.97 · 3h 11m 26s
+
+I know I say it every time, but this is a huge leap. A huge jump. 😱
+
+Fable cost more, but it finished 1h 15m faster. And just look at the ice, the ship, the whale. 👀
+
+The future looks bright and amazing. 🔥
+
+What do you guys think?
 ```
