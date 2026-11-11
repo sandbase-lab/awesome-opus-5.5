@@ -4459,24 +4459,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111875629473743224"
  },
  {
-  "id": "2111880621954081240",
-  "title": "Drafting and raising an apartment into 3D",
-  "title_zh": "从网格绘制并升起 3D 公寓模型",
-  "category": "3d-scene",
-  "author": {
-   "handle": "Solvaix",
-   "name": "Solvaix"
-  },
-  "postUrl": "https://x.com/Solvaix/status/2111880621954081240",
-  "createdAt": "2026-10-18T18:02:31.000Z",
-  "durationMs": 73282,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111880621954081240/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111880621954081240/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111880621954081240"
- },
- {
   "id": "2111892085444092101",
   "title": "A cozy fishing game built with Unity",
   "title_zh": "使用Unity构建的惬意钓鱼游戏",
@@ -7280,5 +7262,23 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2120087191887970536/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2120087191887970536"
+ },
+ {
+  "id": "2120429993755099515",
+  "title": "An AI music video created with multiple tools",
+  "title_zh": "结合多种AI工具制作的音乐视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "jasondainter",
+   "name": "Jason Dainter"
+  },
+  "postUrl": "https://x.com/jasondainter/status/2120429993755099515",
+  "createdAt": "2026-11-11T08:14:40.000Z",
+  "durationMs": 216617,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2120429993755099515/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": null,
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2120429993755099515"
  }
 ]
