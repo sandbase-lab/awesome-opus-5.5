@@ -17,5 +17,7 @@ jobs:
         run: |
           python3 scripts/build_readme.py
           git diff --exit-code -- README.md README.zh-CN.md docs/prompts.md docs/zh-CN/prompts.md
+      - name: Test public media references
+        run: python3 -m unittest discover -s tests
       - name: Validate
         run: python3 scripts/validate.py
