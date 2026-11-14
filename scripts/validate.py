@@ -4,6 +4,8 @@ import json
 import re
 from pathlib import Path
 
+from lab_media import is_lab_media
+
 from config import CFG
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -25,10 +27,10 @@ for v in videos:
     check(v['labUrl'] == f'{CFG["lab_collection"]}/{vid}', f'{vid}: bad labUrl')
     check(v['title'] and v['title_zh'], f'{vid}: missing title')
     check((ROOT / 'previews' / f'{vid}.webp').exists(), f'{vid}: missing animated preview')
-    check(v['mp4'].startswith(CFG['media_prefix']), f'{vid}: video must be served by Lab')
+    check(is_lab_media(v['mp4'], 'video'), f'{vid}: video must be served by Lab')
     check('likes' not in v and 'views' not in v, f'{vid}: volatile counters must not be stored')
     if v['poster']:
-        check(v['poster'].startswith(CFG['media_prefix']), f'{vid}: poster must come from Lab R2')
+        check(is_lab_media(v['poster'], 'poster'), f'{vid}: poster must come from Lab R2')
 
 featured = sum(v['featured'] is not None for v in videos)
 check({p.stem for p in (ROOT / 'previews').glob('*.webp')} == {v['id'] for v in videos}, 'stale previews')
