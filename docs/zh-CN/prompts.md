@@ -7,13 +7,13 @@
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (15)
-- [动效](#motion-graphics) (28)
+- [动效](#motion-graphics) (27)
 - [游戏](#game) (2)
 - [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (12)
 - [发布片](#launch-film) (5)
-- [测试对比](#comparison) (8)
+- [测试对比](#comparison) (9)
 
 <a id="3d-scene"></a>
 
@@ -400,16 +400,6 @@ So I gave it a one sentence prompt, and it one shot this in 15 minutes.
 Will add the prompt below, but this is genuinely mind blowing.
 
 This level of work
-```
-
-### TypingMind 标志缓慢显现转场动画
-
-[@tdinh_me](https://x.com/tdinh_me/status/2103704250329301409) · 0:21 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2103704250329301409/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103704250329301409?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Use this prompt and attach your product logo to Opus 5.5 😉
-
-"Create an impressive motion design video of a slow-reveal transition that assembles and eventually reveals the TypingMind logo."
 ```
 
 ### 全代码实时生成的音画交互实验
@@ -1829,4 +1819,21 @@ Fable cost more, but it finished 1h 15m faster. And just look at the ice, the sh
 The future looks bright and amazing. 🔥
 
 What do you guys think?
+```
+
+### Gemini 4 Hydrogen 与 Opus 5.5 的 SVG 生成对比
+
+[@marcthecreatorr](https://x.com/marcthecreatorr/status/2120956699951628637) · 0:28 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120956699951628637/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2120956699951628637?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Gemini 4 Hydrogen vs Opus 5.5 (Tandem Ride SVG)
+
+same prompt: create an SVG of a girl and her cat on joined bikes, golden hour, ghibli style
+
+• opus 5.5 in claude code:  ~1 hr, ~$18 api cost
+• gemini 4 hydrogen in cursor: ~15 mins, ~$0.9 api cost
+
+opus took its time with the detailing (night mode, music) while hydrogen got the whole scene done faster for less than a dollar. 
+
+which model did it better?
 ```

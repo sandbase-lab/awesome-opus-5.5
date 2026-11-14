@@ -7,13 +7,13 @@ English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../R
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (15)
-- [Motion graphics](#motion-graphics) (28)
+- [Motion graphics](#motion-graphics) (27)
 - [Games](#game) (2)
 - [Product UI](#ui-demo) (11)
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (12)
 - [Launch films](#launch-film) (5)
-- [Tests & comparisons](#comparison) (8)
+- [Tests & comparisons](#comparison) (9)
 
 <a id="3d-scene"></a>
 
@@ -400,16 +400,6 @@ So I gave it a one sentence prompt, and it one shot this in 15 minutes.
 Will add the prompt below, but this is genuinely mind blowing.
 
 This level of work
-```
-
-### Slow reveal transition of the TypingMind logo
-
-[@tdinh_me](https://x.com/tdinh_me/status/2103704250329301409) · 0:21 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2103704250329301409/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103704250329301409?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Use this prompt and attach your product logo to Opus 5.5 😉
-
-"Create an impressive motion design video of a slow-reveal transition that assembles and eventually reveals the TypingMind logo."
 ```
 
 ### Live code-generated audio visual experiment
@@ -1829,4 +1819,21 @@ Fable cost more, but it finished 1h 15m faster. And just look at the ice, the sh
 The future looks bright and amazing. 🔥
 
 What do you guys think?
+```
+
+### Gemini 4 Hydrogen vs Opus 5.5 SVG
+
+[@marcthecreatorr](https://x.com/marcthecreatorr/status/2120956699951628637) · 0:28 · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120956699951628637/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2120956699951628637?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Gemini 4 Hydrogen vs Opus 5.5 (Tandem Ride SVG)
+
+same prompt: create an SVG of a girl and her cat on joined bikes, golden hour, ghibli style
+
+• opus 5.5 in claude code:  ~1 hr, ~$18 api cost
+• gemini 4 hydrogen in cursor: ~15 mins, ~$0.9 api cost
+
+opus took its time with the detailing (night mode, music) while hydrogen got the whole scene done faster for less than a dollar. 
+
+which model did it better?
 ```
