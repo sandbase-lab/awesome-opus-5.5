@@ -2,13 +2,13 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 82 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 83 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (14)
 - [动效](#motion-graphics) (27)
-- [游戏](#game) (2)
+- [游戏](#game) (3)
 - [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (12)
@@ -884,6 +884,20 @@ I made a full original game in 24 hours using AI
 Stack: Opus 5.5 + Flux 3 Max + GPT Image + Tripo + Blender + Three.js  
 
 Anyone can make games now. Full workflow thread and prompt below:  (1/7)
+```
+
+### 用Three.js制作的类魂网页游戏
+
+[@MengTo](https://x.com/MengTo/status/2121896633848017145) · 1:39 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2121896633848017145/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121896633848017145?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+I made a Dark Souls inspired game in 3 days with Three.js and Claude Fable 5.2.
+
+Runs in the browser with full lighting, effects and sound. No build step.
+
+Stack: Fable 5.2 + Opus 5.5 in Claude Code, Seedream 5.0 Pro, Tripo 3D
+
+Full workflow and prompts below (1/10)
 ```
 
 <a id="ui-demo"></a>

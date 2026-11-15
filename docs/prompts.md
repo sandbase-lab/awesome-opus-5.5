@@ -2,13 +2,13 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-82 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+83 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (14)
 - [Motion graphics](#motion-graphics) (27)
-- [Games](#game) (2)
+- [Games](#game) (3)
 - [Product UI](#ui-demo) (11)
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (12)
@@ -884,6 +884,20 @@ I made a full original game in 24 hours using AI
 Stack: Opus 5.5 + Flux 3 Max + GPT Image + Tripo + Blender + Three.js  
 
 Anyone can make games now. Full workflow thread and prompt below:  (1/7)
+```
+
+### Dark Souls inspired game built in Three.js
+
+[@MengTo](https://x.com/MengTo/status/2121896633848017145) · 1:39 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2121896633848017145/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121896633848017145?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+I made a Dark Souls inspired game in 3 days with Three.js and Claude Fable 5.2.
+
+Runs in the browser with full lighting, effects and sound. No build step.
+
+Stack: Fable 5.2 + Opus 5.5 in Claude Code, Seedream 5.0 Pro, Tripo 3D
+
+Full workflow and prompts below (1/10)
 ```
 
 <a id="ui-demo"></a>

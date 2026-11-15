@@ -5932,24 +5932,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116341413755453670"
  },
  {
-  "id": "2116404959277433240",
-  "title": "Gameplay Trailer Built with Three.js and Opus",
-  "title_zh": "使用Three.js与Opus制作的游戏预告片",
-  "category": "game",
-  "author": {
-   "handle": "MengTo",
-   "name": "Meng To"
-  },
-  "postUrl": "https://x.com/MengTo/status/2116404959277433240",
-  "createdAt": "2026-10-31T05:40:37.000Z",
-  "durationMs": 60000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116404959277433240/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116404959277433240/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116404959277433240"
- },
- {
   "id": "2116503955119255977",
   "title": "Tiny oil rig in a storm with Godzilla",
   "title_zh": "暴风雨中的微型石油钻井与哥斯拉",
@@ -6626,24 +6608,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2118990234482511939"
  },
  {
-  "id": "2119024722516029898",
-  "title": "Recreating 3D animation in Blender",
-  "title_zh": "使用Blender复刻3D动画",
-  "category": "3d-scene",
-  "author": {
-   "handle": "maxt3chno",
-   "name": "Max"
-  },
-  "postUrl": "https://x.com/maxt3chno/status/2119024722516029898",
-  "createdAt": "2026-11-07T11:10:38.000Z",
-  "durationMs": 15743,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2119024722516029898/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2119024722516029898/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119024722516029898"
- },
- {
   "id": "2119038154053480543",
   "title": "AI models competing in a sailing game",
   "title_zh": "多款AI模型帆船游戏对决测试",
@@ -7280,5 +7244,42 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121646685319221546/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121646685319221546"
+ },
+ {
+  "id": "2121714155757441227",
+  "title": "Three.js vs Blender 3D scene comparison",
+  "title_zh": "Three.js 与 Blender 3D 场景渲染对比",
+  "category": "comparison",
+  "author": {
+   "handle": "maxt3chno",
+   "name": "Max"
+  },
+  "postUrl": "https://x.com/maxt3chno/status/2121714155757441227",
+  "createdAt": "2026-11-14T21:17:28.000Z",
+  "durationMs": 52166,
+  "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-2/2121714155757441227/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/fable-5-2/2121714155757441227/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121714155757441227"
+ },
+ {
+  "id": "2121896633848017145",
+  "title": "Dark Souls inspired game built in Three.js",
+  "title_zh": "用Three.js制作的类魂网页游戏",
+  "category": "game",
+  "author": {
+   "handle": "MengTo",
+   "name": "Meng To"
+  },
+  "postUrl": "https://x.com/MengTo/status/2121896633848017145",
+  "createdAt": "2026-11-15T09:22:35.000Z",
+  "durationMs": 99118,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121896633848017145/video.mp4",
+  "promptShared": true,
+  "promptText": "I made a Dark Souls inspired game in 3 days with Three.js and Claude Fable 5.2.\n\nRuns in the browser with full lighting, effects and sound. No build step.\n\nStack: Fable 5.2 + Opus 5.5 in Claude Code, Seedream 5.0 Pro, Tripo 3D\n\nFull workflow and prompts below (1/10)",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121896633848017145/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121896633848017145"
  }
 ]
