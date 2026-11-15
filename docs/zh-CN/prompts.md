@@ -6,14 +6,14 @@
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (15)
+- [3D 场景](#3d-scene) (14)
 - [动效](#motion-graphics) (27)
 - [游戏](#game) (2)
 - [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (12)
 - [发布片](#launch-film) (5)
-- [测试对比](#comparison) (9)
+- [测试对比](#comparison) (10)
 
 <a id="3d-scene"></a>
 
@@ -108,20 +108,6 @@ Opus 在后台一顿敲，海上小火车就这么水灵灵造出来，场景音
 基于 Sac 的提示词解构了一份通用 meta prompt，然后用 NB 2.1 生成参考图丢给 Opus 5.5 High。
 
 额外提示如下，给模型的自由度较高：
-```
-
-### 滚动展开地面的三维场景
-
-[@viktoroddy](https://x.com/viktoroddy/status/2109984169845821651) · 0:22 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2109984169845821651/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109984169845821651?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 is not a coding model anymore.
-
-It’s a 3D artist, a motion designer and a creative dev in one prompt.
-
-Scroll and the ground opens up. 🌿
-
-Want the prompt?
 ```
 
 ### 电影质感3D动画冒险短片
@@ -1836,4 +1822,16 @@ same prompt: create an SVG of a girl and her cat on joined bikes, golden hour, g
 opus took its time with the detailing (night mode, music) while hydrogen got the whole scene done faster for less than a dollar. 
 
 which model did it better?
+```
+
+### Fable 5.2 与 Opus 5.5 果冻橙瓣对比
+
+[@vib3coded](https://x.com/vib3coded/status/2121646685319221546) · 0:17 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2121646685319221546/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121646685319221546?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+The more expensive model should do better. Right? 👀
+
+Fable 5.2 vs Opus 5.5. Same prompt: make a jelly orange slice
+
+If you hid the names and prices, which result would you pick?
 ```

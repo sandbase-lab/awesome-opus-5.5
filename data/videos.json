@@ -2550,24 +2550,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107073547701289211"
  },
  {
-  "id": "2107080145165037869",
-  "title": "Playable 3D world built with Blender and Unity",
-  "title_zh": "Blender与Unity构建的3D游戏世界演示",
-  "category": "game",
-  "author": {
-   "handle": "hakimieiqbal",
-   "name": "Hakimi Eiqbal"
-  },
-  "postUrl": "https://x.com/hakimieiqbal/status/2107080145165037869",
-  "createdAt": "2026-10-05T12:07:08.000Z",
-  "durationMs": 52766,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107080145165037869/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107080145165037869/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107080145165037869"
- },
- {
   "id": "2107139305324122491",
   "title": "Self-directed motion video by Claude Opus 5.5",
   "title_zh": "Claude自主生成的动态展示视频",
@@ -3622,25 +3604,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109952769171800391"
  },
  {
-  "id": "2109984169845821651",
-  "title": "Opening Ground Interactive 3D Scene",
-  "title_zh": "滚动展开地面的三维场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "viktoroddy",
-   "name": "Viktor Oddy"
-  },
-  "postUrl": "https://x.com/viktoroddy/status/2109984169845821651",
-  "createdAt": "2026-10-13T12:26:42.000Z",
-  "durationMs": 22433,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109984169845821651/video.mp4",
-  "promptShared": true,
-  "promptText": "Opus 5.5 is not a coding model anymore.\n\nIt’s a 3D artist, a motion designer and a creative dev in one prompt.\n\nScroll and the ground opens up. 🌿\n\nWant the prompt?",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109984169845821651/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109984169845821651"
- },
- {
   "id": "2109993586951663626",
   "title": "Cinematic 3D animated adventure video",
   "title_zh": "电影质感3D动画冒险短片",
@@ -3822,24 +3785,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110234900616126769/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110234900616126769"
- },
- {
-  "id": "2110275826658967896",
-  "title": "Interactive 3D city in Three.js",
-  "title_zh": "Three.js制作的可交互3D城市",
-  "category": "3d-scene",
-  "author": {
-   "handle": "jiangjiangling",
-   "name": "Rainy"
-  },
-  "postUrl": "https://x.com/jiangjiangling/status/2110275826658967896",
-  "createdAt": "2026-10-14T07:45:38.000Z",
-  "durationMs": 55727,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110275826658967896/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2110275826658967896/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2110275826658967896"
  },
  {
   "id": "2110352122575274388",
@@ -5749,24 +5694,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115818348772553107"
  },
  {
-  "id": "2115862732637458763",
-  "title": "Realistic water shader in Three.js",
-  "title_zh": "Three.js打造的高逼真水体着色器",
-  "category": "3d-scene",
-  "author": {
-   "handle": "maxt3chno",
-   "name": "Max"
-  },
-  "postUrl": "https://x.com/maxt3chno/status/2115862732637458763",
-  "createdAt": "2026-10-29T17:46:00.000Z",
-  "durationMs": 92100,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115862732637458763/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2115862732637458763/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2115862732637458763"
- },
- {
   "id": "2115870373300326503",
   "title": "System cleaner app interface with shader background",
   "title_zh": "带着色器背景的系统清理应用界面",
@@ -6294,24 +6221,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117240315069276186/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117240315069276186"
- },
- {
-  "id": "2117301700369543553",
-  "title": "Interactive fisherman scene in Three.js",
-  "title_zh": "Three.js制作的互动钓鱼人场景",
-  "category": "3d-scene",
-  "author": {
-   "handle": "Guronnimo",
-   "name": "Jeroen van Welsenes"
-  },
-  "postUrl": "https://x.com/Guronnimo/status/2117301700369543553",
-  "createdAt": "2026-11-02T17:03:57.000Z",
-  "durationMs": 34000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117301700369543553/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117301700369543553/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117301700369543553"
  },
  {
   "id": "2117313324576821613",
@@ -7280,5 +7189,96 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120956699951628637/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2120956699951628637"
+ },
+ {
+  "id": "2121242111538536900",
+  "title": "Unity farming game built with Claude Opus 5.5",
+  "title_zh": "使用 Claude Opus 5.5 构建的 Unity 农场游戏",
+  "category": "game",
+  "author": {
+   "handle": "hakimieiqbal",
+   "name": "Hakimi Eiqbal"
+  },
+  "postUrl": "https://x.com/hakimieiqbal/status/2121242111538536900",
+  "createdAt": "2026-11-13T14:01:44.000Z",
+  "durationMs": 76900,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121242111538536900/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121242111538536900/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121242111538536900"
+ },
+ {
+  "id": "2121296570872107145",
+  "title": "Three.js yacht simulator with physics and water",
+  "title_zh": "Three.js游艇模拟器物理与水面效果",
+  "category": "3d-scene",
+  "author": {
+   "handle": "maxt3chno",
+   "name": "Max"
+  },
+  "postUrl": "https://x.com/maxt3chno/status/2121296570872107145",
+  "createdAt": "2026-11-13T17:38:08.000Z",
+  "durationMs": 95921,
+  "mp4": "https://www.sandbase.ai/lab/media/x/fable-5-2/2121296570872107145/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/fable-5-2/2121296570872107145/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121296570872107145"
+ },
+ {
+  "id": "2121549362530562403",
+  "title": "Real-time smart glasses object recognition demo",
+  "title_zh": "智能眼镜实时物体识别演示",
+  "category": "ui-demo",
+  "author": {
+   "handle": "cabbitar",
+   "name": "cabbit"
+  },
+  "postUrl": "https://x.com/cabbitar/status/2121549362530562403",
+  "createdAt": "2026-11-14T10:22:39.000Z",
+  "durationMs": 24000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121549362530562403/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121549362530562403/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121549362530562403"
+ },
+ {
+  "id": "2121635642836918385",
+  "title": "Runway fashion music video by Fable 5.2",
+  "title_zh": "Fable 5.2 制作的 T 台时尚音乐视频",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "AstrablueAI",
+   "name": "Astra Blue"
+  },
+  "postUrl": "https://x.com/AstrablueAI/status/2121635642836918385",
+  "createdAt": "2026-11-14T16:05:29.000Z",
+  "durationMs": 238300,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121635642836918385/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121635642836918385/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121635642836918385"
+ },
+ {
+  "id": "2121646685319221546",
+  "title": "Fable 5.2 vs Opus 5.5 jelly orange slice",
+  "title_zh": "Fable 5.2 与 Opus 5.5 果冻橙瓣对比",
+  "category": "comparison",
+  "author": {
+   "handle": "vib3coded",
+   "name": "Vib3Coded"
+  },
+  "postUrl": "https://x.com/vib3coded/status/2121646685319221546",
+  "createdAt": "2026-11-14T16:49:22.000Z",
+  "durationMs": 17000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121646685319221546/video.mp4",
+  "promptShared": true,
+  "promptText": "The more expensive model should do better. Right? 👀\n\nFable 5.2 vs Opus 5.5. Same prompt: make a jelly orange slice\n\nIf you hid the names and prices, which result would you pick?",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121646685319221546/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121646685319221546"
  }
 ]

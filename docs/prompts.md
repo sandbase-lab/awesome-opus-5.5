@@ -6,14 +6,14 @@ English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../R
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (15)
+- [3D scenes](#3d-scene) (14)
 - [Motion graphics](#motion-graphics) (27)
 - [Games](#game) (2)
 - [Product UI](#ui-demo) (11)
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (12)
 - [Launch films](#launch-film) (5)
-- [Tests & comparisons](#comparison) (9)
+- [Tests & comparisons](#comparison) (10)
 
 <a id="3d-scene"></a>
 
@@ -108,20 +108,6 @@ Opus 在后台一顿敲，海上小火车就这么水灵灵造出来，场景音
 基于 Sac 的提示词解构了一份通用 meta prompt，然后用 NB 2.1 生成参考图丢给 Opus 5.5 High。
 
 额外提示如下，给模型的自由度较高：
-```
-
-### Opening Ground Interactive 3D Scene
-
-[@viktoroddy](https://x.com/viktoroddy/status/2109984169845821651) · 0:22 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2109984169845821651/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109984169845821651?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5 is not a coding model anymore.
-
-It’s a 3D artist, a motion designer and a creative dev in one prompt.
-
-Scroll and the ground opens up. 🌿
-
-Want the prompt?
 ```
 
 ### Cinematic 3D animated adventure video
@@ -1836,4 +1822,16 @@ same prompt: create an SVG of a girl and her cat on joined bikes, golden hour, g
 opus took its time with the detailing (night mode, music) while hydrogen got the whole scene done faster for less than a dollar. 
 
 which model did it better?
+```
+
+### Fable 5.2 vs Opus 5.5 jelly orange slice
+
+[@vib3coded](https://x.com/vib3coded/status/2121646685319221546) · 0:17 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2121646685319221546/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121646685319221546?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+The more expensive model should do better. Right? 👀
+
+Fable 5.2 vs Opus 5.5. Same prompt: make a jelly orange slice
+
+If you hid the names and prices, which result would you pick?
 ```
