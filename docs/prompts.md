@@ -2,11 +2,11 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-83 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+84 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (14)
+- [3D scenes](#3d-scene) (15)
 - [Motion graphics](#motion-graphics) (27)
 - [Games](#game) (3)
 - [Product UI](#ui-demo) (11)
@@ -268,6 +268,19 @@ all u need is voiceover and claude to be able to make this, $0 spent on images o
   "files": "web/index.html (canvas#c 1080x1920 + module main.js), main.js (renderer, materials, world, cards, sprites, passes), story.js (SHOTS, LIGHTS, lightFor, camAt, dofAt, worldAt, actorsAt, fxAt: all pure functions of frame f), motion.js, paint.js (canvas textures), toon.js (character + creature drawing), https://t.co/MwT4jjcu22, https://t.co/3V5W7hv6gk, https://t.co/XLDraRXh1Z, https://t.co/vZbd2PyUGV (contact sheets).",
   "renderer": "WebGLRenderer antialias:false, preserveDrawingBuffer, PCFSoft shadows 2048, sun = DirectionalLight from az/el per light preset, shadow camera centred on each shot's action (ext 8-60m), HemisphereLight, Fog(colour = sky horizon). Camera Perspective, near .08 far 1500.",
   "materials": "MeshToonMaterial with a 2-texel gradientMap [90,255] Nearest = hard 2-step toon shading. Textures are CanvasTextures pai…
+```
+
+### Blender 3D scene generated with Claude Code
+
+[@AmirMushich](https://x.com/AmirMushich/status/2121982602122760352) · 0:10 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2121982602122760352/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121982602122760352?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Claude Opus 5.5 did (prompt)
+
+My input + 9 revisions in Claude Code using Blender
+Sound is still very weak (even in Fable) - so I'm cooking a plugin for Claude to make it sound better
+
+ Try this prompt with any [OBJECT] 👇
 ```
 
 <a id="motion-graphics"></a>

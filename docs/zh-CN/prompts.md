@@ -2,11 +2,11 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 83 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 84 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (14)
+- [3D 场景](#3d-scene) (15)
 - [动效](#motion-graphics) (27)
 - [游戏](#game) (3)
 - [产品界面](#ui-demo) (11)
@@ -268,6 +268,19 @@ all u need is voiceover and claude to be able to make this, $0 spent on images o
   "files": "web/index.html (canvas#c 1080x1920 + module main.js), main.js (renderer, materials, world, cards, sprites, passes), story.js (SHOTS, LIGHTS, lightFor, camAt, dofAt, worldAt, actorsAt, fxAt: all pure functions of frame f), motion.js, paint.js (canvas textures), toon.js (character + creature drawing), https://t.co/MwT4jjcu22, https://t.co/3V5W7hv6gk, https://t.co/XLDraRXh1Z, https://t.co/vZbd2PyUGV (contact sheets).",
   "renderer": "WebGLRenderer antialias:false, preserveDrawingBuffer, PCFSoft shadows 2048, sun = DirectionalLight from az/el per light preset, shadow camera centred on each shot's action (ext 8-60m), HemisphereLight, Fog(colour = sky horizon). Camera Perspective, near .08 far 1500.",
   "materials": "MeshToonMaterial with a 2-texel gradientMap [90,255] Nearest = hard 2-step toon shading. Textures are CanvasTextures pai…
+```
+
+### 使用Claude Code在Blender生成的3D场景
+
+[@AmirMushich](https://x.com/AmirMushich/status/2121982602122760352) · 0:10 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2121982602122760352/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121982602122760352?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Claude Opus 5.5 did (prompt)
+
+My input + 9 revisions in Claude Code using Blender
+Sound is still very weak (even in Fable) - so I'm cooking a plugin for Claude to make it sound better
+
+ Try this prompt with any [OBJECT] 👇
 ```
 
 <a id="motion-graphics"></a>

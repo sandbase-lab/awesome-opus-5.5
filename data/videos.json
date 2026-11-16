@@ -3280,24 +3280,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109257723246501895"
  },
  {
-  "id": "2109267022865732000",
-  "title": "Cozy hex tile island building game",
-  "title_zh": "六边形网格治愈系海岛建造游戏",
-  "category": "game",
-  "author": {
-   "handle": "hakimieiqbal",
-   "name": "Hakimi Eiqbal"
-  },
-  "postUrl": "https://x.com/hakimieiqbal/status/2109267022865732000",
-  "createdAt": "2026-10-11T12:57:01.000Z",
-  "durationMs": 200800,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109267022865732000/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2109267022865732000/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2109267022865732000"
- },
- {
   "id": "2109290983896818132",
   "title": "Fully coded animation generated on Claude Next",
   "title_zh": "基于 Claude Next 完全通过代码生成的动画",
@@ -5914,24 +5896,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116339908822319428"
  },
  {
-  "id": "2116341413755453670",
-  "title": "Automated 2.5D Animated Short Creation Pipeline",
-  "title_zh": "全自动 2.5D 动画短视频生成流程",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "Y0urDumble",
-   "name": "Dumble"
-  },
-  "postUrl": "https://x.com/Y0urDumble/status/2116341413755453670",
-  "createdAt": "2026-10-31T01:28:07.000Z",
-  "durationMs": 22500,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116341413755453670/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116341413755453670/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116341413755453670"
- },
- {
   "id": "2116503955119255977",
   "title": "Tiny oil rig in a storm with Godzilla",
   "title_zh": "暴风雨中的微型石油钻井与哥斯拉",
@@ -7281,5 +7245,42 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121896633848017145/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121896633848017145"
+ },
+ {
+  "id": "2121938110762103246",
+  "title": "Open-world flight simulator built in Rust",
+  "title_zh": "用Rust构建的开放世界飞行模拟器",
+  "category": "game",
+  "author": {
+   "handle": "hakimieiqbal",
+   "name": "Hakimi Eiqbal"
+  },
+  "postUrl": "https://x.com/hakimieiqbal/status/2121938110762103246",
+  "createdAt": "2026-11-15T12:07:23.000Z",
+  "durationMs": 74433,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121938110762103246/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121938110762103246/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121938110762103246"
+ },
+ {
+  "id": "2121982602122760352",
+  "title": "Blender 3D scene generated with Claude Code",
+  "title_zh": "使用Claude Code在Blender生成的3D场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "AmirMushich",
+   "name": "AmirMušić"
+  },
+  "postUrl": "https://x.com/AmirMushich/status/2121982602122760352",
+  "createdAt": "2026-11-15T15:04:11.000Z",
+  "durationMs": 9600,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121982602122760352/video.mp4",
+  "promptShared": true,
+  "promptText": "Claude Opus 5.5 did (prompt)\n\nMy input + 9 revisions in Claude Code using Blender\nSound is still very weak (even in Fable) - so I'm cooking a plugin for Claude to make it sound better\n\n Try this prompt with any [OBJECT] 👇",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121982602122760352/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121982602122760352"
  }
 ]
