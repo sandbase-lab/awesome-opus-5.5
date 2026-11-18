@@ -2,12 +2,12 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-84 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+83 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (15)
-- [Motion graphics](#motion-graphics) (27)
+- [Motion graphics](#motion-graphics) (26)
 - [Games](#game) (3)
 - [Product UI](#ui-demo) (11)
 - [Charts & diagrams](#data-viz) (1)
@@ -555,20 +555,6 @@ I asked Claude Opus 5.5 (Max) this prompt:
 It worked on its own for 1 hour 37 minutes and gave me this:
 
 → @claudeai
-```
-
-### Motion design story about Opus and Haiku
-
-[@kelanoo](https://x.com/kelanoo/status/2108199183983497433) · 0:20 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2108199183983497433/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108199183983497433?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-I used Opus 5.5 to make a motion design video about Haiku
-
-This is 100% motion graphics and code
-
-Short story about Opus delegating small tasks to Haiku
-
-Prompt in the comments
 ```
 
 ### Three coded animations from Claude models

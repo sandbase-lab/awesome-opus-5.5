@@ -2843,25 +2843,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108007410522890319"
  },
  {
-  "id": "2108199183983497433",
-  "title": "Motion design story about Opus and Haiku",
-  "title_zh": "关于Opus与Haiku的动态设计故事短片",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "kelanoo",
-   "name": "Baptiste (Kelano)"
-  },
-  "postUrl": "https://x.com/kelanoo/status/2108199183983497433",
-  "createdAt": "2026-10-08T14:13:48.000Z",
-  "durationMs": 20000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108199183983497433/video.mp4",
-  "promptShared": true,
-  "promptText": "I used Opus 5.5 to make a motion design video about Haiku\n\nThis is 100% motion graphics and code\n\nShort story about Opus delegating small tasks to Haiku\n\nPrompt in the comments",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2108199183983497433/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108199183983497433"
- },
- {
   "id": "2108203997480063196",
   "title": "Procedural endless city running in WebGPU",
   "title_zh": "WebGPU在浏览器中运行的程序化无尽城市",
@@ -7282,5 +7263,23 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121982602122760352/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121982602122760352"
+ },
+ {
+  "id": "2122072152686121146",
+  "title": "Comparison of four AI models on one prompt",
+  "title_zh": "四款AI模型同提示词生成对比",
+  "category": "comparison",
+  "author": {
+   "handle": "jony_palino",
+   "name": "Jony Palino"
+  },
+  "postUrl": "https://x.com/jony_palino/status/2122072152686121146",
+  "createdAt": "2026-11-15T21:00:02.000Z",
+  "durationMs": 16579,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2122072152686121146/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2122072152686121146/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122072152686121146"
  }
 ]

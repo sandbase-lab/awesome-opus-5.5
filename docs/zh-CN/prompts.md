@@ -2,12 +2,12 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 84 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 83 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (15)
-- [动效](#motion-graphics) (27)
+- [动效](#motion-graphics) (26)
 - [游戏](#game) (3)
 - [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
@@ -555,20 +555,6 @@ I asked Claude Opus 5.5 (Max) this prompt:
 It worked on its own for 1 hour 37 minutes and gave me this:
 
 → @claudeai
-```
-
-### 关于Opus与Haiku的动态设计故事短片
-
-[@kelanoo](https://x.com/kelanoo/status/2108199183983497433) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2108199183983497433/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108199183983497433?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-I used Opus 5.5 to make a motion design video about Haiku
-
-This is 100% motion graphics and code
-
-Short story about Opus delegating small tasks to Haiku
-
-Prompt in the comments
 ```
 
 ### Claude 模型生成的三个代码动画演示
