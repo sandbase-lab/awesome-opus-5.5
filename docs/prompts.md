@@ -2,11 +2,11 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-83 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+84 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
-- [3D scenes](#3d-scene) (15)
+- [3D scenes](#3d-scene) (16)
 - [Motion graphics](#motion-graphics) (26)
 - [Games](#game) (3)
 - [Product UI](#ui-demo) (11)
@@ -281,6 +281,18 @@ My input + 9 revisions in Claude Code using Blender
 Sound is still very weak (even in Fable) - so I'm cooking a plugin for Claude to make it sound better
 
  Try this prompt with any [OBJECT] 👇
+```
+
+### Endless papercraft world in Three.js
+
+[@xikhar](https://x.com/xikhar/status/2122682962647122403) · 0:54 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2122682962647122403/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122682962647122403?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Papertrails: an endless papercraft world that pops up around you.
+
+Built with Fable 5.2 and Opus 5.5, runs in the browser with three.js
+
+Full prompt and workflow steps below.
 ```
 
 <a id="motion-graphics"></a>

@@ -1331,24 +1331,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103738307033416132"
  },
  {
-  "id": "2103755997533839416",
-  "title": "Multi-character gameplay demo video",
-  "title_zh": "多角色游戏实机演示与混剪视频",
-  "category": "game",
-  "author": {
-   "handle": "rehan_shei",
-   "name": "Rehan Sheikh"
-  },
-  "postUrl": "https://x.com/rehan_shei/status/2103755997533839416",
-  "createdAt": "2026-09-26T07:58:10.000Z",
-  "durationMs": 29700,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103755997533839416/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103755997533839416/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103755997533839416"
- },
- {
   "id": "2103789882309234711",
   "title": "Sunset metal detector game demo",
   "title_zh": "落日背景下的金属探测器小游戏演示",
@@ -4020,24 +4002,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111120760660254842"
  },
  {
-  "id": "2111290504491258080",
-  "title": "Game world built with Opus 5.5 and Unreal",
-  "title_zh": "Opus 5.5 与虚幻引擎构建的游戏世界",
-  "category": "game",
-  "author": {
-   "handle": "xikhar",
-   "name": "Shikhar"
-  },
-  "postUrl": "https://x.com/xikhar/status/2111290504491258080",
-  "createdAt": "2026-10-17T02:57:36.000Z",
-  "durationMs": 95650,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111290504491258080/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2111290504491258080/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2111290504491258080"
- },
- {
   "id": "2111306207239557288",
   "title": "Real-time ocean rendered with WebGPU",
   "title_zh": "使用 WebGPU 渲染的实时海洋场景",
@@ -4547,24 +4511,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112671240964219290/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112671240964219290"
- },
- {
-  "id": "2112756630203011516",
-  "title": "Low versus Extra High effort haunted house in Blender",
-  "title_zh": "Blender鬼屋场景高低算力模式对比",
-  "category": "comparison",
-  "author": {
-   "handle": "MrTacticalX",
-   "name": "Mr Tactical"
-  },
-  "postUrl": "https://x.com/MrTacticalX/status/2112756630203011516",
-  "createdAt": "2026-10-21T04:03:28.000Z",
-  "durationMs": 45500,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112756630203011516/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2112756630203011516/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2112756630203011516"
  },
  {
   "id": "2112818481557123186",
@@ -5403,24 +5349,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114776375412363288"
  },
  {
-  "id": "2114834080122761701",
-  "title": "Opus 5.5 vs GPT-6.1 Sol vs Terra benchmark",
-  "title_zh": "Opus 5.5与GPT-6.1模型性能基准对比",
-  "category": "comparison",
-  "author": {
-   "handle": "EnvolDev",
-   "name": "Tony"
-  },
-  "postUrl": "https://x.com/EnvolDev/status/2114834080122761701",
-  "createdAt": "2026-10-26T21:38:31.000Z",
-  "durationMs": 25000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114834080122761701/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2114834080122761701/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2114834080122761701"
- },
- {
   "id": "2114942260353868116",
   "title": "The Little Prince paper cutout animation",
   "title_zh": "小王子剪纸风格动画短片",
@@ -6169,24 +6097,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117313324576821613"
  },
  {
-  "id": "2117391948348817828",
-  "title": "Vox-style reels side-by-side comparison",
-  "title_zh": "Vox风格短视频生成效果对比",
-  "category": "comparison",
-  "author": {
-   "handle": "naometzger",
-   "name": "Naomi Metzger"
-  },
-  "postUrl": "https://x.com/naometzger/status/2117391948348817828",
-  "createdAt": "2026-11-02T23:02:34.000Z",
-  "durationMs": 27910,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117391948348817828/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117391948348817828/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117391948348817828"
- },
- {
   "id": "2117404840678641954",
   "title": "Soft 3D animation with sentimental counters",
   "title_zh": "带情感计数器的柔和3D动画",
@@ -6845,24 +6755,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119746949121495303"
  },
  {
-  "id": "2119792716934721869",
-  "title": "Video compared with Opus 5.5 after ten iterations",
-  "title_zh": "经过十次迭代的视频与Opus 5.5对比",
-  "category": "comparison",
-  "author": {
-   "handle": "dhruvalgolakiya",
-   "name": "Dhruval"
-  },
-  "postUrl": "https://x.com/dhruvalgolakiya/status/2119792716934721869",
-  "createdAt": "2026-11-09T14:02:22.000Z",
-  "durationMs": 10125,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2119792716934721869/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2119792716934721869/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2119792716934721869"
- },
- {
   "id": "2119907318729245180",
   "title": "Cathedral of Ice generation benchmark comparison",
   "title_zh": "冰之大教堂生成效果对比",
@@ -7228,6 +7120,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121896633848017145"
  },
  {
+  "id": "2121916952134463637",
+  "title": "A fully modeled and functional excavator",
+  "title_zh": "一个功能完备的全建模挖掘机",
+  "category": "3d-scene",
+  "author": {
+   "handle": "aricccq",
+   "name": "Aric"
+  },
+  "postUrl": "https://x.com/aricccq/status/2121916952134463637",
+  "createdAt": "2026-11-15T10:43:19.000Z",
+  "durationMs": 18782,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121916952134463637/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121916952134463637/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121916952134463637"
+ },
+ {
   "id": "2121938110762103246",
   "title": "Open-world flight simulator built in Rust",
   "title_zh": "用Rust构建的开放世界飞行模拟器",
@@ -7281,5 +7191,96 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-argon/2122072152686121146/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122072152686121146"
+ },
+ {
+  "id": "2122312123183235554",
+  "title": "Tools for automated video editing with Claude Code",
+  "title_zh": "Claude Code 自动化视频编辑工具集",
+  "category": "explainer",
+  "author": {
+   "handle": "plusxbt",
+   "name": "plusxbt"
+  },
+  "postUrl": "https://x.com/plusxbt/status/2122312123183235554",
+  "createdAt": "2026-11-16T12:53:35.000Z",
+  "durationMs": 18000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122312123183235554/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122312123183235554/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122312123183235554"
+ },
+ {
+  "id": "2122415600802627683",
+  "title": "Side by side animated ad comparison",
+  "title_zh": "动画广告生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "maxxmalist",
+   "name": "MAX"
+  },
+  "postUrl": "https://x.com/maxxmalist/status/2122415600802627683",
+  "createdAt": "2026-11-16T19:44:46.000Z",
+  "durationMs": 59133,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122415600802627683/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122415600802627683/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122415600802627683"
+ },
+ {
+  "id": "2122682962647122403",
+  "title": "Endless papercraft world in Three.js",
+  "title_zh": "Three.js中的无尽折纸世界",
+  "category": "3d-scene",
+  "author": {
+   "handle": "xikhar",
+   "name": "Shikhar"
+  },
+  "postUrl": "https://x.com/xikhar/status/2122682962647122403",
+  "createdAt": "2026-11-17T13:27:10.000Z",
+  "durationMs": 54446,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122682962647122403/video.mp4",
+  "promptShared": true,
+  "promptText": "Papertrails: an endless papercraft world that pops up around you.\n\nBuilt with Fable 5.2 and Opus 5.5, runs in the browser with three.js\n\nFull prompt and workflow steps below.",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122682962647122403/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122682962647122403"
+ },
+ {
+  "id": "2122803967272866254",
+  "title": "Airplane generation comparison across multiple models",
+  "title_zh": "多模型生成飞机模型效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "EnvolDev",
+   "name": "Tony"
+  },
+  "postUrl": "https://x.com/EnvolDev/status/2122803967272866254",
+  "createdAt": "2026-11-17T21:28:00.000Z",
+  "durationMs": 25000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122803967272866254/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2122803967272866254/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122803967272866254"
+ },
+ {
+  "id": "2123003157613629556",
+  "title": "Lawn mower simulator game with 3D assets",
+  "title_zh": "AI生成的3D割草模拟游戏",
+  "category": "game",
+  "author": {
+   "handle": "_MaxBlade",
+   "name": "Max Blade"
+  },
+  "postUrl": "https://x.com/_MaxBlade/status/2123003157613629556",
+  "createdAt": "2026-11-18T10:39:30.000Z",
+  "durationMs": 45066,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2123003157613629556/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2123003157613629556/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2123003157613629556"
  }
 ]
