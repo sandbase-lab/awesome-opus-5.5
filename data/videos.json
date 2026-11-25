@@ -2514,24 +2514,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107175794145386838"
  },
  {
-  "id": "2107449104926482912",
-  "title": "Working 1857 Napoleon field cannon in Three.js",
-  "title_zh": "Three.js实时渲染的1857拿破仑野战炮",
-  "category": "3d-scene",
-  "author": {
-   "handle": "thebuggeddev",
-   "name": "The Bugged Dev"
-  },
-  "postUrl": "https://x.com/thebuggeddev/status/2107449104926482912",
-  "createdAt": "2026-10-06T12:33:15.000Z",
-  "durationMs": 50648,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107449104926482912/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107449104926482912/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107449104926482912"
- },
- {
   "id": "2107488996490166538",
   "title": "Claude takes a day off",
   "title_zh": "Claude 的假期休假动画",
@@ -7283,5 +7265,23 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125254550416175477/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2125254550416175477"
+ },
+ {
+  "id": "2125301257439170740",
+  "title": "Interactive 3D scene comparison between Opus models",
+  "title_zh": "Opus 模型生成交互式 3D 场景对比",
+  "category": "comparison",
+  "author": {
+   "handle": "pr0mptcat",
+   "name": "PromptCat"
+  },
+  "postUrl": "https://x.com/pr0mptcat/status/2125301257439170740",
+  "createdAt": "2026-11-24T18:51:20.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125301257439170740/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125301257439170740/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2125301257439170740"
  }
 ]
