@@ -2,16 +2,16 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 84 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 85 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (16)
-- [动效](#motion-graphics) (26)
+- [3D 场景](#3d-scene) (15)
+- [动效](#motion-graphics) (27)
 - [游戏](#game) (3)
 - [产品界面](#ui-demo) (11)
 - [图表图解](#data-viz) (1)
-- [讲解](#explainer) (12)
+- [讲解](#explainer) (13)
 - [发布片](#launch-film) (5)
 - [测试对比](#comparison) (10)
 
@@ -39,18 +39,6 @@ Full prompt below:
 flying through Van Gogh's The Starry Night
 
 opus 5.5 made this via filmera MCP using seedance 2.5.. free prompts below
-```
-
-### Opus与Seedance生成的3D动画场景
-
-[@HeyAbhishek](https://x.com/HeyAbhishek/status/2107458140279394589) · 0:30 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2107458140279394589/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107458140279394589?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-AI can literally do 3D animation now 🔥
-
-Opus 5.5 and Seedance 2.5 turned one prompt into this entire animated scene.
-
-Prompt 👇
 ```
 
 ### 3D重构速度与激情车祸场景
@@ -285,7 +273,7 @@ Sound is still very weak (even in Fable) - so I'm cooking a plugin for Claude to
 
 ### Three.js中的无尽折纸世界
 
-[@xikhar](https://x.com/xikhar/status/2122682962647122403) · 0:54 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2122682962647122403/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122682962647122403?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+[@xikhar](https://x.com/xikhar/status/2122682962647122403) · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2122682962647122403/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2122682962647122403?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
 
 ```text
 Papertrails: an endless papercraft world that pops up around you.
@@ -307,22 +295,6 @@ Full prompt and workflow steps below.
 opus 5.5, animated pixel art wizard, pure code
 
 prompt shared below 👇
-```
-
-### Opus 5.5生成的沙画动画
-
-[@Michaelzsguo](https://x.com/Michaelzsguo/status/2102592355165782312) · 2:00 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2102592355165782312/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102592355165782312?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-Opus 5.5，太牛逼了，我完完全全服。
-
-就一句简简单单的 prompt，其他什么都不需要。不用 Blender，不用 Three.js，Opus 5.5 自己就做出了这么精美的沙画动画，连配音和音效都自己搞定了。
-
-一个 prompt 到底，没有任何修改。
-
-请欣赏。
-
-提示词放在👇。
 ```
 
 ### 单条语音提示词生成的项目演示
@@ -865,6 +837,30 @@ Et chaque démo a son prompt d'origine donc tu prends celle que tu veux et tu la
 Une vidéo comme ça une agence te la facture plusieurs centaines d'euros, là tu la sors en quelques minutes et tu la postes tous les jours pour vendre ton app ou ton shop 💰
 
 Je te mets le lien en réponse 👇
+```
+
+### 同一场景的不同动画风格展示
+
+[@pradeepXkapoor](https://x.com/pradeepXkapoor/status/2124585991663153497) · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2124585991663153497/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2124585991663153497?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+Experimenting with different animation styles for the same scene. These are sooo satisfying to watch
+
+Made with Opus 5.5! 
+
+Sharing the prompt with you too, added below
+```
+
+### 基于Opus与Seedance生成的AI视频
+
+[@itsshara_ai](https://x.com/itsshara_ai/status/2124695716396507469) · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2124695716396507469/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2124695716396507469?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+This AI video is an Absolute Masterpiece🔥
+
+Opus 5.5 with Seedance 2.5 is unbelievablev
+
+Prompt below:
 ```
 
 <a id="game"></a>
@@ -1567,6 +1563,55 @@ npx skills add https://t.co/nEcLBqeEB0
 然后输入：做一集 Can you jump? 蜡笔风，玩具进行曲
 
 后续会继续增加玩法和风格，欢迎给个Star:
+```
+
+### Vox风格配音解说动画演示
+
+[@treyscalez](https://x.com/treyscalez/status/2124805520263422440) · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2124805520263422440/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2124805520263422440?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+this vox style animations are insanely easy to make with opus 5.5
+
+i made this video with a prompt and voice over using claude only 
+
+this used used to take hours of professional motion graphics and a budget
+
+well, not anymore cause am giving the entire prompt for free
+
+here's the prompt ->
+
+<inputs>
+Ask me for my voiceover (mp3 or wav) and its exact script, pasted as text. If I don't have one, pitch 3 map stories (a war, a voyage, a trade route, how a country was made), each with one surprising true fact, then write a 25-35 s script for me to record, one short sentence per beat. Ask if I have an SFX pack to upload. Then show me the beat list and the camera plan before you render anything.
+</inputs>
+
+<direction>
+A 1920x1080 Vox-style map explainer. The whole video lives on ONE engraved paper map, and the camera flies across it as the story moves. Collage pieces are pinned to real places: black-and-white halftone cut-outs, yellow paint, felt-marker ink, paper tags and ransom-note letters.
+- Palette: board #EFEBE3, ink #1D1C20, ONE accent yellow #EDBD2E, beige sheets #F1EDE4. No other colours, ever. Never a dark background.
+- Map engraving:
+  - Sea: 4 coast-parallel lines at 8/19/32/48 px from the shore, then wavy horizontal lines every 22 px.
+  - Land: a diagonal hatch every 22 px. The featured region gets a cross-hatch every 13 px.
+  - Lines: coastline 6 px. Borders 4 px dashed (22 on, 18 off). A dotted graticule every 10°. One compass rose in open sea.
+  - Labels: engraved place names in letter-spaced Libre Caslon (italic for oceans). No other text is baked into the map.
+- The featured region is painted yellow, multiplied at 90% so the hatching shows through, and revealed with a sweep (south→north, 16 frames) on the word that names it.
+- Everything animates on twos. Every paper piece "boils" ±1.5 px and ±0.4° every 8 frames. Pieces arrive with a slap (scale 1.1 → 0.98 → 1.0, on twos), never a fade.
+- Text only on paper: a title card, yellow tags, notes, ransom letters.
+  - Title card: top left, beige, 560 px wide, rotated −1.2°, with a small yellow "FIG. 0N" tag. Its serif lines (Libre Caslon, 68 px) type on at 1 letter per frame.
+  - Notes: Permanent Marker, 58-84 px, lower-case, written on at 1.3 letters per frame.
+  - Tags: Special Elite, 22-26 px, letter-spaced, on small yellow paper strips.
+  - Ransom letters: one cut-paper letter slapped down every 3-4 frames, cycling Caslon Bold, Anton and Special Elite on ink, beige and yellow squares.
+- Banned: any colour except the palette, photos of real people, logos, burned-in subtitles, glassy UI cards, a frame where nothing moves, and any invented fact.
+</direction>
+
+<structure>
+Length: the voice decides, plus a 1.3 s hold after the last word. One sentence = one beat. A beat starts 6 frames before its first word.
+0 s the home region at zoom ~0.6: it paints yellow on its name, and a ransom number slaps onto it
+→ pull out WIDE (~0.32) so both sides of the story fit: a dashed arc between them with a distance tag, and the far party as a cut-out pinned to its capital, circled
+→ the causes as arrows across the map, one per clause, each with a dated tag; a cut-out prop travels along the last arrow and lands
+→ zoom to the event city (~1.35): the date on the title card, pieces dropping in one by one with ink splash marks, and the big true number in ransom letters with a tag under it
+→ the reaction/joke beat at the same spot: a cut-out character, a marker note, an ink circle
+→ the next city (~1.15): a dated tag, a document cut-out; on the verb, pull WIDE and fly the document along a dashed trail to the other side
+→ the consequence back on the region (~0.7): an ink X per event, in date order, each with a "PLACE YEAR" tag
+→ final pull out WIDE: the payoff name in ransom letters over the region, the losing side's cut-out swapped for its sad version with a marker note, and a beige sheet bottom-centre with a bold Caslon line and a ransom payoff word underlined with a yellow highlighter. Hold …
 ```
 
 <a id="launch-film"></a>
