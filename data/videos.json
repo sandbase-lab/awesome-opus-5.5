@@ -1093,24 +1093,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103495232637882858"
  },
  {
-  "id": "2103497319899693327",
-  "title": "HTML and code promotional video",
-  "title_zh": "纯代码逐帧渲染制作的PV视频",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "Majin_AppSheet",
-   "name": "まじん"
-  },
-  "postUrl": "https://x.com/Majin_AppSheet/status/2103497319899693327",
-  "createdAt": "2026-09-25T14:50:16.000Z",
-  "durationMs": 10005,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103497319899693327/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103497319899693327/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103497319899693327"
- },
- {
   "id": "2103499977632997524",
   "title": "A 30-second business explainer video",
   "title_zh": "30秒商业解说视频演示",
@@ -7283,5 +7265,23 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125301257439170740/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2125301257439170740"
+ },
+ {
+  "id": "2125779541952246039",
+  "title": "A civilization style game map populated with real data",
+  "title_zh": "一张填充了真实数据的文明风格游戏地图",
+  "category": "game",
+  "author": {
+   "handle": "karpathy",
+   "name": "Andrej Karpathy"
+  },
+  "postUrl": "https://x.com/karpathy/status/2125779541952246039",
+  "createdAt": "2026-11-26T02:31:52.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125779541952246039/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125779541952246039/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2125779541952246039"
  }
 ]
