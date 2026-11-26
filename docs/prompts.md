@@ -2,14 +2,14 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-85 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
+84 Claude Opus 5.5 videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Opus 5.5 on SandBase Lab. New to prompting Opus 5.5? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (15)
 - [Motion graphics](#motion-graphics) (27)
 - [Games](#game) (3)
-- [Product UI](#ui-demo) (11)
+- [Product UI](#ui-demo) (10)
 - [Charts & diagrams](#data-viz) (1)
 - [Explainers](#explainer) (13)
 - [Launch films](#launch-film) (5)
@@ -1009,16 +1009,6 @@ f0–29, type: the box starts at x884 y635 709x112 and eases out to x570 y477 77
 f29–44, charge: a violet solarised wash floods the scene (peak f36). The box tilts back up to 12° (rotateX, peak f36), the handles fly out to the frame corners, and an ASCII field of % @ # ⨸ glyphs appears at the left and right edges. The box grows to a tall card x541–1374, y425→227. On f40–48 the rest of the prompt bursts in (about 50 characters per frame) and fills ~12 lines.
 f48–63, settle: the tall card lands at x575 y227 766x626. The camera eases back toward the subject. A black cursor appears on f55 at (1455,595), pointing up-left, and grows to 112 px.
 f64–96, press: …
-```
-
-### Calorie tracker app prototype with voice and music
-
-[@anshuc](https://x.com/anshuc/status/2104262648519156094) · 0:38 · [Watch](https://www.sandbase.ai/lab/media/x/opus-5-5/2104262648519156094/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104262648519156094?utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-I have an addiction to one-shotting calorie trackers so you know I had to try it on Opus 5.5, and WTF this model is CRAZY
-
-One massive prompt plus a tiny followup. Full app, music, voice, editing, all of it. 10% quota on the Max plan. Prompts and full breakdown below.
 ```
 
 ### Reverse engineering TV interface with Claude Opus

@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 85 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
+共 84 条 Claude Opus 5.5 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Opus 5.5 一键 **复刻**。第一次写 Opus 5.5 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (15)
 - [动效](#motion-graphics) (27)
 - [游戏](#game) (3)
-- [产品界面](#ui-demo) (11)
+- [产品界面](#ui-demo) (10)
 - [图表图解](#data-viz) (1)
 - [讲解](#explainer) (13)
 - [发布片](#launch-film) (5)
@@ -1009,16 +1009,6 @@ f0–29, type: the box starts at x884 y635 709x112 and eases out to x570 y477 77
 f29–44, charge: a violet solarised wash floods the scene (peak f36). The box tilts back up to 12° (rotateX, peak f36), the handles fly out to the frame corners, and an ASCII field of % @ # ⨸ glyphs appears at the left and right edges. The box grows to a tall card x541–1374, y425→227. On f40–48 the rest of the prompt bursts in (about 50 characters per frame) and fills ~12 lines.
 f48–63, settle: the tall card lands at x575 y227 766x626. The camera eases back toward the subject. A black cursor appears on f55 at (1455,595), pointing up-left, and grows to 112 px.
 f64–96, press: …
-```
-
-### 带配音与音乐的卡路里追踪应用原型
-
-[@anshuc](https://x.com/anshuc/status/2104262648519156094) · 0:38 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2104262648519156094/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104262648519156094?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-I have an addiction to one-shotting calorie trackers so you know I had to try it on Opus 5.5, and WTF this model is CRAZY
-
-One massive prompt plus a tiny followup. Full app, music, voice, editing, all of it. 10% quota on the Max plan. Prompts and full breakdown below.
 ```
 
 ### 使用Claude Opus逆向工程电视界面
