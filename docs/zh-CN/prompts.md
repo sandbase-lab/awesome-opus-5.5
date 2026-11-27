@@ -527,20 +527,6 @@ I'm dropping all prompts used in the comments
 This is INSANE 🫣
 ```
 
-### Claude自主生成的动态展示视频
-
-[@HBCoop_](https://x.com/HBCoop_/status/2107139305324122491) · 0:29 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2107139305324122491/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107139305324122491?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
-
-```text
-I asked Claude Opus 5.5 (Max) this prompt:
-
-"Create me a motion video of your choice, with the sole purpose of flexing Opus 5.5 capabilities."
-
-It worked on its own for 1 hour 37 minutes and gave me this:
-
-→ @claudeai
-```
-
 ### Claude 模型生成的三个代码动画演示
 
 [@N01ennn](https://x.com/N01ennn/status/2108520767092597182) · 0:53 · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2108520767092597182/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2108520767092597182?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
@@ -861,6 +847,49 @@ This AI video is an Absolute Masterpiece🔥
 Opus 5.5 with Seedance 2.5 is unbelievablev
 
 Prompt below:
+```
+
+### 适合故事短片的动画风格提示词
+
+[@treyscalez](https://x.com/treyscalez/status/2126041304421323256) · [观看](https://www.sandbase.ai/lab/media/x/opus-5-5/2126041304421323256/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/opus-5-5/2126041304421323256?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-opus-5.5&utm_content=prompt-index)
+
+```text
+this animation style is about to go viral on youtube
+
+i made a prompt that lets u create it inside opus 5.5
+
+note : this prompt is highly focused on low end pcs and models so everyone could make videos with ai
+
+proceed with caution 
+
+am giving the prompt below for free as always
+
+here's the prompt ->
+
+<inputs>
+Ask me for: the story (a true event, a legend, a "what if", or just a topic and you pitch me 5 story ideas), the length (default 60 to 90 seconds, or a 10 second test scene), and the voice (I upload my own voiceover, you write a script for me to record, or captions only with no voice). Then ask if I am uploading a sound effects pack and any reference frames. Everything else you decide from the story: the cast, the era, the sets, the palette. If I upload references, study them at full size and zoomed to pixel level before drawing anything.
+</inputs>
+
+<direction>
+Turn any story into an animated short that looks like an old hand-inked cartoon cel, drawn fully in code. No AI image or video generators, no stock art, no photos. Design a new original cast for every story. Never copy a character from my references or from any existing channel. Historical figures are fine as caricatures. Never draw a real living person.
+
+The style is fixed. Only the story, cast, sets and palette change.
+
+LINE. Thin dip-pen ink, about 3 to 5 px at 1080 wide. Strokes swell with pressure and end in points. Ink is warm sepia-black (#170b08), never navy or pure digital black. The finest strokes go dark red (#4d140a) and slightly see-through. Outlines wobble a little. Never thick, even, sticker-style outlines.
+
+COLOUR. Flat fills, no gradients on characters. Pick 4 or 5 colours per video from the story's world and lock them: one blue (cobalt or periwinkle), one warm skin tone used for the whole cast (hot pink, salmon or orange-red), one pale (cream or lilac), and one or two accents (gold, red, green). Skin gets one darker tone where something throws shade and one lighter tone where fat or bone catches light. Nothing else.
+
+CAST. Caricature, not anatomy. Give every character one silhouette and one feature you could recognise from across a room: a huge jaw, a long nose, a moustache, gold teeth, a hat, a hairstyle. Heads are big lumpy masses with small features crowded in the middle. Vary the build across the cast: one huge, one thin, one short. Leads get full detail. Extras get the same line with fewer marks. Age and weight are drawn as structure: jowls, a second chin, deep nose-to-jowl folds, stacked bags under the eyes, wrinkles that follow the skull. Eyes are small with a hooded lid, lilac whites and a thick lash line. Facial hair is solid black or pale with barbed edges.
+
+TEXTURE. Short ticks and dots, never long hatching. Rows of small dashes for fur, wool and knit. Tick marks and pores on skin, bristles for stubble. Patterned cloth gets real pattern: plaid, brocade scrolls, medallions, florals. Stone gets broken course lines and branching cracks. Wood gets grain ticks and plank seams.
+
+HANDS. Two separate hands, one lit and one in shade. Padded finger joints, crease ticks at the knuckles, a short dark nail that stops at the fingertip, knuckle bumps, and a ring where the character would wear one.
+
+SETS. Build each location from the story: throne room, street, farm, ship, courtroom, market, battlefield. Light is always two flat tones split by hard diagonal edges. At night, lit surfaces are pink or salmon and shadow is cobalt, under a pale moon with a soft halo. By day, the sky is pale blue, sunlit surfaces are warm and shadows are blue-violet. Interiors get one shaft of light from a window or door, falling as a warm patch on a cool room. Add one sparkle glint on any lamp, coin or blade. Behind a close-up, throw the set out of focus.
+
+PROPS. Every noun in the script gets a visual. Money, letters, weapons, food and animals are drawn in the same ink and flat colour, never left as words.
+
+EXPRESSIONS. Give each lead at least five heads: neutral, blink, a…
 ```
 
 <a id="game"></a>

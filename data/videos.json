@@ -13,7 +13,7 @@
   "durationMs": 28000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102437977435893771/video.mp4",
   "promptShared": false,
-  "featured": 6,
+  "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102437977435893771/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102437977435893771"
  },
@@ -648,7 +648,7 @@
   "durationMs": 240033,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102987981695132140/video.mp4",
   "promptShared": false,
-  "featured": 0,
+  "featured": 1,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2102987981695132140/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2102987981695132140"
  },
@@ -1307,7 +1307,7 @@
   "durationMs": 31686,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103821040174698674/video.mp4",
   "promptShared": false,
-  "featured": 2,
+  "featured": 3,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2103821040174698674/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2103821040174698674"
  },
@@ -1707,7 +1707,7 @@
   "durationMs": 103759,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104215873120764032/video.mp4",
   "promptShared": false,
-  "featured": 5,
+  "featured": 6,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104215873120764032/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104215873120764032"
  },
@@ -1870,7 +1870,7 @@
   "durationMs": 15000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104618175803609305/video.mp4",
   "promptShared": false,
-  "featured": 1,
+  "featured": 2,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2104618175803609305/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2104618175803609305"
  },
@@ -2181,7 +2181,7 @@
   "durationMs": 270016,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106027834217259394/video.mp4",
   "promptShared": false,
-  "featured": 4,
+  "featured": 5,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2106027834217259394/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2106027834217259394"
  },
@@ -2438,25 +2438,6 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107073547701289211/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107073547701289211"
- },
- {
-  "id": "2107139305324122491",
-  "title": "Self-directed motion video by Claude Opus 5.5",
-  "title_zh": "Claude自主生成的动态展示视频",
-  "category": "motion-graphics",
-  "author": {
-   "handle": "HBCoop_",
-   "name": "Heather Cooper"
-  },
-  "postUrl": "https://x.com/HBCoop_/status/2107139305324122491",
-  "createdAt": "2026-10-05T16:02:13.000Z",
-  "durationMs": 29000,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107139305324122491/video.mp4",
-  "promptShared": true,
-  "promptText": "I asked Claude Opus 5.5 (Max) this prompt:\n\n\"Create me a motion video of your choice, with the sole purpose of flexing Opus 5.5 capabilities.\"\n\nIt worked on its own for 1 hour 37 minutes and gave me this:\n\n→ @claudeai",
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2107139305324122491/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2107139305324122491"
  },
  {
   "id": "2107175794145386838",
@@ -4728,24 +4709,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113710699298066772"
  },
  {
-  "id": "2113937338938150958",
-  "title": "Four AI models generating a water pump",
-  "title_zh": "四款 AI 模型生成水泵机制对比",
-  "category": "comparison",
-  "author": {
-   "handle": "kinderlayer",
-   "name": "Kinder"
-  },
-  "postUrl": "https://x.com/kinderlayer/status/2113937338938150958",
-  "createdAt": "2026-10-24T10:15:11.000Z",
-  "durationMs": 13116,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113937338938150958/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2113937338938150958/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2113937338938150958"
- },
- {
   "id": "2114004943996846516",
   "title": "Cyberpunk city with flying cars in Three.js",
   "title_zh": "Three.js生成的飞车赛博朋克城市",
@@ -5526,7 +5489,7 @@
   "durationMs": 25000,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116289885870981296/video.mp4",
   "promptShared": false,
-  "featured": 3,
+  "featured": 4,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2116289885870981296/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2116289885870981296"
  },
@@ -5782,7 +5745,7 @@
   "durationMs": 80666,
   "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117169796290916732/video.mp4",
   "promptShared": false,
-  "featured": null,
+  "featured": 0,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2117169796290916732/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2117169796290916732"
  },
@@ -6829,24 +6792,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121896633848017145"
  },
  {
-  "id": "2121916952134463637",
-  "title": "A fully modeled and functional excavator",
-  "title_zh": "一个功能完备的全建模挖掘机",
-  "category": "3d-scene",
-  "author": {
-   "handle": "aricccq",
-   "name": "Aric"
-  },
-  "postUrl": "https://x.com/aricccq/status/2121916952134463637",
-  "createdAt": "2026-11-15T10:43:19.000Z",
-  "durationMs": 18782,
-  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121916952134463637/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2121916952134463637/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2121916952134463637"
- },
- {
   "id": "2121938110762103246",
   "title": "Open-world flight simulator built in Rust",
   "title_zh": "用Rust构建的开放世界飞行模拟器",
@@ -7212,6 +7157,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2125301257439170740"
  },
  {
+  "id": "2125563003462615488",
+  "title": "Chinese sailing ships scene comparison",
+  "title_zh": "中国帆船场景生成效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "N1njaCodex",
+   "name": "NinjaCodex"
+  },
+  "postUrl": "https://x.com/N1njaCodex/status/2125563003462615488",
+  "createdAt": "2026-11-25T12:11:25.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125563003462615488/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125563003462615488/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2125563003462615488"
+ },
+ {
   "id": "2125609960952242194",
   "title": "A stylish showreel generated by Opus Next",
   "title_zh": "Opus Next生成的时尚展示短片",
@@ -7282,5 +7245,42 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125909076781527361/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2125909076781527361"
+ },
+ {
+  "id": "2125976371600257533",
+  "title": "A living human spine with anatomical physics",
+  "title_zh": "具备真实解剖物理效果的人体脊柱",
+  "category": "3d-scene",
+  "author": {
+   "handle": "thegreatest_sv",
+   "name": "kiosa"
+  },
+  "postUrl": "https://x.com/thegreatest_sv/status/2125976371600257533",
+  "createdAt": "2026-11-26T15:34:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125976371600257533/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2125976371600257533/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2125976371600257533"
+ },
+ {
+  "id": "2126041304421323256",
+  "title": "Animation style prompt for storytelling videos",
+  "title_zh": "适合故事短片的动画风格提示词",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "treyscalez",
+   "name": "trey"
+  },
+  "postUrl": "https://x.com/treyscalez/status/2126041304421323256",
+  "createdAt": "2026-11-26T19:52:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/opus-5-5/2126041304421323256/video.mp4",
+  "promptShared": true,
+  "promptText": "this animation style is about to go viral on youtube\n\ni made a prompt that lets u create it inside opus 5.5\n\nnote : this prompt is highly focused on low end pcs and models so everyone could make videos with ai\n\nproceed with caution \n\nam giving the prompt below for free as always\n\nhere's the prompt ->\n\n<inputs>\nAsk me for: the story (a true event, a legend, a \"what if\", or just a topic and you pitch me 5 story ideas), the length (default 60 to 90 seconds, or a 10 second test scene), and the voice (I upload my own voiceover, you write a script for me to record, or captions only with no voice). Then ask if I am uploading a sound effects pack and any reference frames. Everything else you decide from the story: the cast, the era, the sets, the palette. If I upload references, study them at full size and zoomed to pixel level before drawing anything.\n</inputs>\n\n<direction>\nTurn any story into an animated short that looks like an old hand-inked cartoon cel, drawn fully in code. No AI image or video generators, no stock art, no photos. Design a new original cast for every story. Never copy a character from my references or from any existing channel. Historical figures are fine as caricatures. Never draw a real living person.\n\nThe style is fixed. Only the story, cast, sets and palette change.\n\nLINE. Thin dip-pen ink, about 3 to 5 px at 1080 wide. Strokes swell with pressure and end in points. Ink is warm sepia-black (#170b08), never navy or pure digital black. The finest strokes go dark red (#4d140a) and slightly see-through. Outlines wobble a little. Never thick, even, sticker-style outlines.\n\nCOLOUR. Flat fills, no gradients on characters. Pick 4 or 5 colours per video from the story's world and lock them: one blue (cobalt or periwinkle), one warm skin tone used for the whole cast (hot pink, salmon or orange-red), one pale (cream or lilac), and one or two accents (gold, red, green). Skin gets one darker tone where something throws shade and one lighter tone where fat or bone catches light. Nothing else.\n\nCAST. Caricature, not anatomy. Give every character one silhouette and one feature you could recognise from across a room: a huge jaw, a long nose, a moustache, gold teeth, a hat, a hairstyle. Heads are big lumpy masses with small features crowded in the middle. Vary the build across the cast: one huge, one thin, one short. Leads get full detail. Extras get the same line with fewer marks. Age and weight are drawn as structure: jowls, a second chin, deep nose-to-jowl folds, stacked bags under the eyes, wrinkles that follow the skull. Eyes are small with a hooded lid, lilac whites and a thick lash line. Facial hair is solid black or pale with barbed edges.\n\nTEXTURE. Short ticks and dots, never long hatching. Rows of small dashes for fur, wool and knit. Tick marks and pores on skin, bristles for stubble. Patterned cloth gets real pattern: plaid, brocade scrolls, medallions, florals. Stone gets broken course lines and branching cracks. Wood gets grain ticks and plank seams.\n\nHANDS. Two separate hands, one lit and one in shade. Padded finger joints, crease ticks at the knuckles, a short dark nail that stops at the fingertip, knuckle bumps, and a ring where the character would wear one.\n\nSETS. Build each location from the story: throne room, street, farm, ship, courtroom, market, battlefield. Light is always two flat tones split by hard diagonal edges. At night, lit surfaces are pink or salmon and shadow is cobalt, under a pale moon with a soft halo. By day, the sky is pale blue, sunlit surfaces are warm and shadows are blue-violet. Interiors get one shaft of light from a window or door, falling as a warm patch on a cool room. Add one sparkle glint on any lamp, coin or blade. Behind a close-up, throw the set out of focus.\n\nPROPS. Every noun in the script gets a visual. Money, letters, weapons, food and animals are drawn in the same ink and flat colour, never left as words.\n\nEXPRESSIONS. Give each lead at least five heads: neutral, blink, a…",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/opus-5-5/2126041304421323256/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/opus-5-5/2126041304421323256"
  }
 ]
